@@ -1,0 +1,18 @@
+[Event "Rated blitz game"]
+[Site "https://lichess.org/zhQLjKhh"]
+[Date "2022.10.19"]
+[White "peterchero"]
+[Black "anuj_talwar1"]
+[Result "0-1"]
+[UTCDate "2022.10.19"]
+[UTCTime "21:06:50"]
+[WhiteElo "1148"]
+[BlackElo "1155"]
+[WhiteRatingDiff "-60"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D02"]
+[Termination "Time forfeit"]
+                
+1. d4  d5 2. Nf3  Bf5 3. Nc3  e6 4. Bf4  Bd6 5. Bxd6  cxd6 6. Qd2  Nc6 7. O-O-O  Nf6 8. h3  Ne4 9. Nxe4  Bxe4 10. g4  Bxf3 11. exf3  O-O 12. Bd3  f6 13. h4  e5 14. g5  Nxd4 15. g6  Nxf3 16. gxh7+  Kf7 17. Qe3  e4 18. Be2  Nxh4 19. Rxh4  f5 20. Rdh1  g5 21. Bh5+  Kg7 22. Qc3+  Kxh7 23. Bf7+  gxh4 24. Qg3  Rxf7 25. Rxh4+  Qxh4 26. Qxh4+  Kg6 27. Qg3+  Kf6 28. Qxd6+  Kg7 29. Qg3+  Kf6 30. Qh4+  Ke5 31. Qh6  Rc8 32. Qg6  Rf6 33. Qg7  Rb8 34. Qe7+  Re6 35. Qc7+  Kd4 36. Qxb8  Rh6 37. Qxb7  e3 38. Qb4+  Ke5 39. fxe3  Rh1+ 40. Kd2  Rh2+ 41. Kc3  Rh3 42. Qd4+  Kd6 43. Qf4+  Kc5 44. Qc7+  Kb5 45. Qc5+  Kxc5 46. Kd2  Rh4 47. Ke2  Rh2+ 48. Kf1  Rh1+ 0-1

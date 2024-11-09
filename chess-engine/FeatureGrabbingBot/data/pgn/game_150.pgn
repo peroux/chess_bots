@@ -1,0 +1,18 @@
+[Event "Rated blitz game"]
+[Site "https://lichess.org/rFoI12EK"]
+[Date "2024.01.28"]
+[White "Sicilycartman"]
+[Black "peterchero"]
+[Result "0-1"]
+[UTCDate "2024.01.28"]
+[UTCTime "16:45:42"]
+[WhiteElo "1269"]
+[BlackElo "1298"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+11"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D00"]
+[Termination "Normal"]
+                
+1. d4  d5 2. Bf4  Nf6 3. e3  g6 4. g3  Bg7 5. c4  O-O 6. h4  Nbd7 7. h5  Nb6 8. hxg6  fxg6 9. Bh6  Bf5 10. Nf3  Nxc4 11. Bxc4  dxc4 12. Ng5  Bxh6 13. Rxh6  Qd5 14. Nc3  Qa5 15. Qa4  Qb6 16. Qxc4+  Kh8 17. Nf7+  Kg7 18. Nd5  Qa5+ 19. b4  Qxd5 20. Qxd5  Nxd5 21. Rh1  Rxf7 22. Rc1  c6 23. f3  Nxe3 24. Ke2  Nd5 0-1

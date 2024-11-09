@@ -1,0 +1,16 @@
+[Event "Casual rapid game"]
+[Site "https://lichess.org/EjsRSPcP"]
+[Date "2023.01.30"]
+[White "peterchero"]
+[Black "HishamGamal"]
+[Result "0-1"]
+[UTCDate "2023.01.30"]
+[UTCTime "16:55:01"]
+[WhiteElo "1322"]
+[BlackElo "1589"]
+[Variant "Standard"]
+[TimeControl "600+10"]
+[ECO "A04"]
+[Termination "Normal"]
+                
+1. Nf3  Nc6 2. b3  e5 3. Bb2  e4 4. Nd4  Nxd4 5. Bxd4  c5 6. Bb2  d5 7. d3  exd3 8. Qxd3  Be6 9. Qb5+  Qd7 10. Qxc5  Bxc5 0-1

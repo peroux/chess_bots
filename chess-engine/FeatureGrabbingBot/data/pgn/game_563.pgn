@@ -1,0 +1,18 @@
+[Event "Rated bullet game"]
+[Site "https://lichess.org/B79oW1Bl"]
+[Date "2024.01.14"]
+[White "peterchero"]
+[Black "iyetorre"]
+[Result "1-0"]
+[UTCDate "2024.01.14"]
+[UTCTime "18:47:44"]
+[WhiteElo "1223"]
+[BlackElo "1161"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "C41"]
+[Termination "Time forfeit"]
+                
+1. e4  e5 2. Nf3  d6 3. g3  Nc6 4. Bg2  Nf6 5. O-O  Be7 6. c3  O-O 7. d4  b6 8. d5  Na5 9. Qd2  Ba6 10. Na3  Bxf1 11. Kxf1  Nc6 12. Nb5  Na5 13. b3  c6 14. Na3  cxd5 15. exd5  Nb7 16. b4  b5 17. Nc2  a6 18. a4  bxa4 19. Rxa4  h6 20. Na3  Qd7 21. Nc4  Qxa4 22. Nb6  Qb5+ 23. Nc4  Qb6 24. Nxb6  Rab8 25. c4  Ne4 26. Qe3  f5 27. Nd2  Bg5 28. Qe2  Nxd2+ 29. Bxd2  Bxd2 30. Qxd2  Nd8 31. c5  dxc5 32. bxc5  Ne6 33. Nd7  Rfd8 34. Nxb8  Rxb8 35. d6  Rb1+ 36. Ke2  Nd4+ 37. Kd3  Rb3+ 38. Kc4  Kh7 39. Kd5 1-0

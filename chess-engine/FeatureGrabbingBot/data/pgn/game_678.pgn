@@ -1,0 +1,18 @@
+[Event "Rated blitz game"]
+[Site "https://lichess.org/3Ma2nhaL"]
+[Date "2023.03.24"]
+[White "peterchero"]
+[Black "GaftonA"]
+[Result "0-1"]
+[UTCDate "2023.03.24"]
+[UTCTime "20:46:15"]
+[WhiteElo "1070"]
+[BlackElo "1105"]
+[WhiteRatingDiff "-17"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D02"]
+[Termination "Normal"]
+                
+1. Nf3  d5 2. d4  Nc6 3. Bf4  Bf5 4. Nc3  Nb4 5. e4  dxe4 6. Ne5  e3 7. Nxf7  Qd7 8. Nxh8  Nxc2+ 9. Ke2  Nxa1 10. Kxe3  Nc2+ 11. Kf3  Qd5+ 12. Kg3  Qe6 13. Qh5+  g6 14. Nxg6  hxg6 15. Qh8  O-O-O 16. h3  Rxd4 17. Kh2  Rxf4 18. g3  Rxf2+ 19. Kg1  Qe1 20. Qxg8  Qxf1# 0-1

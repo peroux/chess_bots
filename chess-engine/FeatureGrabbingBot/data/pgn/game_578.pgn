@@ -1,0 +1,16 @@
+[Event "Casual blitz game"]
+[Site "https://lichess.org/91GHCwlC"]
+[Date "2023.11.17"]
+[White "peterchero"]
+[Black "rnddlr"]
+[Result "1-0"]
+[UTCDate "2023.11.17"]
+[UTCTime "19:33:49"]
+[WhiteElo "1232"]
+[BlackElo "1412"]
+[Variant "Standard"]
+[TimeControl "300+3"]
+[ECO "D02"]
+[Termination "Normal"]
+                
+1. d4  d5 2. Nf3  Nf6 3. Bf4  Bg4 4. Nc3  e6 5. g3  c5 6. Bg2  cxd4 7. Nxd4  Qb6 8. Nb3  Bb4 9. Qd2  Ne4 10. Bxe4  dxe4 11. O-O-O  O-O 12. f3  Bh5 13. fxe4  Nc6 14. Qe3  Qa6 15. Bd6  Rfd8 16. Bxb4  Nxb4 17. Rxd8+  Rxd8 18. Rd1  Rxd1+ 19. Kxd1  Qd6+ 20. Kc1  Bg6 21. Qxa7  h6 22. Qxb7  f6 23. Nb5  Nxa2+ 24. Kb1 1-0

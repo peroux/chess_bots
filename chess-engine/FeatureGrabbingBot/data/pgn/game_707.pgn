@@ -1,0 +1,16 @@
+[Event "Casual blitz game"]
+[Site "https://lichess.org/U7wRJbFh"]
+[Date "2023.01.24"]
+[White "peterchero"]
+[Black "Alibaburr"]
+[Result "1-0"]
+[UTCDate "2023.01.24"]
+[UTCTime "18:04:51"]
+[WhiteElo "1100"]
+[BlackElo "1144"]
+[Variant "Standard"]
+[TimeControl "300+3"]
+[ECO "A04"]
+[Termination "Normal"]
+                
+1. Nf3  c6 2. d4  d5 3. Nc3  c5 4. Bf4  cxd4 5. Nxd4  Nc6 6. Ncb5  Nxd4 7. Nc7+  Qxc7 8. Bxc7  Nc6 9. Qxd5  e6 10. Qb5  a6 11. Qd3  Nge7 12. O-O-O  Nd5 13. e4  Nxc7 14. g3  e5 15. Bg2  g6 16. f4  exf4 17. e5  Bg7 18. Bxc6+  bxc6 19. Qd8# 1-0

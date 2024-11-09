@@ -1,0 +1,16 @@
+[Event "Casual bullet game"]
+[Site "https://lichess.org/pw9bvA0S"]
+[Date "2022.02.21"]
+[White "Russia_without_Putin"]
+[Black "peterchero"]
+[Result "1-0"]
+[UTCDate "2022.02.21"]
+[UTCTime "00:30:56"]
+[WhiteElo "1828"]
+[BlackElo "1342"]
+[Variant "Standard"]
+[TimeControl "60+1"]
+[ECO "D02"]
+[Termination "Normal"]
+                
+1. Nf3  Nc6 2. d4  d5 3. Bf4  Nf6 4. a3  Qd7 5. e3  e5 6. Bg3  e4 7. Nfd2  Bd6 8. c4  dxc4 9. Nxc4  Bxg3 10. hxg3  Nd5 11. Nc3  O-O 12. Rc1  Qe6 13. Nd2  Bd7 14. Qh5  Rae8 15. Qxh7# 1-0

@@ -1,0 +1,18 @@
+[Event "Rated blitz game"]
+[Site "https://lichess.org/aGEF9ovg"]
+[Date "2024.01.21"]
+[White "peterchero"]
+[Black "Tabornero"]
+[Result "0-1"]
+[UTCDate "2024.01.21"]
+[UTCTime "15:26:24"]
+[WhiteElo "1255"]
+[BlackElo "1225"]
+[WhiteRatingDiff "-15"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D02"]
+[Termination "Time forfeit"]
+                
+1. d4  d5 2. Nf3  Nf6 3. g3  e6 4. Bg2  Nc6 5. O-O  Bd6 6. Nc3  Bd7 7. Re1  O-O 8. Ne5  Nxe5 9. dxe5  Bxe5 10. Bd2  Bc6 11. f4  Bd4+ 12. e3  Bb6 13. b3  Ne4 14. Na4  Nxd2 15. Nxb6  axb6 16. Qxd2  Qf6 17. Qf2  Rad8 18. Red1  Qb2 19. Rd3  Qa3 20. Rad1  Bb5 21. b4  Bxd3 22. Rxd3  Qxa2 23. e4  Qb1+ 24. Bf1  Qxb4 25. exd5  Rxd5 26. Rb3  Qd6 27. Bg2  Rd2 28. Qf3  Rd1+ 29. Bf1  Rd5 30. Rd3  c6 31. Rxd5  cxd5 32. Bg2  b5 33. c3  b4 34. cxb4  Qxb4 35. Qf1  Qc5+ 36. Kh1  b5 37. Qb1  b4 38. Bf1  g6 39. Bd3  Rb8 40. g4  b3 41. h4  b2 42. f5  d4 43. fxe6  Qd5+ 44. Kh2  Qxe6 45. h5  Qe5+ 46. Kh3  Qc5 47. hxg6  fxg6 48. Bxg6  Kg7 0-1

@@ -1,0 +1,18 @@
+[Event "Rated bullet game"]
+[Site "https://lichess.org/19oqFLOl"]
+[Date "2024.01.19"]
+[White "peterchero"]
+[Black "Arpann"]
+[Result "0-1"]
+[UTCDate "2024.01.19"]
+[UTCTime "02:37:22"]
+[WhiteElo "1268"]
+[BlackElo "1258"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "D02"]
+[Termination "Normal"]
+                
+1. d4  Nf6 2. Nf3  d5 3. g3  e6 4. Bg2  Bd6 5. O-O  Nc6 6. Bf4  Bxf4 7. gxf4  Qe7 8. e4  dxe4 9. Ne5  Nxe5 10. fxe5  Nd5 11. Bxe4  Bd7 12. Bxd5  exd5 13. Nc3  Qb4 14. Nxd5  Qxb2 15. Nxc7+  Kf8 16. Nxa8  Qc3 17. d5  Qxe5 18. Rb1  Bh3 19. Rxb7  Qg5+ 20. Kh1  Qg2# 0-1

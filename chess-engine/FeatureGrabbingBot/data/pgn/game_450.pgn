@@ -1,0 +1,16 @@
+[Event "Casual bullet game"]
+[Site "https://lichess.org/DLJig347"]
+[Date "2024.07.15"]
+[White "peterchero"]
+[Black "Matelisto"]
+[Result "1-0"]
+[UTCDate "2024.07.15"]
+[UTCTime "14:01:09"]
+[WhiteElo "1400"]
+[BlackElo "1340"]
+[Variant "Standard"]
+[TimeControl "120+0"]
+[ECO "A40"]
+[Termination "Normal"]
+                
+1. d4  b6 2. Nf3  Bb7 3. g3  e6 4. Bg2  Qe7 5. O-O  h5 6. c4  Nc6 7. Nc3  O-O-O 8. b4  Nxb4 9. Rb1  f6 10. Ba3  a5 11. Qa4  g5 12. Nd2  Bxg2 13. Kxg2  h4 14. Rxb4  axb4 15. Qa8# 1-0

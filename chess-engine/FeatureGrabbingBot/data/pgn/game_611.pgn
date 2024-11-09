@@ -1,0 +1,18 @@
+[Event "Rated bullet game"]
+[Site "https://lichess.org/K2TRgd46"]
+[Date "2023.04.24"]
+[White "peterchero"]
+[Black "Zekv"]
+[Result "1-0"]
+[UTCDate "2023.04.24"]
+[UTCTime "00:22:13"]
+[WhiteElo "1207"]
+[BlackElo "1246"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-79"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "D02"]
+[Termination "Normal"]
+                
+1. d4  d5 2. Nf3  e6 3. Nc3  f6 4. Bf4  f5 5. Nb5  g6 6. Nxc7+  Qxc7 7. Bxc7  Bg7 8. c3  Bxd4 9. cxd4  e5 10. dxe5  Nf6 11. Qa4+  Bd7 1-0

@@ -1,0 +1,18 @@
+[Event "Rated blitz game"]
+[Site "https://lichess.org/BBMQrdxT"]
+[Date "2024.02.03"]
+[White "peterchero"]
+[Black "pablozuniga"]
+[Result "1-0"]
+[UTCDate "2024.02.03"]
+[UTCTime "04:49:00"]
+[WhiteElo "1362"]
+[BlackElo "1355"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D02"]
+[Termination "Normal"]
+                
+1. d4  d5 2. Nf3  e6 3. g3  Nc6 4. Bg2  Qf6 5. O-O  Be7 6. b3  Nh6 7. c4  dxc4 8. bxc4  O-O 9. Nc3  Bb4 10. Ne4  Qe7 11. Bxh6  gxh6 12. Qc1  h5 13. Nfg5  f5 14. Nxe6  Bxe6 15. Nc5  Bxc5 16. dxc5  Bxc4 17. Qxc4+  Kh8 18. Qc3+  Kg8 19. Bd5+  Rf7 20. Bxf7+  Qxf7 21. Rad1  f4 22. gxf4  Qxf4 23. Qg3+  Qxg3+ 24. fxg3  Re8 25. Rf2  b6 26. cxb6  axb6 27. Rd7  Rc8 28. Rff7  Ne5 29. Rg7+  Kf8 30. Rde7  h6 31. Rxc7  Rxc7 32. Rxc7  b5 33. Rc5  b4 34. Rxe5  h4 35. Rh5  hxg3 36. hxg3  b3 37. axb3 1-0

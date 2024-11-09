@@ -1,0 +1,18 @@
+[Event "Rated bullet game"]
+[Site "https://lichess.org/FkQLi0nL"]
+[Date "2023.03.24"]
+[White "peterchero"]
+[Black "NotManyIdeas"]
+[Result "1/2-1/2"]
+[UTCDate "2023.03.24"]
+[UTCTime "21:55:29"]
+[WhiteElo "1290"]
+[BlackElo "1154"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+21"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "C41"]
+[Termination "Normal"]
+                
+1. d4  d6 2. e4  Nf6 3. Nc3  Nbd7 4. Nf3  e5 5. Be3  Be7 6. dxe5  dxe5 7. Qd2  O-O 8. O-O-O  c6 9. Nxe5  Nxe5 10. Qxd8  Rxd8 11. Rxd8+  Bxd8 12. Bc4  Nxc4 13. Rd1  Be7 14. Bc5  Bxc5 15. Rd8+  Bf8 16. Ne2  Be6 17. Nf4  Rxd8 18. Nxe6  fxe6 19. Kb1  Rd2 20. Kc1  Rxf2 21. Kb1  Rxg2 22. c3  Rxh2 23. Ka1  Nxe4 24. b3  Ncd6 25. a3  Nc5 26. Kb1  Nd7 27. b4  g5 28. c4  g4 29. c5  g3 30. b5  Nxb5 31. a4  Nxc5 32. a5  g2 33. a6  bxa6 34. Kc2  g1=N+ 35. Kd1  e5 36. Ke1  Nf3+ 37. Kf1  Nfd4 38. Ke1  a5 39. Kd1  a4 40. Kc1  a3 41. Kb1  Nc3+ 42. Kc1  a2 1/2-1/2

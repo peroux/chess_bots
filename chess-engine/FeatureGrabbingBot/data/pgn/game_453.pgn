@@ -1,0 +1,16 @@
+[Event "Casual rapid game"]
+[Site "https://lichess.org/zdsmi602"]
+[Date "2024.07.14"]
+[White "peterchero"]
+[Black "BehroozBagheri"]
+[Result "0-1"]
+[UTCDate "2024.07.14"]
+[UTCTime "20:06:32"]
+[WhiteElo "1507"]
+[BlackElo "1434"]
+[Variant "Standard"]
+[TimeControl "720+9"]
+[ECO "D02"]
+[Termination "Normal"]
+                
+1. d4  d5 2. Nf3  Nf6 3. g3  e6 4. Bg2  Nc6 5. O-O  Bd6 6. c4  dxc4 7. Nbd2  b5 8. a4  Ba6 9. Ne5  Nxd4 10. Bxa8  Qxa8 11. axb5  Bxb5 12. Ndxc4  Bxe5 13. Nxe5  Qe4 14. Be3  Nxe2+ 15. Qxe2  Bxe2 0-1

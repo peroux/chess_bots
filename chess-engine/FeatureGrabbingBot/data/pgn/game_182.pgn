@@ -1,0 +1,18 @@
+[Event "Rated blitz game"]
+[Site "https://lichess.org/OyB7ForB"]
+[Date "2023.12.24"]
+[White "knockturn"]
+[Black "peterchero"]
+[Result "0-1"]
+[UTCDate "2023.12.24"]
+[UTCTime "19:03:46"]
+[WhiteElo "1205"]
+[BlackElo "1201"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+23"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D00"]
+[Termination "Normal"]
+                
+1. d4  d5 2. Nc3  Nc6 3. Nf3  Nf6 4. Be3  g6 5. Qd2  Bg7 6. O-O-O  O-O 7. h4  Ne4 8. Qd3  Bf5 9. Ng5  Nb4 10. Qb5  Nxc3 11. bxc3  Nxa2+ 12. Kb2  c6 13. Qxb7  Rb8 14. Qxb8  Qxb8+ 15. Kxa2  Bxc2 16. Rb1 0-1

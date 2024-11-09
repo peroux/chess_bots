@@ -1,0 +1,18 @@
+[Event "Rated bullet game"]
+[Site "https://lichess.org/zjagDr8j"]
+[Date "2022.10.12"]
+[White "Rulfaschess"]
+[Black "peterchero"]
+[Result "1-0"]
+[UTCDate "2022.10.12"]
+[UTCTime "16:46:02"]
+[WhiteElo "1280"]
+[BlackElo "1342"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-86"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "D06"]
+[Termination "Normal"]
+                
+1. d4  d5 2. c4  Nf6 3. Nc3  dxc4 4. e4  c6 5. Bxc4  Be6 6. Nf3  Bxc4 7. b3  Be6 8. O-O  Nbd7 9. Re1  Nh5 10. h3  g6 11. Bg5  f6 12. Be3  Ng7 13. Bh6  Qb6 14. d5  cxd5 15. exd5  Bf5 16. Be3  O-O-O 17. Bxb6  axb6 18. Qc1  Nc5 19. Nb5  e6 20. dxe6  Kb8 21. Na7  Kxa7 22. Qa3+  Kb8 23. b4  Rd4 24. bxc5  Rd3 25. cxb6  Rxa3 26. Rac1  Rd3 27. Rc7  Rd2 28. Rb1  Rxf2 29. Rxb7+  Ka8 30. a4  Kxb7 31. a5  Ka6 32. b7  Kxa5 33. b8=Q  Bd6 34. Qb5# 1-0

@@ -1,0 +1,18 @@
+[Event "Rated blitz game"]
+[Site "https://lichess.org/pywPwUL7"]
+[Date "2024.02.07"]
+[White "Chessplayer33212"]
+[Black "peterchero"]
+[Result "0-1"]
+[UTCDate "2024.02.07"]
+[UTCTime "14:54:05"]
+[WhiteElo "1381"]
+[BlackElo "1421"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D00"]
+[Termination "Normal"]
+                
+1. d4  d5 2. e3  g6 3. Be2  Bg7 4. Bd2  Nf6 5. f4  O-O 6. Bc3  b6 7. g4  c5 8. dxc5  bxc5 9. g5  Nfd7 10. Bxg7  Kxg7 11. Nf3  Nc6 12. Bb5  Bb7 13. Bxc6  Bxc6 14. Nc3  d4 15. exd4  cxd4 16. Ne2  Bxf3 17. Rg1  Qa5+ 18. Kf2  Bxe2 19. Qxd4+  Kg8 20. Kxe2  Rad8 21. Qf2  Nc5 22. c3  Ne4 23. Qf3  Qb5+ 24. Ke3  Qd3# 0-1

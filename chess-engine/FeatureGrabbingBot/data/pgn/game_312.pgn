@@ -1,0 +1,16 @@
+[Event "Casual rapid game"]
+[Site "https://lichess.org/tZ8YetWK"]
+[Date "2023.01.25"]
+[White "Nan_Htike1"]
+[Black "peterchero"]
+[Result "1-0"]
+[UTCDate "2023.01.25"]
+[UTCTime "16:35:12"]
+[WhiteElo "1475"]
+[BlackElo "1322"]
+[Variant "Standard"]
+[TimeControl "480+3"]
+[ECO "C56"]
+[Termination "Normal"]
+                
+1. e4  e5 2. Bc4  Nc6 3. Nf3  Bc5 4. d4  exd4 5. O-O  Nf6 6. e5  Ng4 7. h3  Ngxe5 8. Nxe5  Nxe5 9. Re1  Qf6 10. f4  d3+ 11. Kh1  dxc2 12. Qxc2  d5 13. Rxe5+  Be6 14. Bxd5  O-O-O 15. Bxe6+  fxe6 16. Rxc5  Rd6 17. Rxc7+  Kd8 18. Rxb7  Qxf4 1-0

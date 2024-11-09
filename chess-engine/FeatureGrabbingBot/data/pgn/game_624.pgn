@@ -1,0 +1,18 @@
+[Event "Rated bullet game"]
+[Site "https://lichess.org/oSyAPAVi"]
+[Date "2023.04.23"]
+[White "peterchero"]
+[Black "SueJackson"]
+[Result "0-1"]
+[UTCDate "2023.04.23"]
+[UTCTime "18:17:21"]
+[WhiteElo "1291"]
+[BlackElo "1312"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "120+1"]
+[ECO "B10"]
+[Termination "Normal"]
+                
+1. e4  c6 2. Nf3  d5 3. Bd3  dxe4 4. Bxe4  Bg4 5. O-O  Nf6 6. h3  Bh5 7. d3  Nxe4 8. dxe4  Qxd1 9. Rxd1  Bxf3 10. gxf3  e6 11. Nc3  Bb4 12. Rd3  O-O 13. Be3  Na6 14. Rad1  g6 15. Rd7  Bc5 16. Bxc5  Nxc5 17. Rc7  Rac8 18. Rxc8  Rxc8 19. Kg2  b5 20. a3  a5 21. b4  axb4 22. axb4  Na4 23. Nxa4  bxa4 24. Ra1  Ra8 25. c4  Kf8 26. b5  cxb5 27. cxb5  Ke7 28. b6  Kd7 29. b7  Rb8 30. Rxa4  Rxb7 31. Rd4+  Ke7 32. Kg3  h6 33. f4  f6 34. e5  f5 35. h4  Rb3+ 36. f3  Rb1 37. Rd2  Rg1+ 38. Rg2  Rxg2+ 39. Kxg2  Kd7 40. Kg3  Kc6 41. h5  gxh5 42. Kh4  Kc5 43. Kxh5  Kd4 44. Kxh6  Ke3 45. Kg6  Kxf3 46. Kf6  Kxf4 47. Kxe6  Ke4 48. Kd6  f4 49. e6  f3 50. e7  f2 51. e8=Q+  Kf3 52. Qf8+  Kg2 53. Qg8+  Kf1 54. Ke5  Ke1 55. Qg3  Ke2 56. Qg2  Ke1 57. Qe4+  Kf1 58. Qd3+  Kg1 59. Qe3  Kg2 60. Qg5+  Kf1 61. Qc1+  Ke2 62. Qc2+  Ke1 63. Qc3+  Ke2 64. Qc4+  Ke1 65. Qh4  Ke2 66. Qh2  Ke1 67. Qg3  Ke2 68. Qg2  Ke1 69. Qe4+  Kf1 70. Qe3  Kg2 71. Qe2  Kg1 72. Qe3  Kg2 73. Qg5+  Kf1 74. Qf4  Kg2 75. Qe4+  Kf1 76. Qd3+  Kg1 77. Qd1+  Kg2 78. Qg4+  Kf1 79. Qc4+  Kg1 80. Qd4  Kg2 81. Qd2  Kg1 82. Qe3  Kg2 83. Qe2  Kg1 84. Qf3  Kf1 85. Ke4  Kg1 86. Qd1+  f1=Q 87. Qe1  Qxe1+ 88. Kf3  Qd2 89. Ke4  Kf2 90. Ke5  Kf3 91. Kf5  Qf4+ 92. Ke6  Qg5 93. Kd6  Ke4 94. Kc6  Kd4 95. Kd6  Qf6+ 96. Kd7  Kd5 97. Kc7  Kc5 98. Kd7  Qd6+ 99. Ke8  Qc7 100. Kf8  Kd6 101. Kg8  Ke6 102. Kh8  Kf6 103. Kg8  Qg7# 0-1

@@ -1,0 +1,18 @@
+[Event "Rated bullet game"]
+[Site "https://lichess.org/qNLgHWzC"]
+[Date "2024.01.30"]
+[White "peterchero"]
+[Black "alextal"]
+[Result "1-0"]
+[UTCDate "2024.01.30"]
+[UTCTime "00:16:44"]
+[WhiteElo "1347"]
+[BlackElo "1369"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-9"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "A46"]
+[Termination "Normal"]
+                
+1. d4  Nf6 2. Nf3  e6 3. g3  d5 4. Bg2  Bd6 5. O-O  Bd7 6. e3  O-O 7. b3  Nc6 8. c4  Qc8 9. Nc3  e5 10. dxe5  Nxe5 11. Nxe5  Bxe5 12. Nxd5  Nxd5 13. Qxd5  Bh3 14. Qxe5  Re8 15. Qd5  Qg4 16. Qf3  Qc8 17. Bb2  Bg4 18. Qe4  g6 19. Qd4  Rd8 20. Qg7# 1-0

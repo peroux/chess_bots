@@ -1,0 +1,18 @@
+[Event "Rated bullet game"]
+[Site "https://lichess.org/lNuVrhFb"]
+[Date "2022.10.16"]
+[White "Sberka"]
+[Black "peterchero"]
+[Result "0-1"]
+[UTCDate "2022.10.16"]
+[UTCTime "01:31:35"]
+[WhiteElo "1103"]
+[BlackElo "1196"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+39"]
+[Variant "Standard"]
+[TimeControl "120+1"]
+[ECO "C55"]
+[Termination "Time forfeit"]
+                
+1. e4  e5 2. Nf3  Nc6 3. Bc4  Nf6 4. O-O  Nxe4 5. d3  Nc5 6. Re1  Bd6 7. b4  Ne6 8. b5  Ncd4 9. Nxe5  Bxe5 10. Rxe5  O-O 11. c3  d6 12. Rh5  g6 13. Qg4  Nf5 14. Rxf5  Nc5 15. Bxf7+  Rxf7 16. Rxf7  Bxg4 17. Rf4  Be2 18. d4  Nd3 19. Re4  Bh5 20. Na3  Qf6 21. f3  Rf8 22. Bb2  d5 23. Re3  Nxb2 24. Rae1  Nc4 25. Re6  Qf5 26. Nxc4  dxc4 27. R1e4  Bxf3 28. gxf3  Qxf3 0-1

@@ -1,0 +1,16 @@
+[Event "Casual rapid game"]
+[Site "https://lichess.org/m2xfeCzU"]
+[Date "2023.01.18"]
+[White "ILO_Martin"]
+[Black "peterchero"]
+[Result "1-0"]
+[UTCDate "2023.01.18"]
+[UTCTime "19:31:35"]
+[WhiteElo "1198"]
+[BlackElo "1322"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "C50"]
+[Termination "Normal"]
+                
+1. e4  Nc6 2. Nf3  e5 3. Nc3  Bc5 4. Bc4  Nf6 5. Qe2  Ng4 6. Rf1  Nd4 7. Nxd4  exd4 8. Qxg4  dxc3 9. Qxg7  cxd2+ 10. Bxd2  Rf8 11. O-O-O  d5 12. exd5  c6 13. Bg5  Qd7 14. dxc6 1-0

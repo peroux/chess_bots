@@ -1,0 +1,16 @@
+[Event "Casual blitz game"]
+[Site "https://lichess.org/FfPYr7uM"]
+[Date "2022.12.29"]
+[White "omprakashILU"]
+[Black "peterchero"]
+[Result "0-1"]
+[UTCDate "2022.12.29"]
+[UTCTime "06:30:28"]
+[WhiteElo "1500"]
+[BlackElo "1075"]
+[Variant "Standard"]
+[TimeControl "300+0"]
+[ECO "D01"]
+[Termination "Normal"]
+                
+1. d4  Nf6 2. Bg5  d5 3. Nc3  Bf5 4. Nf3  Nc6 5. e3  Nb4 6. Bb5+  c6 7. Bd3  Bxd3 8. cxd3  Qd7 9. Ne5  Qf5 10. Nf3  Nxd3+ 11. Kf1  Nxb2 12. Qb1  Nd3 13. Qxb7  Rc8 14. Qxa7  Ne4 15. h4  Nd2+ 16. Nxd2  Qxf2# 0-1

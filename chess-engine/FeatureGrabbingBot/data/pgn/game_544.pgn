@@ -1,0 +1,18 @@
+[Event "Rated blitz game"]
+[Site "https://lichess.org/0htk6VVv"]
+[Date "2024.01.24"]
+[White "peterchero"]
+[Black "Stahelsky"]
+[Result "1-0"]
+[UTCDate "2024.01.24"]
+[UTCTime "02:43:58"]
+[WhiteElo "1271"]
+[BlackElo "1351"]
+[WhiteRatingDiff "+15"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A46"]
+[Termination "Normal"]
+                
+1. d4  Nf6 2. Nf3  e6 3. g3  c5 4. Bg2  cxd4 5. Nxd4  d5 6. Nf3  b6 7. O-O  Bb7 8. Nc3  Nc6 9. Bf4  Bd6 10. Bxd6  Qxd6 11. Nb5  Qb4 12. Nc7+ 1-0

@@ -1,0 +1,18 @@
+[Event "Rated bullet game"]
+[Site "https://lichess.org/vbcJyqw1"]
+[Date "2023.04.24"]
+[White "peterchero"]
+[Black "cjaard"]
+[Result "0-1"]
+[UTCDate "2023.04.24"]
+[UTCTime "00:03:37"]
+[WhiteElo "1231"]
+[BlackElo "1153"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "B12"]
+[Termination "Time forfeit"]
+                
+1. d4  c6 2. e4  g6 3. Nf3  Qb6 4. Nc3  Bh6 5. Bd3  d6 6. e5  dxe5 7. Bxh6  Nxh6 8. dxe5  Qxb2 9. Rb1  Qxc3+ 10. Nd2  Bg4 11. O-O  Bxd1 12. Rbxd1  Nd7 13. Ne4  Qa3 14. Rb1  b5 15. Rb3  Qxa2 16. Nc3  Qa5 17. Rbb1  Qxc3 18. Rb3  Qa5 19. Rfb1  Nxe5 20. R1b2  Qa1+ 21. Rb1  Qxb1+ 22. Rxb1  O-O 23. c3  Nxd3 24. Rd1  Rad8 25. f3  Nf4 26. Rxd8  Rxd8 27. g3  Rd1+ 28. Kf2  Nd3+ 29. Ke2  Nb2 30. Ke3  Nf5+ 31. Ke2  Nd6 32. Ke3  Ndc4+ 33. Ke2  Rd2+ 34. Ke1  Rxh2 35. Kf1  Ne3+ 36. Kg1  Rh3 37. Kf2  Nf5 38. g4  Rg3 39. gxf5  Rg5 40. Ke3  Rxf5 41. Kf2  b4 42. Kg2  bxc3 43. Kf2  Rxf3+ 44. Kxf3  a5 45. Kf2  a4 46. Ke3  a3 0-1

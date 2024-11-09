@@ -1,0 +1,18 @@
+[Event "Rated bullet game"]
+[Site "https://lichess.org/n3S0DFZj"]
+[Date "2024.02.05"]
+[White "peterchero"]
+[Black "TielloIsBlack"]
+[Result "1-0"]
+[UTCDate "2024.02.05"]
+[UTCTime "15:00:06"]
+[WhiteElo "1385"]
+[BlackElo "1354"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-14"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "A08"]
+[Termination "Time forfeit"]
+                
+1. d4  d5 2. Nf3  c5 3. g3  Nc6 4. Bg2  cxd4 5. O-O  e5 6. c3  e4 7. Nxd4  Nf6 8. Nxc6  bxc6 9. b3  Bd7 10. Bf4  g6 11. c4  Bg7 12. cxd5  cxd5 13. Nc3  Bc6 14. Qc2  O-O 15. Rad1  Re8 16. f3  Qc7 17. fxe4  Qb7 18. exd5  Bxd5 19. Bxd5  Nxd5 20. Nxd5  Rac8 21. Qd3  Red8 22. Rd2  Rxd5 23. Qc4  Rxc4 24. bxc4 1-0

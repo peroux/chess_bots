@@ -1,0 +1,18 @@
+[Event "Rated blitz game"]
+[Site "https://lichess.org/xuQNvKk1"]
+[Date "2023.04.22"]
+[White "caterpillar1980"]
+[Black "peterchero"]
+[Result "0-1"]
+[UTCDate "2023.04.22"]
+[UTCTime "18:31:18"]
+[WhiteElo "1125"]
+[BlackElo "1159"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+9"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C20"]
+[Termination "Normal"]
+                
+1. e4  e5 2. Qh5  Nc6 3. Bb5  Nf6 4. Qf3  Nd4 5. Qd3  c6 6. Bc4  d5 7. Bb3  Nxb3 8. Qxb3  Nxe4 9. f3  Qh4+ 10. g3  Nxg3 11. Ne2  Nxh1+ 12. Kd1  Nf2+ 13. Ke1  Nd3+ 14. Kf1  Nxc1 15. Nxc1  Bh3+ 16. Ke2  Bc5 17. Nd3  Bb6 18. Nc3  O-O 19. Rg1  e4 20. fxe4  dxe4 21. Nxe4  Qxe4+ 22. Kd1  Qf3+ 23. Kc1  Bxg1 24. c4  Rfd8 25. Kc2  Bf5 26. c5  Bxd3+ 27. Kc3  Ba6+ 28. Kb4  Rd4+ 29. Ka5  Qc3+ 30. dxc3  Rd5 31. Kb4  Bxc5+ 32. Ka4  Bb5+ 33. Ka5  b6# 0-1

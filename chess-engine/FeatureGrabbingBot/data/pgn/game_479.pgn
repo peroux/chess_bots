@@ -1,0 +1,18 @@
+[Event "Rated rapid game"]
+[Site "https://lichess.org/zpQWKfW9"]
+[Date "2024.06.08"]
+[White "peterchero"]
+[Black "Golbou"]
+[Result "1-0"]
+[UTCDate "2024.06.08"]
+[UTCTime "19:14:40"]
+[WhiteElo "1489"]
+[BlackElo "1349"]
+[WhiteRatingDiff "+34"]
+[BlackRatingDiff "-4"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "A40"]
+[Termination "Normal"]
+                
+1. d4  e5 2. dxe5  Bc5 3. Nf3  d6 4. Qd5  c6 5. Qb3  dxe5 6. Nxe5  Be6 7. Qxb7  Qd4 8. Be3  Qxe5 9. Bxc5  Qxc5 10. Qxa8  Qe5 11. Nc3  Ne7 12. O-O-O  O-O 13. e3  Nd5 14. Nxd5  Bxd5 15. Qxa7  Be6 16. Kb1  c5 17. Qa4  Nc6 18. Qxc6  c4 19. Bxc4  Rb8 20. c3  Qxc3 21. Rd8+  Rxd8 22. bxc3  Bxc4 23. Qxc4 1-0

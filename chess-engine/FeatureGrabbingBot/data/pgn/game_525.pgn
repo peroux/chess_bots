@@ -1,0 +1,18 @@
+[Event "Rated bullet game"]
+[Site "https://lichess.org/PF8mZZnE"]
+[Date "2024.02.01"]
+[White "peterchero"]
+[Black "zhenyashkin"]
+[Result "1-0"]
+[UTCDate "2024.02.01"]
+[UTCTime "21:10:10"]
+[WhiteElo "1373"]
+[BlackElo "1394"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "D02"]
+[Termination "Normal"]
+                
+1. d4  d5 2. Nf3  c6 3. g3  f6 4. Bg2  g5 5. O-O  g4 6. Nh4  h5 7. e3  Be6 8. f3  Bf7 9. fxg4  f5 10. gxf5  e6 11. c3  exf5 12. Nxf5  Be6 13. Nh4  Bg4 14. Qd2  Bd6 15. e4  dxe4 16. Bxe4  Kd7 17. Qg5  Be7 18. Bf5+  Bxf5 19. Qxf5+  Kc7 20. Bf4+  Bd6 21. Bxd6+  Qxd6 22. Qf7+  Kb6 23. Na3  a6 24. Nc4+  Ka7 25. Nxd6  Nh6 26. Qxb7# 1-0

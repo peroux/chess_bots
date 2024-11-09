@@ -1,0 +1,18 @@
+[Event "Rated blitz game"]
+[Site "https://lichess.org/veXpdLJ7"]
+[Date "2022.02.20"]
+[White "oladi89"]
+[Black "peterchero"]
+[Result "0-1"]
+[UTCDate "2022.02.20"]
+[UTCTime "20:57:48"]
+[WhiteElo "995"]
+[BlackElo "1013"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+79"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C50"]
+[Termination "Normal"]
+                
+1. e4  e5 2. Nf3  Nc6 3. Bc4  Nf6 4. d3  Bc5 5. Ng5  Bxf2+ 6. Kxf2  Nxe4+ 7. Nxe4  Qh4+ 8. g3  Qe7 9. Kg2  f5 10. Ng5  Rf8 11. Nxh7  Rf6 12. Nxf6+  Qxf6 13. Rf1  d5 14. Bxd5  Nd4 15. c3  Ne6 16. Bxe6  Qxe6 17. Be3  b6 18. c4  Bb7+ 19. Kg1  O-O-O 20. Nc3  e4 21. dxe4  Rxd1 22. Rfxd1  fxe4 23. Rd2  Qxc4 24. Rad1  Ba6 25. Rd8+  Kb7 26. Nb1  Qe2 27. Bg5  Qxb2 28. a4  Be2 29. R1d2  Qxb1+ 30. Rd1  Bxd1 31. Rxd1  Qxd1+ 32. Kf2  Qxa4 33. Ke3  c5 34. h4  Qd4+ 35. Ke2  a5 36. Ke1  a4 37. g4  a3 38. h5  a2 39. h6  gxh6 40. Bxh6  a1=Q+ 41. Ke2  Qac3 42. Kf1  Qf3+ 43. Ke1  Qdc3+ 44. Bd2  Qfe3+ 45. Kd1  Qcxd2# 0-1

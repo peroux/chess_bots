@@ -1,0 +1,16 @@
+[Event "Casual bullet game"]
+[Site "https://lichess.org/YMsARwVL"]
+[Date "2021.02.23"]
+[White "peterchero"]
+[Black "linustechtips"]
+[Result "1-0"]
+[UTCDate "2021.02.23"]
+[UTCTime "06:56:57"]
+[WhiteElo "1500"]
+[BlackElo "1500"]
+[Variant "Standard"]
+[TimeControl "120+0"]
+[ECO "B23"]
+[Termination "Normal"]
+                
+1. e4  c5 2. Nc3  Nc6 3. Nf3  e6 4. Bc4  Nf6 5. O-O  d5 6. exd5  exd5 7. Bb5  a6 8. Bxc6+  bxc6 9. d4  Bd6 10. Ne5  h6 11. Nxc6  Qb6 12. dxc5  Qxc6 13. cxd6  Qxd6 14. Nxd5  Nxd5 15. Be3  Nxe3 16. Qxd6  Nxf1 17. Rxf1  f5 18. Qc6+  Kf7 19. Qxa8  Rd8 20. g3  Ke7 21. Qc6  Bd7 22. Qc5+  Ke6 23. Re1+  Kf6 24. Qe5+  Kf7 25. Qe7+  Kg6 26. Qxd8 1-0

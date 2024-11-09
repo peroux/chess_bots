@@ -1,0 +1,16 @@
+[Event "Casual bullet game"]
+[Site "https://lichess.org/E0CiuWNY"]
+[Date "2024.07.15"]
+[White "Matelisto"]
+[Black "peterchero"]
+[Result "1-0"]
+[UTCDate "2024.07.15"]
+[UTCTime "14:02:51"]
+[WhiteElo "1340"]
+[BlackElo "1400"]
+[Variant "Standard"]
+[TimeControl "120+0"]
+[ECO "A01"]
+[Termination "Normal"]
+                
+1. b3  e5 2. Bb2  Nc6 3. Nc3  Nf6 4. e3  d5 5. Qe2  Bd6 6. O-O-O  O-O 7. f3  d4 8. exd4  exd4 9. Ne4  Nxe4 10. Qxe4  Re8 11. Qd3  Qf6 12. g4  Nb4 13. Qxd4  Nxa2+ 14. Kb1  Qxd4 15. Bxd4  Nb4 16. h4  Nc6 17. Bb2  Be5 18. d4  Rd8 19. Be2  Bxd4 20. Bxd4  Rxd4 21. Bd3  Be6 22. Ne2  Nb4 23. Nxd4  Nxd3 24. Rxd3  Rd8 25. Nxe6  Rxd3 26. cxd3  fxe6 27. f4  Kf7 28. f5  exf5 29. gxf5  Kf6 30. Rf1  c6 31. Kc2  b5 32. Kc3  a6 33. Kd4  Ke7 34. Ke5  h6 35. Rg1  g5 36. hxg5  hxg5 37. Rxg5  c5 38. Rg7+  Ke8 39. f6  a5 40. Ke6  c4 41. Rg8# 1-0

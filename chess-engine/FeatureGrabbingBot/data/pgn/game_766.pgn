@@ -1,0 +1,18 @@
+[Event "Rated blitz game"]
+[Site "https://lichess.org/C3WEnpGq"]
+[Date "2022.02.20"]
+[White "peterchero"]
+[Black "Timtuer57"]
+[Result "0-1"]
+[UTCDate "2022.02.20"]
+[UTCTime "20:54:26"]
+[WhiteElo "1089"]
+[BlackElo "1200"]
+[WhiteRatingDiff "-76"]
+[BlackRatingDiff "+4"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D02"]
+[Termination "Normal"]
+                
+1. Nf3  d5 2. d4  Nc6 3. Nc3  Bf5 4. Bf4  a6 5. e3  Nf6 6. Bd3  e6 7. O-O  Bg6 8. Ne5  Nxe5 9. dxe5  Nd7 10. Bxg6  hxg6 11. Qg4  Qe7 12. Bg5  Qc5 13. Rad1  Be7 14. Bxe7  Qxe7 15. Rd4  O-O-O 16. b3  Nxe5 17. Qf4  f6 18. Nxd5  Rxd5 19. Rc4  Nd3 20. Rxc7+  Qxc7 21. Qe4  Qxh2# 0-1

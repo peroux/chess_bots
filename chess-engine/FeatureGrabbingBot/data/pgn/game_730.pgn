@@ -1,0 +1,16 @@
+[Event "Casual blitz game"]
+[Site "https://lichess.org/8TZu6UIm"]
+[Date "2022.12.07"]
+[White "peterchero"]
+[Black "Tigr_King"]
+[Result "1-0"]
+[UTCDate "2022.12.07"]
+[UTCTime "17:43:43"]
+[WhiteElo "1075"]
+[BlackElo "1205"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D02"]
+[Termination "Normal"]
+                
+1. Nf3  d5 2. d4  e6 3. Nc3  c6 4. Bf4  Bd6 5. Ne5  Nf6 6. e3  O-O 7. Bd3  Ne4 8. O-O  f6 9. Ng4  e5 10. dxe5  Bxe5 11. Bxe5  Bxg4 12. Qxg4  fxe5 13. Nxe4  dxe4 14. Bxe4  Nd7 15. Rad1  Qe7 16. Rxd7  Qb4 17. Qxg7# 1-0

@@ -1,0 +1,18 @@
+[Event "Rated bullet game"]
+[Site "https://lichess.org/OoNrjmJh"]
+[Date "2024.01.10"]
+[White "peterchero"]
+[Black "cypa"]
+[Result "1-0"]
+[UTCDate "2024.01.10"]
+[UTCTime "18:07:37"]
+[WhiteElo "1209"]
+[BlackElo "1281"]
+[WhiteRatingDiff "+26"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "A80"]
+[Termination "Time forfeit"]
+                
+1. d4  f5 2. Nf3  Nf6 3. g3  d6 4. Bg2  h6 5. O-O  c6 6. e4  g5 7. exf5  Bxf5 8. h4  gxh4 9. Nxh4  Qd7 10. Qh5+  Kd8 11. Qxf5  Qxf5 12. Nxf5  h5 13. Re1  Nbd7 14. Bg5  Rh7 15. Bxf6  Nxf6 16. d5  Kd7 17. dxc6+  bxc6 18. Nc3  Rb8 19. b3  Rb4 20. Rad1  e6 21. Rxd6+  Bxd6 22. Nxd6  Kxd6 23. Rd1+  Ke7 24. Bxc6  h4 25. Bg2  hxg3 26. fxg3  Rg4 27. Rf1  Rxg3 28. Rf3  Rhg7 29. Rxg3  Rxg3 30. Ne2  Rg8 31. Nf4  Ne4 32. Kf1  e5 33. Ke2  exf4 34. Kf3  Nd2+ 35. Kf2  Nb1 36. c4  Nd2 37. c5  Ne4+ 38. Kf3  Nd2+ 39. Kf2  Ne4+ 40. Kf3 1-0

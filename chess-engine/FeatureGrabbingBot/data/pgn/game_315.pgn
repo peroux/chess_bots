@@ -1,0 +1,18 @@
+[Event "Rated blitz game"]
+[Site "https://lichess.org/TVHildl9"]
+[Date "2023.01.25"]
+[White "AlmatKing"]
+[Black "peterchero"]
+[Result "1-0"]
+[UTCDate "2023.01.25"]
+[UTCTime "05:30:47"]
+[WhiteElo "1070"]
+[BlackElo "1055"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-17"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C22"]
+[Termination "Normal"]
+                
+1. e4  e5 2. d4  exd4 3. Qxd4  Nf6 4. Qe3  Nc6 5. Nf3  Bd6 6. Bd3  O-O 7. O-O  Re8 8. e5  Nxe5 9. Nxe5  Rxe5 10. Qd4  Rh5 11. g3  Qe7 12. Nc3  c6 13. Be2  Rf5 14. Bd3  Rh5 15. Bf4  Bxf4 16. Qxf4  d5 17. Rfe1  Ne4 18. Nxe4  dxe4 19. Rxe4  Qd7 20. Rae1  h6 21. Re8+  Qxe8 1-0

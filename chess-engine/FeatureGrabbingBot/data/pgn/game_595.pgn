@@ -1,0 +1,18 @@
+[Event "Rated bullet game"]
+[Site "https://lichess.org/thiQ2ChM"]
+[Date "2023.05.29"]
+[White "peterchero"]
+[Black "MichaelJakson25"]
+[Result "0-1"]
+[UTCDate "2023.05.29"]
+[UTCTime "03:11:17"]
+[WhiteElo "1207"]
+[BlackElo "1190"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "A46"]
+[Termination "Time forfeit"]
+                
+1. d4  Nf6 2. Nf3  Ne4 3. g3  Nxf2 4. Kxf2  e5 5. Bg2  exd4 6. Qxd4  b6 7. Rd1  Bc5 8. Bg5  Bxd4+ 9. Nxd4  Qxg5 10. Nf3  Qf6 11. Nc3  O-O 12. Rd3  Nc6 13. Rad1  a6 14. a4  b5 15. a5  b4 16. Ne4  Qxb2 17. Nc5  Nxa5 18. Nxd7  Re8 19. R3d2  h6 20. Nd4  Bxd7 21. Nc6  Qf6+ 22. Kg1  Nxc6 23. Bxc6  Bxc6 24. Rd8  Rexd8 25. Rxd8+  Rxd8 26. e4  a5 27. e5  Qxe5 28. c4  a4 29. c5  a3 30. Kf1  a2 31. Kg1  a1=Q+ 32. Kf2  b3 0-1

@@ -1,0 +1,18 @@
+[Event "Rated bullet game"]
+[Site "https://lichess.org/RC5DBAsG"]
+[Date "2023.04.24"]
+[White "peterchero"]
+[Black "Boomerang1985"]
+[Result "1-0"]
+[UTCDate "2023.04.24"]
+[UTCTime "00:09:05"]
+[WhiteElo "1221"]
+[BlackElo "1219"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "D02"]
+[Termination "Time forfeit"]
+                
+1. d4  d5 2. Nf3  Bf5 3. Bf4  Nc6 4. e3  Nb4 5. Na3  Qd7 6. Bd3  Nf6 7. O-O  O-O-O 8. c3  Nxd3 9. Qxd3  Bxd3 10. Rfd1  Bf5 11. Ne5  Qa4 12. Nxf7  Bc2 13. Rd2  Be4 14. Nxh8  g5 15. Nf7  Rd7 16. Ne5  Rd8 17. Nf7  Re8 18. Ne5  gxf4 19. exf4  Nd7 20. Nxd7  Kxd7 21. Re2  Qa6 22. Rae1  Bd3 23. Re3  c6 24. c4  Bxc4 25. Nxc4  Qxc4 26. Rc3  Qxa2 27. f5  Qxb2 28. Rcc1  Bg7 29. Red1  Qb4 30. h3  Bxd4 31. Kh2  Bxf2 32. Rd3  Be3 33. Rxe3  Qa3 34. Rce1  Qxe3 35. Rxe3  d4 36. Re4  c5 37. f6 1-0

@@ -1,0 +1,16 @@
+[Event "Casual classical game"]
+[Site "https://lichess.org/UdYvz9Ny"]
+[Date "2024.07.02"]
+[White "nohandout1"]
+[Black "peterchero"]
+[Result "0-1"]
+[UTCDate "2024.07.02"]
+[UTCTime "20:10:15"]
+[WhiteElo "1500"]
+[BlackElo "1500"]
+[Variant "Standard"]
+[TimeControl "1800+0"]
+[ECO "D00"]
+[Termination "Normal"]
+                
+1. d4  d5 2. e3  Nf6 3. h3  g6 4. a3  Bg7 5. Bd3  O-O 6. g4  c5 7. dxc5  Nbd7 8. Bd2  Nxc5 9. f4  Nxd3+ 10. cxd3  d4 11. e4  Qc7 12. g5  Nh5 13. Ne2  f6 14. h4  fxg5 15. hxg5  e5 16. Qb3+  Kh8 17. fxe5  Qxe5 18. a4  Bg4 19. Rxh5  Bxh5 20. Na3  Bxe2 21. Kxe2  Qh2+ 22. Kd1  Rf1+ 23. Be1  Qh5+ 24. Kd2  Be5 25. Qe6  Bf4+ 26. Kc2  Qe2+ 27. Kb3  Qxd3+ 28. Ka2  Bxg5 29. Qe5+  Bf6 30. Qc7  Qxe4 31. Rd1  Qe6+ 32. Ka1  Rxe1 33. Rxe1  Qxe1+ 34. Ka2  Qe6+ 35. Ka1  Rc8 36. Qxb7  Rc1+ 37. Nb1  d3 38. Qa8+  Kg7 39. Qxa7+  Kh6 40. a5  Qd6 41. Qe3+  g5 42. Qxc1  Qe6 43. Qd2  Qe4 44. Qh2+  Kg6 45. Qd2  h5 46. Na3  Qe2 47. Nc4  h4 48. a6  Bd4 49. Qb4  Kh5 50. Nd2  Be3 51. Nc4  d2 52. Nxd2  Qxa6+ 53. Kb1  Qd3+ 54. Kc1  Bxd2+ 55. Qxd2  Qxd2+ 56. Kxd2  h3 57. Ke2  h2 58. b4  h1=Q 59. b5  Qb7 60. b6  Qxb6 61. Kf3  g4+ 62. Kf4  Qe6 63. Kg3  Qe3+ 64. Kh2  Qf2+ 65. Kh1  Qe2 66. Kg1  g3 67. Kh1  Qh2# 0-1

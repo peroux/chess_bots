@@ -1,0 +1,16 @@
+[Event "Casual rapid game"]
+[Site "https://lichess.org/GAEtfoGC"]
+[Date "2023.03.15"]
+[White "peterchero"]
+[Black "Bot_player1234"]
+[Result "1-0"]
+[UTCDate "2023.03.15"]
+[UTCTime "15:53:45"]
+[WhiteElo "1549"]
+[BlackElo "1501"]
+[Variant "Standard"]
+[TimeControl "600+10"]
+[ECO "B06"]
+[Termination "Normal"]
+                
+1. Nf3  d6 2. d4  g6 3. Nc3  Bg7 4. e4  e6 5. Bf4  Nd7 6. Bd3  a6 7. O-O  Ngf6 8. Re1  O-O 9. e5  Nh5 10. Bg5  Qe8 11. exd6  cxd6 12. d5  e5 13. Ne4  f6 14. Nxd6  Qe7 15. Nxc8  fxg5 16. Nxe7+  Kh8 17. Nxg5  Bf6 18. Nxg6+  hxg6 19. Bxg6  Nf4 20. Nf7+  Kg7 21. Nxe5  Bxe5 22. Qg4  Nxg6 23. Qxd7+  Kh6 24. Rxe5  Nxe5 25. Qe6+  Ng6 26. Qh3+  Kg7 27. f4  Rxf4 28. Rf1  Rh4 29. Qd7+  Kh6 30. Rf6  Rd4 31. Qh3+  Kg7 32. Qc3  Re4 33. Rxa6+ 1-0

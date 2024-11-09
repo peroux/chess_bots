@@ -1,0 +1,18 @@
+[Event "Rated bullet game"]
+[Site "https://lichess.org/SK73VGSt"]
+[Date "2022.02.20"]
+[White "peterchero"]
+[Black "Teeqoz"]
+[Result "0-1"]
+[UTCDate "2022.02.20"]
+[UTCTime "23:53:18"]
+[WhiteElo "1305"]
+[BlackElo "1296"]
+[WhiteRatingDiff "-85"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "C47"]
+[Termination "Time forfeit"]
+                
+1. Nf3  e5 2. e4  Nc6 3. Nc3  Nf6 4. Bc4  Bb4 5. Ng5  O-O 6. Qf3  Nd4 7. Qh3  h6 8. Nf3  Nxc2+ 9. Ke2  d5 10. Bxd5  Bxh3 11. Bxf7+  Rxf7 12. gxh3  Nxa1 13. a3  Bxc3 14. bxc3  Nc2 15. Bb2  Nxe4 16. d3  Rxf3 17. Kxf3  Ng5+ 18. Kg3  Qxd3+ 19. Kg2  Qf3+ 20. Kg1  Nxh3+ 0-1

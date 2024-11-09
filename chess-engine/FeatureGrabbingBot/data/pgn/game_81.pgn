@@ -1,0 +1,18 @@
+[Event "Rated rapid game"]
+[Site "https://lichess.org/nPIV59u7"]
+[Date "2024.06.09"]
+[White "New_Pole"]
+[Black "peterchero"]
+[Result "0-1"]
+[UTCDate "2024.06.09"]
+[UTCTime "18:13:13"]
+[WhiteElo "1449"]
+[BlackElo "1476"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+31"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "A45"]
+[Termination "Normal"]
+                
+1. d4  Nf6 2. Bg5  e6 3. e4  Be7 4. Nc3  O-O 5. Bxf6  Bxf6 6. Qd2  d5 7. e5  Bg5 8. f4  Be7 9. O-O-O  Nc6 10. Nf3  f6 11. h4  fxe5 12. fxe5  Bd7 13. Qd3  Nb4 14. Qe2  c5 15. g4  c4 16. h5  Qa5 17. Kb1  b5 18. g5  Nc6 19. g6  h6 20. Rg1  b4 21. Ng5  hxg5 22. h6  gxh6 23. Qh5  Kg7 24. Rh1  Rh8 25. Ne2  b3 26. a3  bxc2+ 27. Kxc2  Nb4+ 28. Kb1  Nd3 29. Nc3  Bxa3 30. Bxd3  Bxb2 31. Kxb2  Rab8+ 32. Kc2  Ba4+ 33. Kd2  Rb2+ 34. Ke3  Qxc3 35. Rhf1  Bxd1 36. Rf7+  Kg8 37. g7  Qe1+ 38. Be2  Rxe2+ 39. Qxe2  Qxe2# 0-1

@@ -1,0 +1,18 @@
+[Event "Rated blitz game"]
+[Site "https://lichess.org/T7xhLtsr"]
+[Date "2023.12.24"]
+[White "Ega23"]
+[Black "peterchero"]
+[Result "1-0"]
+[UTCDate "2023.12.24"]
+[UTCTime "18:47:28"]
+[WhiteElo "1191"]
+[BlackElo "1257"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-38"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C47"]
+[Termination "Normal"]
+                
+1. e4  e5 2. Nf3  Nc6 3. Nc3  Nf6 4. Nxe5  Nxe5 5. d4  Ng6 6. e5  Ng8 7. d5  Nxe5 8. Qe2  f6 9. Bf4  Bd6 10. Nb5  Ne7 11. Bxe5  Bxe5 12. O-O-O  O-O 13. g3  c6 14. dxc6  dxc6 15. Rxd8  Rxd8 16. Nc7  Rb8 17. f4  Bxc7 18. Qxe7  Bd7 19. Bc4+  Kh8 20. Rd1  Re8 21. Qf7  g5 22. Rxd7  Re1+ 23. Kd2  Ba5+ 24. c3  Bxc3+ 25. bxc3  Ree8 26. Qxh7# 1-0

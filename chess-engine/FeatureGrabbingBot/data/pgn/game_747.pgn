@@ -1,0 +1,18 @@
+[Event "Rated rapid game"]
+[Site "https://lichess.org/2sd3fbVM"]
+[Date "2022.10.17"]
+[White "peterchero"]
+[Black "rockyj"]
+[Result "0-1"]
+[UTCDate "2022.10.17"]
+[UTCTime "15:32:50"]
+[WhiteElo "1500"]
+[BlackElo "1219"]
+[WhiteRatingDiff "-556"]
+[BlackRatingDiff "+4"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "A46"]
+[Termination "Normal"]
+                
+1. Nf3  Nf6 2. d4  d6 3. Nc3  Nc6 4. Bf4  Nb4 5. e4  Bg4 6. Be2  Qd7 7. O-O  Bxf3 8. Bxf3  e5 9. dxe5  dxe5 10. Qxd7+  Nxd7 11. Be3  Nxc2 12. Rad1  Bd6 13. Nd5  Kd8 14. Bg5+  f6 15. Be3  b6 16. Rd3  Bc5 17. Bxc5  bxc5 18. Rfd1  c6 19. Nc3  Nd4 20. Bg4  h5 21. Bxd7  Kxd7 22. Na4  h4 23. Nxc5+  Kc7 24. Na6+  Kb7 25. Nc5+  Kb6 26. Na4+  Kc7 27. f4  h3 28. g3  Rh5 29. fxe5  fxe5 30. Nc5  Rh6 31. Rf1  Kb6 32. Na4+  Kc7 33. Rf7+  Kd6 34. Rxg7  Ke6 35. Rc7  Kd6 36. Rf7  c5 37. b3  Ke6 38. Rc7  Ne2+ 39. Kf1  Nd4 40. Nxc5+  Kd6 41. Na6  Rf6+ 42. Ke1  Rf3 43. Rxf3  Nxf3+ 44. Kf2  Nxh2 45. Rh7  Rc8 46. Rxh3  Ng4+ 47. Kf3  Nf6 48. Rh6  Rc3+ 49. Ke2  Ke6 50. g4  Rc2+ 51. Kf1  Rxa2 52. g5  Rxa6 53. gxf6  Ra1+ 54. Kg2  Ra2+ 55. Kg3  Rb2 56. Kg4  Rxb3 57. Kg5  Rg3+ 58. Kh5  Rh3+ 59. Kg6  Rxh6+ 60. Kxh6  Kxf6 61. Kh5  a5 62. Kg4  a4 63. Kf3  a3 64. Ke2  a2 65. Kd3  a1=Q 66. Kc2  Qd4 67. Kb3  Qxe4 68. Kc3  Qd4+ 69. Kc2  e4 70. Kb3  e3 71. Kc2  e2 72. Kb3  e1=Q 73. Kc2  Qe2+ 74. Kb3  Qee3+ 75. Kc2  Qdd2+ 76. Kb1  Qee1# 0-1

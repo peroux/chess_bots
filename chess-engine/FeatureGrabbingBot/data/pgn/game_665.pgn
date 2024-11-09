@@ -1,0 +1,18 @@
+[Event "Rated blitz game"]
+[Site "https://lichess.org/NY69iS3q"]
+[Date "2023.03.28"]
+[White "peterchero"]
+[Black "jbaniwas"]
+[Result "1-0"]
+[UTCDate "2023.03.28"]
+[UTCTime "01:34:08"]
+[WhiteElo "1143"]
+[BlackElo "1150"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A40"]
+[Termination "Normal"]
+                
+1. d4  c6 2. Nf3  d5 3. Nc3  Bg4 4. Bf4  Bxf3 5. gxf3  c5 6. e4  cxd4 7. Qxd4  dxe4 8. Qxd8+  Kxd8 9. O-O-O+  Nd7 10. Bh3  e6 11. Nxe4  Bc5 12. Nxc5  Rc8 13. Rxd7+  Ke8 14. Be3  b6 15. Nxe6  Kxd7 16. Nxg7+  Ke7 17. Rd1  Kf8 18. Bxc8  Kxg7 19. Rd8  Nf6 20. Rxh8  Kxh8 21. Bd4  Kg7 22. Bf5  a5 23. a3  h6 24. c3  h5 25. b4  h4 26. bxa5  bxa5 27. c4  Kf8 28. Bxf6  Ke8 29. c5  a4 30. c6  h3 31. c7  Kf8 32. c8=Q# 1-0

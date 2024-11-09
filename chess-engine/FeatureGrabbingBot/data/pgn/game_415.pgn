@@ -1,0 +1,16 @@
+[Event "Casual bullet game"]
+[Site "https://lichess.org/QM5uryo2"]
+[Date "2024.10.02"]
+[White "peterchero"]
+[Black "Bearchess22"]
+[Result "0-1"]
+[UTCDate "2024.10.02"]
+[UTCTime "21:26:03"]
+[WhiteElo "1400"]
+[BlackElo "1470"]
+[Variant "Standard"]
+[TimeControl "15+1"]
+[ECO "A41"]
+[Termination "Normal"]
+                
+1. d4  d6 2. Nf3  g6 3. g3  Bg7 4. Bg2  b6 5. O-O  c6 6. e4  Bb7 7. d5  c5 8. c4  Nd7 9. b3  Bxa1 10. Bb2  Bxb2 11. Qc2  Bg7 12. Nc3  Ngf6 13. e5  dxe5 14. Nxe5  Nxe5 15. Re1  Qd6 16. Qe2  O-O 17. Be4  Nxe4 18. Nxe4  Nd7 19. f4  Qc7 20. b4  Nf6 21. bxc5  Nxe4 22. Qxe4  bxc5 23. Qe3  Rad8 24. Rd1  Qd7 25. d6  exd6 26. Qd3  Bd4+ 27. Kf1  Rfe8 28. Qxd4  cxd4 29. Rxd4  Qg4 30. Rd2  Qh3+ 31. Rg2  Qxg2# 0-1

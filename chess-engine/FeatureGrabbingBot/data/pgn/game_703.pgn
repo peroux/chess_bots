@@ -1,0 +1,16 @@
+[Event "Casual rapid game"]
+[Site "https://lichess.org/FTdZVUMy"]
+[Date "2023.01.25"]
+[White "peterchero"]
+[Black "bertazzoo"]
+[Result "0-1"]
+[UTCDate "2023.01.25"]
+[UTCTime "00:27:32"]
+[WhiteElo "1322"]
+[BlackElo "1500"]
+[Variant "Standard"]
+[TimeControl "300+5"]
+[ECO "A04"]
+[Termination "Normal"]
+                
+1. Nf3  e6 2. d4  d5 3. Nc3  Bb4 4. Be3  Nc6 5. Kd2  Nf6 6. Qe1  Ne4+ 7. Kd3  e5 8. a3  Bxc3 9. bxc3  exd4 10. Nxd4  Ne5# 0-1

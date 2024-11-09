@@ -1,0 +1,16 @@
+[Event "Casual bullet game"]
+[Site "https://lichess.org/kmpNdXir"]
+[Date "2023.03.18"]
+[White "peterchero"]
+[Black "BingoBongo987"]
+[Result "1-0"]
+[UTCDate "2023.03.18"]
+[UTCTime "21:04:44"]
+[WhiteElo "1290"]
+[BlackElo "1272"]
+[Variant "Standard"]
+[TimeControl "120+0"]
+[ECO "A04"]
+[Termination "Normal"]
+                
+1. Nf3  g6 2. d4  Bg7 3. Nc3  b6 4. Bf4  Bb7 5. Nb5  d6 6. Qd3  Qd7 7. O-O-O  Nf6 8. e3  Nd5 9. g3  h6 10. Bg2  g5 11. Ne5  Qd8 12. Nxf7  Kxf7 13. Qf5+  Kg8 14. Bxd5+  Bxd5 15. Qxd5+  Kh7 16. Qxa8  gxf4 17. Qe4+  Kg8 18. Qxf4  Qd7 19. Nxa7  Qa4 20. Nc8  Qxa2 21. Nxe7+  Kh7 22. Qf5# 1-0

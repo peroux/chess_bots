@@ -1,0 +1,18 @@
+[Event "Rated bullet game"]
+[Site "https://lichess.org/oNGEBQdT"]
+[Date "2024.01.28"]
+[White "peterchero"]
+[Black "hydroelectric"]
+[Result "1-0"]
+[UTCDate "2024.01.28"]
+[UTCTime "21:36:56"]
+[WhiteElo "1344"]
+[BlackElo "1296"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "D02"]
+[Termination "Time forfeit"]
+                
+1. d4  d5 2. Nf3  c6 3. g3  f6 4. Bg2  g5 5. O-O  h5 6. Nc3  g4 7. Nd2  e6 8. e4  h4 9. exd5  hxg3 10. fxg3  f5 11. dxe6  Bxe6 12. Re1  Kf7 13. Nf3  Qf6 14. Ne5+  Ke7 15. Na4  Qh6 16. Nc5  Qxh2+ 17. Kf2  Nf6 18. Ng6+  Kf7 19. Nxe6  Kxg6 20. Qd3  c5 21. Qf1  cxd4 22. Nf4+  Kg7 23. Qb5  Ne4+ 24. Rxe4  fxe4 25. Qxb7+  Kg8 26. Qd5+  Kg7 27. Qg5+  Kf7 28. Qf5+  Ke7 29. Nd5+  Kd6 30. Qf6+ 1-0

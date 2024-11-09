@@ -1,0 +1,18 @@
+[Event "Rated blitz game"]
+[Site "https://lichess.org/MrMqgkSH"]
+[Date "2023.04.23"]
+[White "peterchero"]
+[Black "rpatel77"]
+[Result "1-0"]
+[UTCDate "2023.04.23"]
+[UTCTime "17:22:07"]
+[WhiteElo "1166"]
+[BlackElo "1103"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-10"]
+[Variant "Standard"]
+[TimeControl "300+0"]
+[ECO "A40"]
+[Termination "Normal"]
+                
+1. d4  e5 2. dxe5  Nc6 3. Nf3  Bc5 4. Nc3  Nh6 5. g3  Qe7 6. Bf4  g5 7. Nxg5  Nxe5 8. Bxe5  Qxe5 9. Nf3  Qd6 10. Bg2  Bxf2+ 11. Kxf2  Qxd1 12. Raxd1  Rg8 13. Rhf1  d6 14. Kg1  Bg4 15. Rd4  Bxf3 16. Rxf3  O-O-O 17. Rh4  Rg6 18. Nd5  Re8 19. Re3  Rxe3 20. Nxe3  Re6 21. Ng4  Rxe2 22. Rxh6  Re1+ 23. Kf2  Re4 1-0

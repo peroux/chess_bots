@@ -1,0 +1,18 @@
+[Event "Rated blitz game"]
+[Site "https://lichess.org/gkHCIgRQ"]
+[Date "2023.05.28"]
+[White "gbaasgbos"]
+[Black "peterchero"]
+[Result "0-1"]
+[UTCDate "2023.05.28"]
+[UTCTime "20:40:04"]
+[WhiteElo "1215"]
+[BlackElo "1221"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+9"]
+[Variant "Standard"]
+[TimeControl "300+0"]
+[ECO "D80"]
+[Termination "Normal"]
+                
+1. d4  d5 2. c4  Nf6 3. Nc3  g6 4. Bg5  dxc4 5. Bxf6  exf6 6. e4  c5 7. Qa4+  Nc6 8. Qxc4  cxd4 9. Nb5  Qa5+ 10. Nc3  Be6 11. Qd3  dxc3 12. bxc3  Rd8 13. Qc2  Nd4 14. Qb2  Ba3 15. Bb5+  Kf8 16. Qb1  Qxc3+ 17. Kf1  Nxb5 18. Ne2  Bc4 19. g3  Bxe2+ 20. Kg2  Bf3+ 21. Kh3  Bxh1 22. Qxb5  Qxa1 23. Qxb7  Qf1+ 24. Kh4  g5+ 25. Kg4  h5+ 26. Kf5  Qxf2# 0-1

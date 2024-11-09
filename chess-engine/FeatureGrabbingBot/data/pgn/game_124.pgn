@@ -1,0 +1,18 @@
+[Event "Rated blitz game"]
+[Site "https://lichess.org/QOmMXO6r"]
+[Date "2024.02.04"]
+[White "hsisj"]
+[Black "peterchero"]
+[Result "1/2-1/2"]
+[UTCDate "2024.02.04"]
+[UTCTime "16:45:42"]
+[WhiteElo "1397"]
+[BlackElo "1389"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "+0"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D00"]
+[Termination "Time forfeit"]
+                
+1. e3  d5 2. d4  Nf6 3. Nc3  g6 4. e4  dxe4 5. Bg5  Bg7 6. Bxf6  Bxf6 7. Nge2  Bf5 8. f3  exf3 9. gxf3  O-O 10. Qd2  Nc6 11. d5  Bxc3 12. Nxc3  Ne5 13. O-O-O  Nxf3 14. Qf4  Ne1 15. Rxe1  Qd6 16. Qe3  Rae8 17. Qxa7  Qf4+ 18. Kb1  Qf2 19. Bd3  Qxa7 20. Bxf5  gxf5 21. Rhg1+  Kh8 22. Nb5  Qb6 23. Nc3  Rg8 24. Rgf1  Rg6 25. Rxf5  Reg8 26. Rxf7  Rg1 27. Rc1  Rxc1+ 28. Kxc1  Rg1+ 29. Kd2  Qh6+ 30. Kd3  Qg7 31. Rxg7  Kxg7 32. Ne4  Rg4 33. Nf2  Rf4 34. Nh3  Rh4 35. Ng5  Rxh2 36. Ne6+  Kf7 37. Nxc7  Rh6 38. Kc4  Rd6 39. Kc5  h5 40. b4  h4 41. Ne6  h3 42. Nf4  h2 43. Nh3  h1=Q 44. Ng5+  Kf6 45. Ne4+  Kf7 46. Nxd6+  exd6+ 47. Kxd6  Qf3 48. Kc7  Qxd5 49. Kb6  Qb5+ 50. Kxb5  Ke7 51. c4  Kd7 52. c5  Kc7 53. Kc4  Kc6 54. b5+  Kc7 55. a4  b6 56. a5  bxa5 57. b6+  Kb7 58. Kb5  Kc8 59. Kxa5  Kb7 60. Kb5  Kc8 61. Ka6  Kb8 62. c6  Kc8 63. b7+  Kb8 64. c7+  Kxc7 1/2-1/2

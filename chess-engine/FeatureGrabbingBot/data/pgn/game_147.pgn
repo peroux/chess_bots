@@ -1,0 +1,18 @@
+[Event "Rated bullet game"]
+[Site "https://lichess.org/gmFxXf1y"]
+[Date "2024.01.28"]
+[White "Micaelavallejom"]
+[Black "peterchero"]
+[Result "0-1"]
+[UTCDate "2024.01.28"]
+[UTCTime "21:25:19"]
+[WhiteElo "1289"]
+[BlackElo "1330"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "C42"]
+[Termination "Normal"]
+                
+1. e4  e5 2. Nc3  Nf6 3. Nf3  g6 4. Bb5  Bg7 5. Bf1  O-O 6. Bb5  c6 7. Ba4  d5 8. exd5  cxd5 9. Nxe5  Ne4 10. Nxe4  dxe4 11. O-O  Bxe5 12. d3  exd3 13. cxd3  Nc6 14. Bxc6  bxc6 15. Re1  Bg7 16. Bf4  Bxb2 17. Rb1  Bc3 18. Re2  Bg4 19. f3  Bf5 20. Be5  Bxd3 21. Rf2  Bxe5 22. Rb7  Bd4 23. Qxd3  Bxf2+ 24. Kxf2  Qxd3 25. Rxf7  Qd2+ 26. Kg3  Rxf7 27. h4  Raf8 28. h5  Qf4+ 29. Kh3  Qf5+ 30. Kh2  Qxh5+ 31. Kg1  Rf4 32. Kf2  Rd4 33. Kg3  Rfd8 34. Kf2  Rd2+ 35. Kg3  Qg5+ 36. Kh3  Rxg2 37. f4  Qg3# 0-1

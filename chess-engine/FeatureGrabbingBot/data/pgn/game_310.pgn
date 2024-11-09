@@ -1,0 +1,16 @@
+[Event "Casual blitz game"]
+[Site "https://lichess.org/JzFzk7tF"]
+[Date "2023.01.25"]
+[White "tibasbh"]
+[Black "peterchero"]
+[Result "0-1"]
+[UTCDate "2023.01.25"]
+[UTCTime "16:47:56"]
+[WhiteElo "1278"]
+[BlackElo "1066"]
+[Variant "Standard"]
+[TimeControl "300+0"]
+[ECO "C40"]
+[Termination "Normal"]
+                
+1. e4  e5 2. Nf3  Bc5 3. d4  exd4 4. Ng5  Qf6 5. Bc4  d3 6. O-O  dxc2 7. Qxc2  d5 8. exd5  Nh6 9. Re1+  Kf8 10. Qe4  Bd7 11. d6  Bc6 12. dxc7  Bxe4 13. c8=Q+  Ke7 14. Rxe4+  Kd6 15. Qxh8  Qxf2+ 16. Kh1  Qg1# 0-1

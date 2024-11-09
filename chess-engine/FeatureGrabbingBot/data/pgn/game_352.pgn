@@ -1,0 +1,16 @@
+[Event "Casual blitz game"]
+[Site "https://lichess.org/A05dq6ND"]
+[Date "2022.12.07"]
+[White "rafaelrsantos2"]
+[Black "peterchero"]
+[Result "0-1"]
+[UTCDate "2022.12.07"]
+[UTCTime "16:33:29"]
+[WhiteElo "906"]
+[BlackElo "1075"]
+[Variant "Standard"]
+[TimeControl "300+3"]
+[ECO "C50"]
+[Termination "Normal"]
+                
+1. e4  e5 2. Nf3  Nc6 3. Bc4  Nf6 4. d3  Bc5 5. h3  O-O 6. O-O  d6 7. Re1  Be6 8. Bxe6  fxe6 9. c3  d5 10. exd5  exd5 11. Nxe5  Nxe5 12. Rxe5  Nd7 13. Re1  Bxf2+ 14. Kf1  Bxe1+ 15. Kxe1  Qe7+ 16. Qe2  Rae8 17. Be3  Qxe3 18. Qxe3  Rxe3+ 19. Kd2  Re5 20. d4  Rf2+ 21. Kd3  Re4 22. Nd2  Ree2 23. Rf1  Rxd2+ 24. Ke3  Rxf1 25. Kxd2  Ra1 26. Kd3  Rxa2 27. Kc2  c5 28. dxc5  Nxc5 29. Kd2  Rxb2+ 30. Ke3  Rxg2 31. Kf4  Rc2 32. Ke5  Rxc3 33. Kxd5  a5 34. Kd4  Rc1 35. Kd5  Nb3 36. Ke6  a4 37. Kd7  a3 38. Ke7  a2 39. Kd8  a1=Q 40. Ke7  Rc6 41. Ke8  Qa8+ 42. Kd7  Nc5+ 43. Ke7  Re6# 0-1

@@ -1,0 +1,18 @@
+[Event "Rated bullet game"]
+[Site "https://lichess.org/r1J5Ogl4"]
+[Date "2022.10.19"]
+[White "rmian525"]
+[Black "peterchero"]
+[Result "1-0"]
+[UTCDate "2022.10.19"]
+[UTCTime "15:33:16"]
+[WhiteElo "1264"]
+[BlackElo "1281"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-42"]
+[Variant "Standard"]
+[TimeControl "120+1"]
+[ECO "C44"]
+[Termination "Normal"]
+                
+1. e4  e5 2. Nf3  Nc6 3. c3  b6 4. Bb5  Bb7 5. Bxc6  Bxc6 6. Nxe5  Qf6 7. Nxc6  Bc5 8. f3  Qxc6 9. d4  Bd6 10. Be3  f6 11. Nd2  g5 12. d5  Qb5 13. b3  Bc5 14. c4  Qb4 15. Bxc5  bxc5 16. h4  h6 17. hxg5  fxg5 18. f4  gxf4 19. Qh5+  Kd8 20. Qe5  Rh7 21. Qxf4  Qc3 22. Qf8# 1-0

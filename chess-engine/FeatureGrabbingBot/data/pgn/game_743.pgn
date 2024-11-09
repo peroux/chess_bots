@@ -1,0 +1,18 @@
+[Event "Rated bullet game"]
+[Site "https://lichess.org/Fr6aSchT"]
+[Date "2022.11.21"]
+[White "peterchero"]
+[Black "Medape99"]
+[Result "1-0"]
+[UTCDate "2022.11.21"]
+[UTCTime "17:45:24"]
+[WhiteElo "1282"]
+[BlackElo "1275"]
+[WhiteRatingDiff "+31"]
+[BlackRatingDiff "-15"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "D02"]
+[Termination "Normal"]
+                
+1. Nf3  d5 2. d4  c5 3. dxc5  Nc6 4. Nc3 1-0

@@ -1,0 +1,18 @@
+[Event "Rated bullet game"]
+[Site "https://lichess.org/AbvDmDpY"]
+[Date "2022.10.19"]
+[White "Jochaps"]
+[Black "peterchero"]
+[Result "0-1"]
+[UTCDate "2022.10.19"]
+[UTCTime "16:41:49"]
+[WhiteElo "1278"]
+[BlackElo "1277"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+34"]
+[Variant "Standard"]
+[TimeControl "120+1"]
+[ECO "C45"]
+[Termination "Normal"]
+                
+1. e4  e5 2. Nf3  Nc6 3. d4  exd4 4. Nxd4  Nf6 5. Nc3  Nxd4 6. Qxd4  b6 7. g3  Bc5 8. Qd3  Ng4 9. Be3  Qf6 10. Nd5  Qxb2 11. Ke2  Nxe3 12. Nxe3  Qxa1 13. Bg2  Qd4 14. e5  Qxd3+ 15. cxd3  c6 16. Nf5  O-O 17. Nd6  Bxd6 18. exd6  Ba6 19. Kd2  Rfe8 20. h4  Re6 21. Re1  Rxd6 22. Re7  Rxd3+ 23. Ke2  Rxg3+ 24. Kd1  Rxg2 25. Rxd7  Rxf2 26. Ke1  Rf1+ 27. Kd2  f5 28. Ke3  f4+ 29. Ke4  Re8+ 30. Kf5  Rf8+ 31. Ke6  Rf6+ 32. Ke7  Rf7+ 33. Ke6  Rxd7 34. Kxd7  f3 0-1

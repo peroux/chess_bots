@@ -1,0 +1,16 @@
+[Event "Casual rapid game"]
+[Site "https://lichess.org/mT7x2Lqh"]
+[Date "2023.11.15"]
+[White "aliiran66"]
+[Black "peterchero"]
+[Result "0-1"]
+[UTCDate "2023.11.15"]
+[UTCTime "19:00:20"]
+[WhiteElo "1500"]
+[BlackElo "1504"]
+[Variant "Standard"]
+[TimeControl "900+0"]
+[ECO "C65"]
+[Termination "Normal"]
+                
+1. e4  e5 2. Nf3  Nc6 3. Bb5  Nf6 4. Bxc6  bxc6 5. Nxe5  Qe7 6. d4  Nxe4 7. Qd3  Nc5 8. dxc5  Qxe5+ 9. Be3  Bxc5 10. O-O  Bxe3 11. Re1  O-O 12. Rxe3  Qxb2 13. Rh3  g6 14. Qc3  Qc1+ 15. Qe1  Qxe1# 0-1

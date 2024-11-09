@@ -1,0 +1,16 @@
+[Event "Casual blitz game"]
+[Site "https://lichess.org/cqUvG3Hn"]
+[Date "2024.10.06"]
+[White "peterchero"]
+[Black "BlessAndSVG"]
+[Result "1-0"]
+[UTCDate "2024.10.06"]
+[UTCTime "17:23:03"]
+[WhiteElo "1415"]
+[BlackElo "1500"]
+[Variant "Standard"]
+[TimeControl "300+0"]
+[ECO "D00"]
+[Termination "Normal"]
+                
+1. d4  d5 2. g3  Nc6 3. Bg2  Nf6 4. Nf3  e6 5. O-O  Bb4 6. c3  O-O 7. cxb4  b5 8. Nc3  Ne4 9. Nxe4  dxe4 10. Ne5  Qd5 11. Nxc6  Qxc6 12. Qc2  Qxc2 13. Be3  Qxb2 14. Bxe4  f5 15. Bxa8  Ba6 16. Bg2  Qxb4 17. Rfd1  c5 18. dxc5  e5 19. c6  f4 20. gxf4  exf4 21. Bxa7  Qa4 22. c7  b4 23. Bc5  Bxe2 24. Rd8  Qc6 25. Rxf8# 1-0

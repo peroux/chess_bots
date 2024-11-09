@@ -1,0 +1,16 @@
+[Event "Casual bullet game"]
+[Site "https://lichess.org/PjtZ9Llv"]
+[Date "2022.12.29"]
+[White "RevolioClockberg"]
+[Black "peterchero"]
+[Result "0-1"]
+[UTCDate "2022.12.29"]
+[UTCTime "06:17:48"]
+[WhiteElo "1412"]
+[BlackElo "1306"]
+[Variant "Standard"]
+[TimeControl "120+1"]
+[ECO "C54"]
+[Termination "Normal"]
+                
+1. e4  e5 2. Nf3  Nc6 3. Bc4  Bc5 4. c3  Nf6 5. d4  exd4 6. cxd4  Nxd4 7. Nxd4  Bxd4 8. Qb3  d5 9. exd5  Ng4 10. O-O  Qh4 11. Re1+  Be6 12. Rxe6+  fxe6 13. Bb5+  c6 14. Bxc6+  bxc6 15. h3  Qxf2+ 16. Kh1 0-1

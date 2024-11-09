@@ -1,0 +1,18 @@
+[Event "Rated blitz game"]
+[Site "https://lichess.org/Q1tMnkM9"]
+[Date "2022.02.20"]
+[White "peterchero"]
+[Black "YannickW1893"]
+[Result "1-0"]
+[UTCDate "2022.02.20"]
+[UTCTime "23:18:51"]
+[WhiteElo "1092"]
+[BlackElo "1073"]
+[WhiteRatingDiff "+64"]
+[BlackRatingDiff "-4"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A07"]
+[Termination "Time forfeit"]
+                
+1. Nf3  d5 2. g3  Nc6 3. d4  e5 4. dxe5  Bg4 5. Bg2  Bxf3 6. Bxf3  Nxe5 7. O-O  Nxf3+ 8. exf3  Nf6 9. Bf4  Bc5 10. Nc3  O-O 11. Qe2  Re8 12. Rad1  Rxe2 13. Rxd5  Re7 14. Rxd8+  Rxd8 15. Bxc7  Rdd7 16. Bf4  Nd5 17. Nxd5  Rxd5 18. c3  Rd2 19. Bxd2  Rd7 20. Bf4  f6 21. a3  g5 22. Be3  Bxe3 23. fxe3  Rd3 24. Kf2  h5 25. Ke2  Rd6 26. Rd1  Rb6 27. b4  a6 28. Rd8+  Kg7 29. Rd7+  Kg6 30. c4  f5 31. c5  Rb5 32. Rd6+  Kf7 33. Rb6  Rxb6 34. cxb6  Ke6 35. Kd3  Kd6 36. Kd4  Kc6 37. Ke5  Kxb6 38. Kxf5  Kb5 39. e4  Ka4 40. e5  Kxa3 41. e6  Kxb4 42. e7  a5 43. e8=Q  a4 44. Qe1+  Kb3 45. Qe3+  Kb4 46. Qd2+  Kb3 47. Qd1+  Kb4 48. Kxg5  a3 49. Kxh5  b5 50. Qb1+  Ka4 51. Qc2+  Kb4 52. f4  Ka5 53. f5  b4 54. f6  a2 55. Qxa2+  Kb5 56. f7  Kc5 57. f8=Q+ 1-0

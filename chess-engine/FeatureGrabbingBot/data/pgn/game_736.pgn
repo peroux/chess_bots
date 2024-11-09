@@ -1,0 +1,16 @@
+[Event "Casual blitz game"]
+[Site "https://lichess.org/MUkDR8gw"]
+[Date "2022.12.02"]
+[White "peterchero"]
+[Black "MiniCapi700"]
+[Result "1-0"]
+[UTCDate "2022.12.02"]
+[UTCTime "17:40:49"]
+[WhiteElo "1075"]
+[BlackElo "922"]
+[Variant "Standard"]
+[TimeControl "300+2"]
+[ECO "A07"]
+[Termination "Normal"]
+                
+1. Nf3  d5 2. g3  Nc6 3. d4  Qd6 4. Bg2  e5 5. dxe5  Nxe5 6. Nxe5  Qxe5 7. Bxd5  Rb8 8. Bf4  Qxb2 9. Bc4  Qxa1 10. Bb5+  Bd7 11. Qxd7# 1-0

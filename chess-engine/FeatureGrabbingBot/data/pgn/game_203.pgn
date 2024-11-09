@@ -1,0 +1,18 @@
+[Event "Rated blitz game"]
+[Site "https://lichess.org/ViUMpdXY"]
+[Date "2023.07.04"]
+[White "Abdullah_2015"]
+[Black "peterchero"]
+[Result "0-1"]
+[UTCDate "2023.07.04"]
+[UTCTime "19:13:08"]
+[WhiteElo "1176"]
+[BlackElo "1220"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+12"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C65"]
+[Termination "Normal"]
+                
+1. e4  e5 2. Nf3  Nc6 3. Bb5  Nf6 4. d3  Bc5 5. h3  Nd4 6. Nxe5  c6 7. Bc4  d5 8. exd5  cxd5 9. Bb3  Qa5+ 10. Bd2  Bb4 11. Bxb4  Qxb4+ 12. Nc3  O-O 13. O-O  Re8 14. Nf3  Nxb3 15. axb3  d4 16. Ne2  Rd8 17. Ra4  Qc5 18. Nexd4  b5 19. b4  Qb6 20. Ra3  Rxd4 21. Nxd4  Qxd4 22. c3  Qd5 23. Re1  Be6 24. c4  bxc4 25. Ra5  Qxd3 26. Qxd3  cxd3 27. Rd1  Rd8 28. Rxa7  Bb3 29. Rc1  d2 30. Rd7  dxc1=Q+ 31. Kh2  Rxd7 0-1

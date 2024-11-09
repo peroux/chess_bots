@@ -1,0 +1,18 @@
+[Event "Rated bullet game"]
+[Site "https://lichess.org/IgEBW2Gm"]
+[Date "2022.02.20"]
+[White "Hermann12"]
+[Black "peterchero"]
+[Result "0-1"]
+[UTCDate "2022.02.20"]
+[UTCTime "23:55:40"]
+[WhiteElo "1203"]
+[BlackElo "1220"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+65"]
+[Variant "Standard"]
+[TimeControl "120+1"]
+[ECO "C50"]
+[Termination "Normal"]
+                
+1. e4  e5 2. Nf3  Nc6 3. Bc4  Bc5 4. O-O  Nf6 5. c3  O-O 6. d4  exd4 7. cxd4  Bb6 8. e5  Ng4 9. d5  Ncxe5 10. Nxe5  Nxe5 11. Bb3  Qf6 12. Be3  d6 13. Nc3  Bg4 14. Qd2  Bf3 15. Bxb6  Qg6 16. g3  Qh5 17. Bd1  Qh3 18. Bxf3  Nxf3+ 19. Kh1  Qxh2# 0-1

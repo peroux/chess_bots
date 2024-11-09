@@ -1,0 +1,18 @@
+[Event "Rated bullet game"]
+[Site "https://lichess.org/ACX4KOwz"]
+[Date "2024.01.10"]
+[White "peterchero"]
+[Black "Rinik"]
+[Result "1-0"]
+[UTCDate "2024.01.10"]
+[UTCTime "18:10:06"]
+[WhiteElo "1235"]
+[BlackElo "1235"]
+[WhiteRatingDiff "+21"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "A80"]
+[Termination "Time forfeit"]
+                
+1. d4  f5 2. Nf3  Nf6 3. g3  g6 4. Bg2  Bg7 5. O-O  d6 6. Re1  e6 7. Bf4  d5 8. b3  Nc6 9. c4  dxc4 10. bxc4  O-O 11. d5  exd5 12. cxd5  Ne7 13. Nc3  Nfxd5 14. Nxd5  Bxa1 15. Qxa1  Nxd5 16. Ng5  Nxf4 17. gxf4  Qf6 18. Bd5+  Kg7 19. Ne6+  Bxe6 20. Bxe6  Qxa1 21. Rxa1  Rae8 22. Bc4  a6 23. Re1  b5 24. Bd3  c5 25. f3  c4 26. Bc2  b4 27. e4 1-0

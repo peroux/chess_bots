@@ -1,0 +1,18 @@
+[Event "Rated bullet game"]
+[Site "https://lichess.org/9CicgWP0"]
+[Date "2024.02.01"]
+[White "BobanPecic"]
+[Black "peterchero"]
+[Result "0-1"]
+[UTCDate "2024.02.01"]
+[UTCTime "21:08:04"]
+[WhiteElo "1361"]
+[BlackElo "1368"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "C24"]
+[Termination "Time forfeit"]
+                
+1. e4  e5 2. Bc4  Nf6 3. d3  g6 4. Nf3  Bg7 5. Bg5  O-O 6. Nc3  c6 7. Ne2  d5 8. exd5  cxd5 9. Bb3  e4 10. dxe4  dxe4 11. Qxd8  Rxd8 12. Nd2  Bf5 13. O-O-O  Nc6 14. Nf4  Rac8 15. Nc4  Na5 16. Nxa5  e3 17. fxe3  b6 18. Nc4  Be6 19. Nxe6  fxe6 20. Ne5  Nd5 21. Bxd5  exd5 22. Bxd8  Rxd8 23. Nc6  Rd6 24. Nd4  Bxd4 25. exd4  Kg7 26. Rhe1  Kf6 27. c3  b5 28. Kc2  a6 29. Re5  Re6 30. Rxe6+  Kxe6 31. Re1+  Kd6 32. Re8  Kd7 33. Rh8  h5 34. Rg8  Ke6 35. Rxg6+  Kf5 36. Rxa6  Kg4 0-1

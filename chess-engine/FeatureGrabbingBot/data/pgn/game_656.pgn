@@ -1,0 +1,18 @@
+[Event "Rated bullet game"]
+[Site "https://lichess.org/8WbTqkyR"]
+[Date "2023.04.08"]
+[White "peterchero"]
+[Black "MAKATIBHOY2"]
+[Result "1-0"]
+[UTCDate "2023.04.08"]
+[UTCTime "01:08:47"]
+[WhiteElo "1298"]
+[BlackElo "1274"]
+[WhiteRatingDiff "+21"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "120+1"]
+[ECO "A40"]
+[Termination "Normal"]
+                
+1. d4  a6 2. Nf3  h6 3. Bf4  b5 4. Nc3  g5 5. Bg3  Bg7 6. Qd2  Bb7 7. O-O-O  d5 8. h4  e6 9. hxg5  hxg5 10. Rxh8  Bxh8 11. Nxg5  Nf6 12. Nf3  Nc6 13. Be5  Nxe5 14. Nxe5  Qd6 15. Qg5  Qe7 16. e3  O-O-O 17. a4  Rg8 18. Qf4  b4 19. Na2  Ne4 20. Nxb4  f6 21. Nec6  Bxc6 22. Bxa6+  Bb7 23. Nc6  Bxa6 24. Nxe7+  Kd7 25. Nxg8  Be2 26. Nxf6+  Nxf6 27. Re1  Bc4 28. b3  Ba6 29. Rh1  Bg7 30. Rh7  Ne8 31. Rxg7+  Nxg7 32. Qf7+  Kd6 33. Qxg7  Be2 34. Qe5+  Kd7 35. g4  Bxg4 36. Qg7+  Kd6 37. Qxg4  c6 38. f4  c5 39. dxc5+  Kxc5 40. f5  exf5 41. Qxf5  Kb4 42. Qd3  Ka3 43. a5  Ka2 44. a6  Ka3 45. a7  Kb4 46. a8=Q  d4 47. Qb7+  Ka3 48. Qda6# 1-0

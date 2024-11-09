@@ -1,0 +1,16 @@
+[Event "Casual blitz game"]
+[Site "https://lichess.org/Lat3Dnu2"]
+[Date "2022.12.02"]
+[White "Megin19"]
+[Black "peterchero"]
+[Result "0-1"]
+[UTCDate "2022.12.02"]
+[UTCTime "14:35:31"]
+[WhiteElo "1028"]
+[BlackElo "1075"]
+[Variant "Standard"]
+[TimeControl "300+0"]
+[ECO "C24"]
+[Termination "Normal"]
+                
+1. e4  e5 2. Nc3  Nc6 3. Bc4  Nf6 4. d3  Bc5 5. f4  d6 6. Nf3  Ng4 7. Qe2  Bf2+ 8. Kd1  Bd4 9. h3  Nf2+ 10. Kd2 0-1

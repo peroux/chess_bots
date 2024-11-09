@@ -1,0 +1,16 @@
+[Event "Casual blitz game"]
+[Site "https://lichess.org/A94ioTUr"]
+[Date "2024.09.02"]
+[White "elliotsimpson_hf"]
+[Black "peterchero"]
+[Result "0-1"]
+[UTCDate "2024.09.02"]
+[UTCTime "17:02:45"]
+[WhiteElo "1217"]
+[BlackElo "1415"]
+[Variant "Standard"]
+[TimeControl "300+2"]
+[ECO "D77"]
+[Termination "Normal"]
+                
+1. d4  d5 2. c4  Nf6 3. Nf3  g6 4. g3  Bg7 5. Bg2  O-O 6. O-O  dxc4 7. Qc2  Be6 8. Nbd2  Bd5 9. e4  Bc6 10. e5  Nd5 11. Nxc4  Bb5 12. Re1  Bxc4 13. Qxc4  Nb6 14. Qc2  Nc6 15. Be3  Nd5 16. Rad1  Nxe3 17. Rxe3  Bh6 18. Ree1  f6 19. exf6  exf6 20. Qb3+  Kh8 21. d5  Na5 22. Qc3  b6 23. Nd2  Bxd2 24. Qxd2  Nc4 25. Qc2  Nd6 26. Bf1  Qd7 27. Bd3  Rae8 28. h4  Rf7 29. Rxe8+  Qxe8 30. Kf1  f5 31. Re1  Qd7 32. Ke2  Re7+ 33. Kd2  Rxe1 34. Kxe1  Qe7+ 35. Kf1  Qe5 36. Kg2  Qxd5+ 37. Kh3  Qh1# 0-1

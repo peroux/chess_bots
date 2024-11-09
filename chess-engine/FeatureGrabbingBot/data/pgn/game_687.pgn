@@ -1,0 +1,18 @@
+[Event "Rated blitz game"]
+[Site "https://lichess.org/YSyEH0jj"]
+[Date "2023.02.23"]
+[White "peterchero"]
+[Black "fibonacci66"]
+[Result "0-1"]
+[UTCDate "2023.02.23"]
+[UTCTime "08:53:38"]
+[WhiteElo "1054"]
+[BlackElo "1159"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+4"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A04"]
+[Termination "Normal"]
+                
+1. Nf3  c6 2. d3  d5 3. e3  e6 4. Nc3  a6 5. Be2  Nf6 6. O-O  Be7 7. d4  c5 8. Ne5  Nc6 9. Nxc6  bxc6 10. dxc5  Bxc5 11. a3  Qc7 12. b4  Bd6 13. g3  c5 14. bxc5  Bxc5 15. Bb2  Be7 16. Qd2  O-O 17. e4  Bb7 18. exd5  Bxd5 19. Nxd5  Nxd5 20. Qd4  Bf6 21. Qf4  Bxb2 22. Qxc7  Nxc7 23. Rab1  Bxa3 24. Rb3  Nb5 25. Ra1  Be7 26. Bxb5  axb5 27. Rxa8  Rxa8 28. Rxb5  g6 29. c4  Rc8 30. Kf1  Rxc4 31. Ke2  Kg7 32. Kd3  Rc8 33. Kd4  Bf6+ 34. Ke4  h5 35. Kf4  g5+ 36. Kf3  Kg6 37. Ke4  g4 38. Kf4  Rc2 39. Ke3  Bg5+ 40. f4  gxf3+ 41. Kxf3  Rxh2 42. Ke4  Rh3 43. Kf3  h4 44. Kg4  Rxg3# 0-1

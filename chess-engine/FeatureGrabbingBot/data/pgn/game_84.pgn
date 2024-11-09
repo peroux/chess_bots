@@ -1,0 +1,16 @@
+[Event "Casual blitz game"]
+[Site "https://lichess.org/Z3rVoQXd"]
+[Date "2024.04.23"]
+[White "hercule-poivrot"]
+[Black "peterchero"]
+[Result "0-1"]
+[UTCDate "2024.04.23"]
+[UTCTime "16:04:22"]
+[WhiteElo "1401"]
+[BlackElo "1415"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C50"]
+[Termination "Time forfeit"]
+                
+1. e4  e5 2. Nf3  Nc6 3. Bc4  g6 4. O-O  Nf6 5. Re1  Bg7 6. c3  O-O 7. d4  exd4 8. cxd4  d6 9. h3  Nd7 10. Be3  Nb6 11. Bd3  Re8 12. a3  d5 13. e5  Ne7 14. Bg5  Qd7 15. Nc3  c6 16. Na4  Qc7 17. Nc5  Nd7 18. b4  b6 19. Na6  Qb7 20. b5  cxb5 21. Bxb5  Nc6 22. Rc1  Ncb8 23. Nxb8  Nxb8 24. Qd2  Re6 25. Bh6  Bd7 26. Bxd7  Qxd7 27. Bxg7  Kxg7 28. Rc3  Nc6 29. Rec1  Rc8 30. Qc2  Nxd4 31. Nxd4  Rec6 32. Rxc6  Rxc6 33. Nxc6  Qf5 34. Qxf5  gxf5 35. Nd4  Kf8 36. e6  Ke7 37. exf7  Kxf7 38. Nxf5  Kf6 39. Ne3  Ke5 40. Rd1  d4 41. Nc4+  Kd5 0-1

@@ -1,0 +1,18 @@
+[Event "Rated blitz game"]
+[Site "https://lichess.org/UCykIcAS"]
+[Date "2023.04.22"]
+[White "peterchero"]
+[Black "Mixa00013"]
+[Result "1-0"]
+[UTCDate "2023.04.22"]
+[UTCTime "22:36:27"]
+[WhiteElo "1141"]
+[BlackElo "1092"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D02"]
+[Termination "Normal"]
+                
+1. d4  d5 2. Nf3  Nc6 3. Bf4  Nf6 4. Nc3  e6 5. Nb5  a6 6. Nxc7+  Ke7 7. Nxa8  e5 8. dxe5  Ne4 9. e6  fxe6 10. Nc7  Qd7 11. c4  e5 12. Nxd5+  Kf7 13. Bxe5  Nxe5 14. Nxe5+  Kg8 15. Nxd7  Bxd7 16. e3  g6 17. Nf6+  Kg7 18. Qxd7+  Kxf6 19. Qd4+  Kf5 20. g4+  Kg5 21. Qxe4  Bb4+ 22. Ke2  Rd8 23. Rd1  Rf8 24. h4+  Kh6 25. g5+  Kh5 26. f4  h6 27. Qf3# 1-0

@@ -1,0 +1,16 @@
+[Event "Casual blitz game"]
+[Site "https://lichess.org/ewpfVTGk"]
+[Date "2024.08.05"]
+[White "ZUV_1969"]
+[Black "peterchero"]
+[Result "0-1"]
+[UTCDate "2024.08.05"]
+[UTCTime "13:59:12"]
+[WhiteElo "1500"]
+[BlackElo "1415"]
+[Variant "Standard"]
+[TimeControl "240+4"]
+[ECO "D00"]
+[Termination "Normal"]
+                
+1. d4  d5 2. e3  Nf6 3. f3  g6 4. g3  Bg7 5. c3  O-O 6. Bd3  Nc6 7. Bc2  e5 8. b4  exd4 9. b5  Ne5 10. cxd4  Ned7 11. Qd3  c6 12. bxc6  bxc6 13. g4  Nb6 14. a3  Qc7 15. Nc3  a5 16. Nge2  Ba6 17. Nb5 0-1

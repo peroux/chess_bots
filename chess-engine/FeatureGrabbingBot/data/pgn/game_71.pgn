@@ -1,0 +1,16 @@
+[Event "Casual blitz game"]
+[Site "https://lichess.org/jMopLUrg"]
+[Date "2024.06.22"]
+[White "Zoopam"]
+[Black "peterchero"]
+[Result "1-0"]
+[UTCDate "2024.06.22"]
+[UTCTime "20:27:38"]
+[WhiteElo "1470"]
+[BlackElo "1415"]
+[Variant "Standard"]
+[TimeControl "300+0"]
+[ECO "A40"]
+[Termination "Normal"]
+                
+1. d4  e5 2. dxe5  Nc6 3. Nf3  f6 4. exf6  Bc5 5. fxg7  Nge7 6. gxh8=Q+  Ng8 7. e3  Bxe3 8. Bxe3  Kf8 9. Qxh7  Ne5 10. Nxe5  Qg5 11. Qf7# 1-0

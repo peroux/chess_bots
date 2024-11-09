@@ -1,0 +1,16 @@
+[Event "Casual bullet game"]
+[Site "https://lichess.org/q0apzGkj"]
+[Date "2024.06.16"]
+[White "peterchero"]
+[Black "ItsAllVeryFake"]
+[Result "1-0"]
+[UTCDate "2024.06.16"]
+[UTCTime "22:24:23"]
+[WhiteElo "1400"]
+[BlackElo "1442"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "D02"]
+[Termination "Time forfeit"]
+                
+1. d4  d5 2. Nf3  Nf6 3. g3  e6 4. Bg2  Bd6 5. O-O  O-O 6. Nc3  Nbd7 7. Be3  b6 8. Qd2  Bb7 9. Nb5  e5 10. Nxd6  cxd6 11. dxe5  Nxe5 12. Nxe5  dxe5 13. Bg5  e4 14. Bxf6  Qxf6 15. f3  exf3 16. Bxf3  Qxb2 17. Bxd5  Bxd5 18. Qxd5  Rad8 19. Qf3  Qxc2 20. Rad1  Qc5+ 21. Kg2  Rxd1 22. Rxd1  h5 23. Rd5  Qc6 24. Rf5  h4 25. Qxc6 1-0

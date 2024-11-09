@@ -1,0 +1,16 @@
+[Event "Casual blitz game"]
+[Site "https://lichess.org/JsVi2rRC"]
+[Date "2024.08.06"]
+[White "Jazzfanatic"]
+[Black "peterchero"]
+[Result "1-0"]
+[UTCDate "2024.08.06"]
+[UTCTime "04:22:49"]
+[WhiteElo "1375"]
+[BlackElo "1415"]
+[Variant "Standard"]
+[TimeControl "300+3"]
+[ECO "A41"]
+[Termination "Normal"]
+                
+1. d4  d6 2. Bf4  e5 3. dxe5  Qe7 4. exd6  cxd6 5. e3  Nc6 6. Nf3  g6 7. Bb5  Bd7 8. O-O  O-O-O 9. Bxc6  Bxc6 10. Nd4  Nf6 11. Nc3  Ne4 12. Nxe4  Qxe4 13. f3  Qd5 14. c4  Qxc4 15. Nxc6  Qxc6 16. Rc1  Qxc1 17. Qxc1+ 1-0

@@ -1,0 +1,18 @@
+[Event "Rated bullet game"]
+[Site "https://lichess.org/zeURit6x"]
+[Date "2023.01.18"]
+[White "peterchero"]
+[Black "Ced724"]
+[Result "0-1"]
+[UTCDate "2023.01.18"]
+[UTCTime "22:56:07"]
+[WhiteElo "1306"]
+[BlackElo "1300"]
+[WhiteRatingDiff "-32"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "C50"]
+[Termination "Normal"]
+                
+1. Nf3  Nc6 2. Nc3  e5 3. e4  Bc5 4. Bc4  Nf6 5. Ng5  d6 6. Nxf7  Bxf2+ 7. Kf1  Qe7 8. Nxh8  Ng4 9. h3  Bg3 10. Nf7  Qf6+ 11. Kg1  Qf2# 0-1

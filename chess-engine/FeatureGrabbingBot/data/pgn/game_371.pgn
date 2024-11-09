@@ -1,0 +1,18 @@
+[Event "Rated rapid game"]
+[Site "https://lichess.org/lZDDRaaf"]
+[Date "2022.10.17"]
+[White "dastpak383383"]
+[Black "peterchero"]
+[Result "0-1"]
+[UTCDate "2022.10.17"]
+[UTCTime "16:28:38"]
+[WhiteElo "1088"]
+[BlackElo "944"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+259"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "C65"]
+[Termination "Normal"]
+                
+1. e4  Nc6 2. Nf3  e5 3. Bb5  Nf6 4. d3  Bc5 5. O-O  d5 6. Nxe5  O-O 7. Nxc6  bxc6 8. Bxc6  Qd6 9. exd5  Ng4 10. Bxa8  Qxh2# 0-1

@@ -1,0 +1,18 @@
+[Event "Rated bullet game"]
+[Site "https://lichess.org/dhPcifnq"]
+[Date "2023.04.20"]
+[White "Haffner"]
+[Black "peterchero"]
+[Result "1-0"]
+[UTCDate "2023.04.20"]
+[UTCTime "14:53:03"]
+[WhiteElo "1242"]
+[BlackElo "1282"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-20"]
+[Variant "Standard"]
+[TimeControl "120+1"]
+[ECO "C34"]
+[Termination "Normal"]
+                
+1. e4  e5 2. f4  exf4 3. Nf3  Nf6 4. e5  Nd5 5. Bc4  c6 6. Nc3  Nxc3 7. dxc3  d5 8. Bd3  Bc5 9. Bxf4  O-O 10. b4  Bb6 11. c4  Be6 12. c5  Bc7 13. O-O  f6 14. exf6  Rxf6 15. Bxc7  Qxc7 16. Ng5  Rxf1+ 17. Qxf1  Qe5 18. Bxh7+  Kh8 19. Qf8+  Bg8 20. Qxg8# 1-0

@@ -1,0 +1,18 @@
+[Event "Rated bullet game"]
+[Site "https://lichess.org/DjaciriL"]
+[Date "2024.02.07"]
+[White "MarcoosMan"]
+[Black "peterchero"]
+[Result "1-0"]
+[UTCDate "2024.02.07"]
+[UTCTime "02:03:32"]
+[WhiteElo "1426"]
+[BlackElo "1405"]
+[WhiteRatingDiff "+21"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "C50"]
+[Termination "Normal"]
+                
+1. e4  e5 2. Nf3  Nc6 3. Bc4  g6 4. d4  Bg7 5. d5  Nce7 6. Be3  Nf6 7. Qd2  O-O 8. Nc3  d6 9. Bh6  b6 10. Bxg7  Kxg7 11. h4  Nh5 12. Be2  Bb7 13. Ng5  c5 14. dxc6  Bxc6 15. Bxh5  d5 16. Bg4  dxe4 17. Qxd8  Raxd8 18. Ngxe4  Bxe4 19. Nxe4  Nf5 20. Bxf5  gxf5 21. Ng3  Rd6 22. Nxf5+  Kf6 23. Nxd6  Rd8 24. Ne4+  Kf5 25. Rd1  Re8 26. Ng3+  Kg4 27. O-O  e4 28. Rde1  e3 29. Rxe3  Rxe3 30. fxe3  Kxg3 31. Rxf7  Kg4 32. Rxa7  Kxh4 33. Rxh7+  Kg5 34. Rb7  Kf5 35. Rxb6  Ke4 36. c4  Kxe3 37. c5  Kd4 38. c6  Kd5 39. c7  Kc5 40. Rh6  Kd5 41. c8=Q  Ke4 42. Qe8+  Kd3 43. Rh7  Kd4 44. Rd7+  Kc4 45. Qc8+  Kb5 46. Rb7+  Ka6 47. Qa8# 1-0

@@ -1,0 +1,18 @@
+[Event "Rated blitz game"]
+[Site "https://lichess.org/PVHEmNvh"]
+[Date "2023.07.04"]
+[White "emaurss"]
+[Black "peterchero"]
+[Result "1-0"]
+[UTCDate "2023.07.04"]
+[UTCTime "18:56:50"]
+[WhiteElo "1305"]
+[BlackElo "1219"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-11"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C55"]
+[Termination "Normal"]
+                
+1. e4  e5 2. Nf3  Nc6 3. Bc4  Nf6 4. O-O  Bc5 5. d3  O-O 6. Bg5  d6 7. h3  Re8 8. Nc3  Be6 9. Bb3  Nd4 10. Nxd4  exd4 11. Nd5  Bxd5 12. Bxd5  h6 13. Bh4  g5 14. Bg3  Nxd5 15. exd5  c6 16. dxc6  bxc6 17. Qh5  Re6 18. f4  Rg6 19. fxg5  Rxg5 20. Qxh6  Rxg3 21. Qh5  Rg6 22. Rae1  d5 23. Re5  Bd6 24. Rg5  Rxg5 25. Qxf7+  Kh8 26. Rf6  Qg8 27. Rh6+  Qh7 28. Qxh7# 1-0

@@ -1,0 +1,18 @@
+[Event "Rated bullet game"]
+[Site "https://lichess.org/sTPwlDes"]
+[Date "2023.05.05"]
+[White "peterchero"]
+[Black "charlesedwardcheese"]
+[Result "0-1"]
+[UTCDate "2023.05.05"]
+[UTCTime "02:02:09"]
+[WhiteElo "1214"]
+[BlackElo "1162"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "A04"]
+[Termination "Time forfeit"]
+                
+1. Nf3  c5 2. g3  d6 3. Bg2  g6 4. O-O  Bg7 5. e4  Nf6 6. d3  Nbd7 7. Be3  O-O 8. Nc3  Qb6 9. b3  Qb4 10. Nd5  Nxd5 11. exd5  Bxa1 12. Qxa1  Nf6 13. c3  Qb6 14. d4  Nxd5 15. dxc5  dxc5 16. Bd2  Qd6 17. c4  Nf6 18. Rd1  Qc7 19. Bc3  Qc6 20. Ne5  Qe6 21. Bd5  Qf5 22. f4  Rb8 23. Re1  b6 24. Ng4  Nxd5 25. cxd5  Qxd5 26. Bd4  cxd4 27. Rd1  d3 28. Nf2  Qc5 29. Rd2  Bb7 0-1

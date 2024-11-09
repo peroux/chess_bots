@@ -1,0 +1,18 @@
+[Event "Rated bullet game"]
+[Site "https://lichess.org/HKGwUsdT"]
+[Date "2023.04.23"]
+[White "peterchero"]
+[Black "Sami2434"]
+[Result "0-1"]
+[UTCDate "2023.04.23"]
+[UTCTime "20:18:28"]
+[WhiteElo "1259"]
+[BlackElo "1256"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "C00"]
+[Termination "Time forfeit"]
+                
+1. e4  e6 0-1

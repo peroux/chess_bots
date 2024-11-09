@@ -1,0 +1,16 @@
+[Event "Casual bullet game"]
+[Site "https://lichess.org/1QzBLg0K"]
+[Date "2022.02.23"]
+[White "michaelscholz"]
+[Black "peterchero"]
+[Result "0-1"]
+[UTCDate "2022.02.23"]
+[UTCTime "15:33:10"]
+[WhiteElo "1490"]
+[BlackElo "1342"]
+[Variant "Standard"]
+[TimeControl "60+1"]
+[ECO "C60"]
+[Termination "Normal"]
+                
+1. e4  Nc6 2. Nf3  e5 3. Bb5  Bd6 4. O-O  Nge7 5. d3  O-O 6. Bg5  Nd4 7. Nxd4  exd4 8. Nd2  f6 9. Bh4  g5 10. Bg3  Bxg3 11. fxg3  Nc6 12. Bc4+  d5 13. Bxd5+  Kh8 14. Qh5  Qe7 15. Nf3  Re8 16. Rae1  Ne5 17. Nxe5  Qxe5 18. Qf7  Be6 19. Bxe6  Rxe6 20. Qxc7  Qxc7 0-1

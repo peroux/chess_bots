@@ -1,0 +1,18 @@
+[Event "Rated bullet game"]
+[Site "https://lichess.org/MfmXxMX3"]
+[Date "2023.04.18"]
+[White "leo021994"]
+[Black "peterchero"]
+[Result "1-0"]
+[UTCDate "2023.04.18"]
+[UTCTime "19:19:48"]
+[WhiteElo "1308"]
+[BlackElo "1282"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-19"]
+[Variant "Standard"]
+[TimeControl "120+1"]
+[ECO "A40"]
+[Termination "Normal"]
+                
+1. d4  Nc6 2. Bf4  d5 3. e3  e6 4. Bd3  Bd6 5. Ne2  Nf6 6. O-O  O-O 7. c4  Bxf4 8. Nxf4  dxc4 9. Bxc4  Nd5 10. Nxd5  exd5 11. Bd3  Bg4 12. Qxg4  Qf6 13. Nc3  Ne7 14. f4  Rae8 15. e4  dxe4 16. Bxe4  Ng6 17. f5  Qxd4+ 18. Kh1  Rxe4 19. Nxe4  Ne5 20. Nf6+  Kh8 21. Qxd4 1-0

@@ -1,0 +1,18 @@
+[Event "Rated bullet game"]
+[Site "https://lichess.org/7CaMyT34"]
+[Date "2023.05.29"]
+[White "peterchero"]
+[Black "dea66"]
+[Result "1-0"]
+[UTCDate "2023.05.29"]
+[UTCTime "03:13:41"]
+[WhiteElo "1198"]
+[BlackElo "1282"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "C40"]
+[Termination "Time forfeit"]
+                
+1. e4  e5 2. Nf3  d5 3. exd5  Qxd5 4. Nc3  Qd8 5. Bc4  Be6 6. Bxe6  fxe6 7. O-O  g6 8. Nxe5  Bg7 9. Nf3  Ne7 10. Re1  O-O 11. Rxe6  Nbc6 12. Re1  Qd7 13. d3  Rad8 14. Ne4  Nf5 15. h3  Nb4 16. c3  Nxd3 17. Ne5  Bxe5 18. Nc5  Qc6 19. Nxd3  Bh2+ 20. Kxh2  Qd6+ 21. Kg1  Nh4 22. Nf4 1-0

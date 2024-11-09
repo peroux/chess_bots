@@ -1,0 +1,18 @@
+[Event "Rated bullet game"]
+[Site "https://lichess.org/xEGf6cM1"]
+[Date "2024.01.14"]
+[White "vicpas"]
+[Black "peterchero"]
+[Result "0-1"]
+[UTCDate "2024.01.14"]
+[UTCTime "19:02:42"]
+[WhiteElo "1224"]
+[BlackElo "1234"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+12"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "C02"]
+[Termination "Time forfeit"]
+                
+1. e4  e6 2. d4  d5 3. e5  Nc6 4. Nf3  f6 5. Nh4  fxe5 6. Qh5+  g6 7. Nxg6  Nf6 8. Qh3  hxg6 9. Qxh8  exd4 10. Bb5  Bd7 11. Bxc6  Bxc6 12. Bh6  Qe7 13. Bg5  O-O-O 14. Bxf6  Qe8 15. Bxd8  Bb4+ 16. c3  Qxh8 17. cxb4  Qxd8 18. O-O  d3 19. Nd2  e5 20. a4  e4 21. b5  Bd7 22. b4  Bf5 23. a5  Qf6 24. b6  axb6 25. axb6  cxb6 26. Ra8+  Kc7 27. Rc1+  Kd6 28. Rb8  Qb2 29. Rxb7  Qxc1+ 30. Nf1  d2 31. Rxb6+  Ke5 0-1

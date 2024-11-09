@@ -1,0 +1,16 @@
+[Event "Casual blitz game"]
+[Site "https://lichess.org/wBh31eoK"]
+[Date "2023.01.23"]
+[White "peterchero"]
+[Black "radis1980"]
+[Result "1-0"]
+[UTCDate "2023.01.23"]
+[UTCTime "19:50:17"]
+[WhiteElo "1100"]
+[BlackElo "1048"]
+[Variant "Standard"]
+[TimeControl "240+4"]
+[ECO "A03"]
+[Termination "Normal"]
+                
+1. f4  d5 2. e4  c6 3. exd5  cxd5 4. Be2  g5 5. Nf3  gxf4 6. O-O  Bg4 7. Nd4  Bxe2 8. Qxe2  e5 9. Rxf4  Bc5 10. Qxe5+  Qe7 11. Qxh8  Qe1+ 12. Rf1  Kf8 13. Rxe1 1-0

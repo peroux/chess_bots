@@ -1,0 +1,16 @@
+[Event "Casual rapid game"]
+[Site "https://lichess.org/NrONNiFD"]
+[Date "2022.02.23"]
+[White "mydrall"]
+[Black "peterchero"]
+[Result "1-0"]
+[UTCDate "2022.02.23"]
+[UTCTime "17:49:09"]
+[WhiteElo "1500"]
+[BlackElo "1500"]
+[Variant "Standard"]
+[TimeControl "900+5"]
+[ECO "C28"]
+[Termination "Normal"]
+                
+1. e4  Nc6 2. Nc3  e5 3. Bc4  Nf6 4. f4  Bd6 5. f5  Nxe4 6. Qg4  Nf6 7. Qxg7  Rg8 8. Qxf7# 1-0

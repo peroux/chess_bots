@@ -1,0 +1,16 @@
+[Event "Casual rapid game"]
+[Site "https://lichess.org/IABOUv9b"]
+[Date "2024.10.09"]
+[White "peterchero"]
+[Black "Roel987"]
+[Result "1-0"]
+[UTCDate "2024.10.09"]
+[UTCTime "17:19:49"]
+[WhiteElo "1507"]
+[BlackElo "1421"]
+[Variant "Standard"]
+[TimeControl "1200+5"]
+[ECO "A40"]
+[Termination "Normal"]
+                
+1. d4  e6 2. Nf3  d5 3. g3  Nf6 4. Bg2  c5 5. O-O  cxd4 6. Nxd4  Nc6 7. c3  Bc5 8. Qa4  Bd7 9. Nxc6  Bxc6 10. Qf4  O-O 11. Nd2  Nh5 12. Qg4  Nf6 13. Qf4  Nh5 14. Qg4  Nf6 15. Qh4  Be7 16. c4  Ne4 17. Qf4  Nxd2 18. Bxd2  Qb6 19. Bc3  dxc4 20. Qxc4  Bxg2 21. Kxg2  Rac8 22. Qd4  Qc6+ 23. Kg1  Rfd8 24. Qxg7# 1-0

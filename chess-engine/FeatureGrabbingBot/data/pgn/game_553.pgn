@@ -1,0 +1,18 @@
+[Event "Rated bullet game"]
+[Site "https://lichess.org/FGeHxRBo"]
+[Date "2024.01.20"]
+[White "peterchero"]
+[Black "reckless_monk"]
+[Result "1-0"]
+[UTCDate "2024.01.20"]
+[UTCTime "01:22:34"]
+[WhiteElo "1272"]
+[BlackElo "1300"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "A40"]
+[Termination "Time forfeit"]
+                
+1. d4  h6 2. Nf3  a6 3. g3  b5 4. Bg2  g5 5. O-O  Bb7 6. Nc3  Bg7 7. e4  e6 8. d5  d6 9. Re1  Ne7 10. h4  O-O 11. hxg5  hxg5 12. Bxg5  f6 13. Be3  e5 14. Bh3  Bc8 15. Kg2  Bxh3+ 16. Kxh3  Qd7+ 17. Kg2  f5 18. Rh1  fxe4 19. Nxe4  Nf5 20. Qd2  c6 21. Rh3  cxd5 22. Neg5  d4 23. Rah1  dxe3 24. Rh8+  Bxh8 25. Rxh8+  Kxh8 26. Nf7+  Rxf7 27. Qd3  Nxg3 28. Qh7+ 1-0

@@ -1,0 +1,18 @@
+[Event "Rated blitz game"]
+[Site "https://lichess.org/AjnOIOfm"]
+[Date "2023.12.24"]
+[White "peterchero"]
+[Black "RADAY13"]
+[Result "1-0"]
+[UTCDate "2023.12.24"]
+[UTCTime "19:06:33"]
+[WhiteElo "1224"]
+[BlackElo "1236"]
+[WhiteRatingDiff "+23"]
+[BlackRatingDiff "-19"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D02"]
+[Termination "Normal"]
+                
+1. d4  d5 2. Nf3  e6 3. Nc3  Nf6 4. Bf4  Bd6 5. Ne5  Nbd7 6. Nxd7  Bxd7 7. Bxd6  cxd6 8. e3  e5 9. Qe2  O-O 10. g3  Re8 11. Qd3  e4 12. Qd1  b5 13. Nxb5  Bxb5 14. Bxb5  Re7 15. O-O  Qb6 16. Be2  Qxb2 17. Rb1  Qxa2 18. c4  Qa5 19. cxd5  Qxd5 20. Rb5  Qe6 21. d5  Qd7 22. f3  Re5 23. f4  Rxd5 24. Rxd5  Nxd5 25. Qxd5  Re8 26. Kg2  Qh3+ 27. Kxh3  Re6 28. Qa8+  Re8 29. Qxe8# 1-0

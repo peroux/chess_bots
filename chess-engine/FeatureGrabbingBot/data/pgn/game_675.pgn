@@ -1,0 +1,18 @@
+[Event "Rated blitz game"]
+[Site "https://lichess.org/LkJz186v"]
+[Date "2023.03.24"]
+[White "peterchero"]
+[Black "bunuokuyaniyidir"]
+[Result "0-1"]
+[UTCDate "2023.03.24"]
+[UTCTime "21:29:37"]
+[WhiteElo "1101"]
+[BlackElo "1195"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+4"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C50"]
+[Termination "Normal"]
+                
+1. e4  e5 2. Nf3  Nc6 3. Nc3  Bc5 4. Bc4  Nf6 5. O-O  Nxe4 6. Nxe4  d5 7. Nxc5  dxc4 8. b3  cxb3 9. axb3  b6 10. Na4  b5 11. Nb2  O-O 12. d3  Re8 13. c4  Ba6 14. Rxa6  Nb4 15. Ra1  bxc4 16. bxc4  h6 17. Be3  a6 18. Bc5  Nc6 19. Qd2  Nd4 20. Nxd4  exd4 21. Rfe1  Rxe1+ 22. Rxe1  Rb8 23. Re4  Ra8 24. Rxd4  Qe8 25. Re4  Qd8 26. h4  c6 27. Nd1  f5 28. Re5  g6 29. Qxh6  Qd7 30. Qxg6+  Qg7 31. Re8+  Rxe8 32. Qxe8+  Qf8 33. Qe6+  Qf7 34. Qe3  f4 35. Qf3  a5 36. Bb6  a4 37. Nc3  a3 38. Bc7  Qxc7 39. Qxf4  Qxf4 40. g3  Qc1+ 41. Kg2  Qxc3 42. Kf3  a2 43. Ke4  a1=Q 44. Kf5  Qae1 45. Kg4  Qd4+ 46. Kh3  Qh1# 0-1

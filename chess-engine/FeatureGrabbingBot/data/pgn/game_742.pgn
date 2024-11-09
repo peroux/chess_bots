@@ -1,0 +1,18 @@
+[Event "Rated bullet game"]
+[Site "https://lichess.org/ml5QVJcL"]
+[Date "2022.11.30"]
+[White "peterchero"]
+[Black "menopimezzo"]
+[Result "0-1"]
+[UTCDate "2022.11.30"]
+[UTCTime "17:44:44"]
+[WhiteElo "1313"]
+[BlackElo "1308"]
+[WhiteRatingDiff "-31"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "120+1"]
+[ECO "D02"]
+[Termination "Normal"]
+                
+1. d4  d5 2. Nf3  Nc6 3. Bf4  Bg4 4. Nc3  e6 5. Nb5  Bd6 6. Bxd6  cxd6 7. Qd3  a6 8. Nc3  Nf6 9. O-O-O  h6 10. Kb1  O-O 11. h3  Bf5 12. Qe3  Nb4 13. Rd2  Nxc2 14. Rxc2  Bxc2+ 15. Kxc2  b5 16. Qd3  Rc8 17. e3  Ne4 18. Be2  Nxf2 19. Qd2  Nxh1 20. g4  Ng3 21. Bd3  b4 22. Kb3  bxc3 23. bxc3  Rb8+ 24. Kc2  Qa5 25. Kd1  Qa4+ 26. Ke1  Rfc8 27. Bc2  Qa5 28. Kf2  Ne4+ 29. Bxe4  dxe4 30. Ne1  d5 31. Nc2  Rb2 32. Kg3  Rxc3 33. Qd1  Rbxc2 34. Qf1  Rxe3+ 35. Kh4  Qe1+ 36. Qxe1  Rxe1 37. Kg3  Rxa2 38. Kf4  Rh1 39. h4  Rxh4 40. Ke5  Rxg4 41. Kd6  Ra4 42. Ke5  e3 43. Kd6  Rgxd4 44. Ke7  e2 45. Ke8  e1=Q 46. Ke7  Qb4+ 47. Kd8  Qf8+ 48. Kd7  Qa8 49. Kc7  Qa7+ 50. Kc6  Rdc4+ 51. Kd6  Qb6+ 52. Ke5  Re4# 0-1

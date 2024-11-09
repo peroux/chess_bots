@@ -1,0 +1,16 @@
+[Event "Casual rapid game"]
+[Site "https://lichess.org/KkQRHgLM"]
+[Date "2023.03.30"]
+[White "peterchero"]
+[Black "Y-c5"]
+[Result "1-0"]
+[UTCDate "2023.03.30"]
+[UTCTime "16:29:28"]
+[WhiteElo "1502"]
+[BlackElo "1500"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "A45"]
+[Termination "Time forfeit"]
+                
+1. d4  Nf6 2. Nc3  d5 3. Nf3  Nc6 4. Bf4  Bg4 5. Nb5  Rc8 6. e3  e6 7. Bd3  a6 8. Nc3  Nb4 9. O-O  Nxd3 10. cxd3  Bd6 11. Bxd6  Qxd6 12. e4  O-O 13. e5  Qd7 14. exf6 1-0

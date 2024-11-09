@@ -1,0 +1,18 @@
+[Event "Rated blitz game"]
+[Site "https://lichess.org/ExP9vBS3"]
+[Date "2023.01.04"]
+[White "peterchero"]
+[Black "scaccomattooooo"]
+[Result "1-0"]
+[UTCDate "2023.01.04"]
+[UTCTime "01:50:51"]
+[WhiteElo "1075"]
+[BlackElo "969"]
+[WhiteRatingDiff "+39"]
+[BlackRatingDiff "-4"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C30"]
+[Termination "Normal"]
+                
+1. e4  e5 2. f4  f5 3. Nf3  fxe4 4. Nxe5  Nf6 5. Bc4  d5 6. Bb5+  Bd7 7. Bxd7+  Nbxd7 8. Nxd7  Qxd7 9. O-O  Bc5+ 10. Kh1  O-O-O 11. d3  Kb8 12. dxe4  Bd6 13. e5  Ne4 14. e6  Qxe6 15. Nc3  Nxc3 16. bxc3  Rhf8 17. Rb1  Rf7 18. g3  Rdf8 19. Qd2  g5 20. Qf2  gxf4 21. gxf4  Bxf4 22. Bxf4  Rxf4 23. Qg2  Rg8 24. Rxf4  Rxg2 25. Rf8+  Qc8 26. Rxc8+  Kxc8 27. Kxg2  c6 28. Rf1  Kc7 29. Rf7+  Kb6 30. Rxh7  a5 31. h4  Kb5 32. Rxb7+  Ka6 33. Re7  Kb5 34. h5  Ka4 35. h6  Ka3 36. h7  Kxa2 37. h8=Q  Kb2 38. Qd4  a4 39. Re2  a3 40. Qb4+  Ka2 41. Qb3+  Ka1 42. Re1# 1-0

@@ -1,0 +1,16 @@
+[Event "Casual bullet game"]
+[Site "https://lichess.org/USVv7ZWX"]
+[Date "2024.10.01"]
+[White "Jean_Peuplu"]
+[Black "peterchero"]
+[Result "0-1"]
+[UTCDate "2024.10.01"]
+[UTCTime "16:36:44"]
+[WhiteElo "1407"]
+[BlackElo "1400"]
+[Variant "Standard"]
+[TimeControl "0+1"]
+[ECO "C60"]
+[Termination "Time forfeit"]
+                
+1. e4  e5 2. Nf3  Nc6 3. Bb5  b6 4. Bxc6  g6 5. Bxa8  c6 6. Bxc6  Nf6 7. Bd5  Bc5 8. Bxf7+  Kxf7 9. O-O  Kg7 10. d3  Rf8 11. Nxe5  Kg8 12. Nxg6  hxg6 13. Bg5  Qe7 0-1

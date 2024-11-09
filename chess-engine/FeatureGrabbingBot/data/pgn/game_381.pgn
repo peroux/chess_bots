@@ -1,0 +1,16 @@
+[Event "Casual blitz game"]
+[Site "https://lichess.org/HKTP1nRB"]
+[Date "2022.02.23"]
+[White "joewie919"]
+[Black "peterchero"]
+[Result "0-1"]
+[UTCDate "2022.02.23"]
+[UTCTime "15:39:04"]
+[WhiteElo "1156"]
+[BlackElo "1148"]
+[Variant "Standard"]
+[TimeControl "180+2"]
+[ECO "C45"]
+[Termination "Normal"]
+                
+1. e4  e5 2. d4  Nc6 3. Nf3  exd4 4. Nxd4  Nf6 5. Bg5  Be7 6. Bb5  Nxe4 7. Bxe7  Qxe7 8. O-O  Nxd4 9. Qxd4  Nd6 10. Re1  Qxe1+ 0-1

@@ -1,0 +1,18 @@
+[Event "Rated bullet game"]
+[Site "https://lichess.org/k5byKahW"]
+[Date "2024.01.29"]
+[White "mani_pulation"]
+[Black "peterchero"]
+[Result "1-0"]
+[UTCDate "2024.01.29"]
+[UTCTime "17:07:28"]
+[WhiteElo "1350"]
+[BlackElo "1350"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "D00"]
+[Termination "Time forfeit"]
+                
+1. d4  d5 2. Bg5  Nf6 3. e3  Qd6 4. Bxf6  Qxf6 5. Nf3  g6 6. Bd3  Bg7 7. Nc3  O-O 8. Nxd5  Qd6 9. e4  f5 10. Bc4  fxe4 11. Nxe7+  Kh8 12. Nxc8  Rxc8 13. Ne5  Bxe5 14. dxe5  Qxe5 15. O-O  Rf8 16. Qd5  Qxd5 17. Bxd5  Nc6 18. Bxe4  Rae8 19. Bxc6  bxc6 20. Rfe1  Rxe1+ 21. Rxe1  Rf6 22. Re7  Kg8 23. Rxc7  Rf7 24. Rxf7  Kxf7 25. Kf1  Ke7 26. Ke2  Ke6 27. Kd3  Kd5 28. c4+  Kc5 29. b4+  Kxb4 30. Kd4  Ka5 31. c5  a6 32. Ke5  Kb5 33. Kd6 1-0

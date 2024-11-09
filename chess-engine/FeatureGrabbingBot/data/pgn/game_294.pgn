@@ -1,0 +1,18 @@
+[Event "Rated blitz game"]
+[Site "https://lichess.org/xH3gxR28"]
+[Date "2023.03.24"]
+[White "Zezo-BekoEgypt"]
+[Black "peterchero"]
+[Result "0-1"]
+[UTCDate "2023.03.24"]
+[UTCTime "21:11:10"]
+[WhiteElo "1087"]
+[BlackElo "1068"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+15"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C20"]
+[Termination "Time forfeit"]
+                
+1. e4  e5 2. h3  Nc6 3. a3  Nf6 4. Nf3  d5 5. exd5  Nxd5 6. Bb5  Qd6 7. O-O  Be7 8. d3  O-O 9. Re1  Nd4 10. Bc4  Nxf3+ 11. Qxf3  Be6 12. Nd2  a6 13. Ne4  Qd8 14. Bxd5  Bxd5 15. c4  Bxe4 16. Rxe4  f6 17. h4  c5 18. h5  Rb8 19. h6  g6 20. Be3  b5 21. g4  bxc4 22. dxc4  Rxb2 23. Qh3  Qd7 24. Kg2  Rfb8 25. Rh1  Rxf2+ 0-1

@@ -1,0 +1,16 @@
+[Event "Casual rapid game"]
+[Site "https://lichess.org/VFtCdf91"]
+[Date "2023.11.20"]
+[White "chessbudy1"]
+[Black "peterchero"]
+[Result "0-1"]
+[UTCDate "2023.11.20"]
+[UTCTime "19:16:43"]
+[WhiteElo "1239"]
+[BlackElo "1504"]
+[Variant "Standard"]
+[TimeControl "900+2"]
+[ECO "D20"]
+[Termination "Normal"]
+                
+1. d4  d5 2. c4  dxc4 3. e4  e5 4. d5  Qh4 5. Nc3  Bb4 6. Qa4+  c6 7. Qxb4  Nf6 8. Bxc4  Nxe4 9. dxc6  Qxf2+ 10. Kd1  Bg4+ 11. Be2  Nxc6 12. Qxe4  O-O-O+ 13. Kc2  Nd4+ 14. Kb1  Bf5 15. Nh3  Bxe4+ 16. Nxe4  Qxe2 17. Nhg5  Qd3# 0-1

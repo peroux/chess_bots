@@ -1,0 +1,16 @@
+[Event "Casual blitz game"]
+[Site "https://lichess.org/W608ssHx"]
+[Date "2022.12.09"]
+[White "peterchero"]
+[Black "iq7o9"]
+[Result "1-0"]
+[UTCDate "2022.12.09"]
+[UTCTime "18:20:28"]
+[WhiteElo "1075"]
+[BlackElo "1245"]
+[Variant "Standard"]
+[TimeControl "300+0"]
+[ECO "D02"]
+[Termination "Normal"]
+                
+1. Nf3  d5 2. d4  Nf6 3. g3  e6 4. Bg2  c5 5. O-O  c4 6. Nc3  Bd6 7. Re1  Bd7 8. e4  Bb4 9. exd5  O-O 10. dxe6  Bxe6 11. Ne5  Bxc3 12. bxc3  Qe7 13. Bxb7  Bd5 14. Bxa8  Bxa8 15. Nxc4  Qc7 16. Ne5  Qxc3 17. Bd2  Qxd4 18. Nd3  Nbd7 19. Be3  Qd5 20. f3  Rc8 21. Nf4  Qxf3 22. Qxf3  Bxf3 23. Bxa7  Rxc2 24. Rac1  Rxa2 25. Rc8+  Nf8 26. Rxf8+  Kxf8 27. Bc5+  Kg8 28. Rb1  g6 29. Rb8+  Kg7 30. Bf8+  Kg8 31. Bh6+  Ne8 32. Rxe8# 1-0

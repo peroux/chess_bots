@@ -1,0 +1,18 @@
+[Event "Rated bullet game"]
+[Site "https://lichess.org/aIXVf70R"]
+[Date "2024.01.31"]
+[White "peterchero"]
+[Black "dboschm"]
+[Result "0-1"]
+[UTCDate "2024.01.31"]
+[UTCTime "00:22:50"]
+[WhiteElo "1364"]
+[BlackElo "1448"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+4"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "A40"]
+[Termination "Normal"]
+                
+1. d4  c6 2. Nf3  d5 3. g3  Nf6 4. Bg2  e6 5. O-O  Be7 6. Nc3  O-O 7. e4  dxe4 8. Nxe4  Nxe4 9. Ne5  Nf6 10. Qd3  Nbd7 11. b3  Qc7 12. Nxd7  Qxd7 13. Bb2  b6 14. Bf3  Bb7 15. Be2  Rad8 16. c3  Qd5 17. f3  c5 18. Bd1  Nh5 19. Bc2  g6 20. g4  Nf4 21. Qd2  Nh3+ 22. Kh1  cxd4 23. c4  Qe5 24. Qd3  Bd6 25. Bc1  Qxh2# 0-1

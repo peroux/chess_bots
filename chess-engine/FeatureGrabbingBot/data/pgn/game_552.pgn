@@ -1,0 +1,18 @@
+[Event "Rated bullet game"]
+[Site "https://lichess.org/H6akiJzL"]
+[Date "2024.01.20"]
+[White "peterchero"]
+[Black "hotchicken222"]
+[Result "0-1"]
+[UTCDate "2024.01.20"]
+[UTCTime "05:39:11"]
+[WhiteElo "1273"]
+[BlackElo "1367"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+4"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "C44"]
+[Termination "Time forfeit"]
+                
+1. e4  e5 2. Nf3  Nc6 3. g3  Bc5 4. Bg2  Nf6 5. O-O  Nxe4 6. Nxe5  Nxe5 7. Bxe4  O-O 8. Qe2  h6 9. Bh7+  Kxh7 10. Qxe5  Re8 11. Qc3  d6 12. d3  b5 13. Bd2  b4 14. Qb3  a5 15. Qxf7  Qd7 16. Qf5+  Qxf5 17. Nc3  Rf8 18. Ne4  Bxf2+ 19. Nxf2  Qc5 20. Rae1  Bh3 21. Be3  Qxc2 22. Nxh3  Rxf1+ 23. Rxf1  Qxb2 24. Rf7  Qb1+ 25. Kg2  Qxa2+ 26. Kf3  Qxf7+ 27. Nf4  Re8 28. Bd4  b3 29. h3  Rb8 30. Ke4  b2 31. Ne2  Qe7+ 32. Kd5  b1=Q 33. Nf4  Qf7+ 34. Ne6  Qxe6+ 35. Kc6  Qbb3 36. Bc5  Qb6+ 37. Bxb6  cxb6 38. Kc7  Qe4 39. Kxb8  Qe6 40. Kb7  Qe8 0-1

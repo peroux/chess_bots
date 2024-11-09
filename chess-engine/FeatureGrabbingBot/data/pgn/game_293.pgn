@@ -1,0 +1,18 @@
+[Event "Rated blitz game"]
+[Site "https://lichess.org/mC3I0JUI"]
+[Date "2023.03.24"]
+[White "bucchin"]
+[Black "peterchero"]
+[Result "0-1"]
+[UTCDate "2023.03.24"]
+[UTCTime "21:19:13"]
+[WhiteElo "1171"]
+[BlackElo "1083"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+18"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A00"]
+[Termination "Time forfeit"]
+                
+1. Nc3  Nc6 2. b3  e5 3. e3  Nf6 4. Bb2  d5 5. d3  Bd6 6. Qe2  O-O 7. O-O-O  Be6 8. Nf3  e4 9. dxe4  dxe4 10. Ng5  Nd5 11. Ncxe4  Bb4 12. Nxe6  fxe6 13. Qg4  Rf7 14. Bc4  Qd7 15. Bxd5  exd5 16. Qxd7  Rxd7 17. Ng5  Rf8 18. e4  Rxf2 19. Rhg1  Nd8 20. Rxd5  Rxd5 21. exd5  Bd2+ 22. Kd1  Nf7 23. Ne4  Rf5 24. Nxd2  Rxd5 25. Rf1  Ng5 26. c4  Ne4 27. Bc1  Rd7 28. Rf4  Rd6 29. Rxe4  c6 30. Re8+  Kf7 31. Ra8  Ke7 32. Rxa7  Rd8 33. Rxb7+  Ke8 34. Rb6  Rd7 35. Rxc6  Kd8 36. Re6  Kc8 0-1

@@ -1,0 +1,18 @@
+[Event "Rated blitz game"]
+[Site "https://lichess.org/uFInBLQ7"]
+[Date "2022.02.20"]
+[White "IBEL1"]
+[Black "peterchero"]
+[Result "0-1"]
+[UTCDate "2022.02.20"]
+[UTCTime "23:41:53"]
+[WhiteElo "1110"]
+[BlackElo "1109"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+39"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C44"]
+[Termination "Time forfeit"]
+                
+1. e4  e5 2. Nf3  Nc6 3. Bd3  Nf6 4. O-O  Bc5 5. Nc3  O-O 6. Nd5  Nxd5 7. exd5  Nb4 8. Bxh7+  Kxh7 9. Nxe5  Qg5 10. d4  Bd6 11. Bxg5  Bxe5 12. Qh5+  Kg8 13. Be7  g6 14. Qxe5  Re8 15. Qf6  Nxd5 16. Qg5  Nxe7 17. Qh6  Nf5 18. Qg5  d6 19. Rae1  Be6 20. d5  Bd7 21. Rxe8+  Rxe8 22. c4  Kg7 23. g4  Ne7 24. h4  c6 25. h5  cxd5 26. hxg6  Nxg6 27. Qxd5  Bxg4 28. Qd4+  Ne5 29. Qxd6  Nf3+ 30. Kg2  Nh4+ 31. Kg3  Nf5+ 32. Kxg4  Nxd6 33. Rg1  Re4+ 34. Kf3+  Kf6 35. Rg8  Re8 36. Rg4  Kf5 37. Rf4+  Kg6 38. b3  f6 39. c5  Nc8 40. b4  Re5 41. Kg2  Kg5 42. Rf3  Kg4 43. Rg3+  Kf4 44. Rg8  Ne7 45. Re8  Re2 46. c6  bxc6 47. Ra8  Kf5 48. Rxa7  Nd5 49. Rd7  Nxb4 50. Rd6  Nxa2 0-1

@@ -1,0 +1,16 @@
+[Event "Casual blitz game"]
+[Site "https://lichess.org/kvkTMLTl"]
+[Date "2022.10.14"]
+[White "peterchero"]
+[Black "Solokow"]
+[Result "0-1"]
+[UTCDate "2022.10.14"]
+[UTCTime "16:30:58"]
+[WhiteElo "1148"]
+[BlackElo "1131"]
+[Variant "Standard"]
+[TimeControl "300+3"]
+[ECO "D02"]
+[Termination "Time forfeit"]
+                
+1. Nf3  d5 2. d4  Nf6 3. Bf4  e6 4. Nc3  c5 5. dxc5  Bxc5 6. Nb5  Bb6 7. Nd6+  Ke7 8. Nxc8+  Qxc8 9. Qd2  Ne4 10. Qb4+  Bc5 11. Qb5  a6 12. Qa5  Nc6 0-1

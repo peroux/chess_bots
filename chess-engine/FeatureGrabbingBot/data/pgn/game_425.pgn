@@ -1,0 +1,16 @@
+[Event "Casual blitz game"]
+[Site "https://lichess.org/vEIeMgxW"]
+[Date "2024.09.04"]
+[White "peterchero"]
+[Black "Whyissodidicult"]
+[Result "0-1"]
+[UTCDate "2024.09.04"]
+[UTCTime "18:06:11"]
+[WhiteElo "1415"]
+[BlackElo "1500"]
+[Variant "Standard"]
+[TimeControl "300+0"]
+[ECO "D02"]
+[Termination "Normal"]
+                
+1. d4  d5 2. Nf3  Bf5 3. g3  Nf6 4. Bg2  e6 5. O-O  Nbd7 6. b3  Bd6 7. c4  dxc4 8. bxc4  c5 9. Bb2  h5 10. Qb3  h4 11. Nxh4  Be4 12. dxc5  Nxc5 13. Qe3  Ng4 14. Qd2  Bxg2 15. Kxg2  Ne4 16. Qd4  Rxh4 17. gxh4  Qxh4 18. Qxe4  Qxh2+ 19. Kf3  Qh3# 0-1

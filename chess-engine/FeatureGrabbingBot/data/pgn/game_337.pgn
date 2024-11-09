@@ -1,0 +1,18 @@
+[Event "Rated blitz game"]
+[Site "https://lichess.org/hhDL0wq2"]
+[Date "2023.01.04"]
+[White "patgne"]
+[Black "peterchero"]
+[Result "1-0"]
+[UTCDate "2023.01.04"]
+[UTCTime "02:00:49"]
+[WhiteElo "1149"]
+[BlackElo "1143"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-42"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C50"]
+[Termination "Normal"]
+                
+1. e4  e5 2. Nf3  Nc6 3. Nc3  Bc5 4. Bc4  Nf6 5. a3  O-O 6. b4  Bd4 7. Nxd4  exd4 8. Nd5  Nxd5 9. Bxd5  d6 10. Bb2  Be6 11. Bxe6  fxe6 12. c3  Qf6 13. O-O  dxc3 14. Bxc3  e5 15. Rb1  Nd4 16. Bxd4  exd4 17. d3  Rf7 18. Qb3  Rf8 19. a4  g5 20. h3  h5 21. Rbe1  g4 22. hxg4  hxg4 23. e5  dxe5 24. f4  g3 25. fxe5  Qxf1+ 26. Rxf1  Kh8 27. Rxf7  Kg8 28. e6  Rd8 29. e7  Rd7 1-0

@@ -1,0 +1,18 @@
+[Event "Rated bullet game"]
+[Site "https://lichess.org/1fA1miyn"]
+[Date "2024.01.30"]
+[White "chessmastercrypto"]
+[Black "peterchero"]
+[Result "1-0"]
+[UTCDate "2024.01.30"]
+[UTCTime "00:09:50"]
+[WhiteElo "1351"]
+[BlackElo "1347"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "C42"]
+[Termination "Normal"]
+                
+1. e4  e5 2. Nf3  Nf6 3. Nc3  g6 4. d3  Bg7 5. Bg5  O-O 6. Bxf6  Bxf6 7. d4  c6 8. dxe5  Be7 9. Qe2  d6 10. O-O-O  Qc7 11. exd6  Bxd6 12. Qd3  Rd8 13. e5  Bxe5 14. Qxd8+  Qxd8 15. Rxd8+  Kg7 16. Nxe5  Bf5 17. f3  Na6 18. Rxa8  Nc7 19. Rxa7  Nb5 20. Rxb7  Nxc3 21. bxc3  Be6 22. Kd2  Bxa2 23. Kc1  Be6 24. Kb2  Bd7 25. Ka3  Be6 26. Nd7  f6 27. Kb4  Kh6 28. Bc4  Kg5 29. Bxe6  f5 30. Ne5  f4 31. Rg7  Kf6 32. Bd7  Kxe5 33. Bxc6  Kf6 34. Rg8  Kf7 35. Ra8  Ke7 36. Ra6  Kd6 37. Ra7  Kxc6 38. Rxh7  Kd6 39. Rh6  Ke6 40. Rxg6+  Kf5 41. Rg8  Ke5 42. Re8+  Kf5 43. Rhe1  Kg5 44. h3  Kf5 45. R1e5+  Kf6 46. Rh5  Kg6 47. Ra5  Kf7 48. Rea8  Kg6 49. Rb8  Kf7 50. Rb6  Kg8 51. Ra7  Kf8 52. Rb8# 1-0

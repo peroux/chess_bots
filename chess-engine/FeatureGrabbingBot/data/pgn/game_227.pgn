@@ -1,0 +1,18 @@
+[Event "Rated bullet game"]
+[Site "https://lichess.org/SXyWxqMr"]
+[Date "2023.04.24"]
+[White "MisterBarrios"]
+[Black "peterchero"]
+[Result "0-1"]
+[UTCDate "2023.04.24"]
+[UTCTime "00:15:58"]
+[WhiteElo "1142"]
+[BlackElo "1214"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "A00"]
+[Termination "Time forfeit"]
+                
+1. e3  d5 2. a3  Nc6 3. h3  Nf6 4. Ne2  e5 5. Ng3  d4 6. e4  Be6 7. d3  Qd7 8. Bg5  O-O-O 9. Be2  Re8 10. Bd2  Na5 11. Bxa5  b6 12. Bd2  Kb7 13. Qc1  Bc5 14. b4  Bd6 15. Qb2  Re7 16. a4  Kc8 17. a5  Kd8 18. axb6  cxb6 19. Qa3  Ke8 20. Qb2  Kf8 21. Na3  g6 22. Nc4  Kg7 23. Nxd6  Qxd6 24. Qa3  b5 25. Qa5  Rf8 26. Qxb5  Bd7 27. Qa5  Bc6 28. Qa3  Bb7 29. Qb2  Ba6 30. b5  Bb7 31. Bb4  Qd7 32. Bxe7  Qxe7 33. b6  axb6 0-1

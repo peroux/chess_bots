@@ -1,0 +1,16 @@
+[Event "Casual bullet game"]
+[Site "https://lichess.org/o2OLt8Gh"]
+[Date "2024.02.07"]
+[White "manuelpepe"]
+[Black "peterchero"]
+[Result "1-0"]
+[UTCDate "2024.02.07"]
+[UTCTime "00:08:23"]
+[WhiteElo "1453"]
+[BlackElo "1405"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "D00"]
+[Termination "Normal"]
+                
+1. d4  d5 2. Bf4  Nf6 3. e3  g6 4. Nf3  Bg7 5. Bd3  O-O 6. h4  Nc6 7. h5  Nxh5 8. Rxh5  gxh5 9. Ng5  e6 10. Bxh7+  Kh8 11. Qxh5  Qxg5 12. Bxg5  Rg8 13. Bg6+  Bh6 14. Bf6+  Rg7 15. Qxh6+  Kg8 16. Qxg7# 1-0

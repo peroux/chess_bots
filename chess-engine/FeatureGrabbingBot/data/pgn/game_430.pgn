@@ -1,0 +1,16 @@
+[Event "Casual bullet game"]
+[Site "https://lichess.org/lM0wvzye"]
+[Date "2024.08.17"]
+[White "peterchero"]
+[Black "Japan0708"]
+[Result "1-0"]
+[UTCDate "2024.08.17"]
+[UTCTime "18:57:17"]
+[WhiteElo "1400"]
+[BlackElo "1302"]
+[Variant "Standard"]
+[TimeControl "0+3"]
+[ECO "D02"]
+[Termination "Normal"]
+                
+1. d4  d5 2. Nf3  e6 3. g3  Bd6 4. Bg2  Nf6 5. O-O  O-O 6. Nc3  Nbd7 7. Bf4  Bxf4 8. gxf4  Ne4 9. Qd3  f5 10. Nxe4  dxe4 11. Qe3  c5 12. Nd2  b6 13. c3  Bb7 14. dxc5  Nxc5 15. Nc4  Qc7 16. Rad1  Rad8 17. Rc1  Bd5 18. b3  Bxc4 19. bxc4  Rd6 20. f3  exf3 21. exf3  Rfd8 22. Rce1  Qe7 23. Qf2  Na4 24. Qe2  Nxc3 25. Qc2  Rd3 26. Rf2  b5 27. Rfe2  bxc4 28. Rxe6  Qf7 29. Bf1  Rxf3 30. Bxc4  Rc8 31. Re8+  Rxe8 32. Rxe8# 1-0

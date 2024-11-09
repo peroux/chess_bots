@@ -1,0 +1,17 @@
+[Event "Casual blitz game"]
+[Site "https://lichess.org/sJ5yjWjm"]
+[Date "2024.10.18"]
+[White "peterchero"]
+[Black "Boris-Trapsky"]
+[Result "0-1"]
+[UTCDate "2024.10.18"]
+[UTCTime "20:15:21"]
+[WhiteElo "1356"]
+[BlackElo "2022"]
+[BlackTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "300+3"]
+[ECO "D02"]
+[Termination "Normal"]
+                
+1. d4  Nf6 2. Nf3  d5 3. g3  e6 4. Bg2  Be7 5. O-O  h6 6. c4  O-O 7. Nbd2  Nc6 8. cxd5  exd5 9. Ne5  Nxd4 10. e4  Bd6 11. exd5  Bxe5 12. Nc4  Bg4 13. f3  Qxd5 14. fxg4  Qxc4 15. Bxh6  gxh6 16. Rc1  Ne2+ 0-1

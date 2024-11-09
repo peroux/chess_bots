@@ -1,0 +1,18 @@
+[Event "Rated blitz game"]
+[Site "https://lichess.org/ZI2Ifyei"]
+[Date "2023.04.22"]
+[White "m00ya"]
+[Black "peterchero"]
+[Result "1-0"]
+[UTCDate "2023.04.22"]
+[UTCTime "23:42:05"]
+[WhiteElo "1101"]
+[BlackElo "1159"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C30"]
+[Termination "Normal"]
+                
+1. e4  e5 2. f4  Nc6 3. Nf3  d6 4. h3  Be6 5. Bb5  exf4 6. d4  a6 7. Bxc6+  bxc6 8. Bxf4  d5 9. exd5  cxd5 10. Qd3  Bd6 11. Bxd6  Qxd6 12. O-O  Nf6 13. Nbd2  O-O 14. Ng5  Rab8 15. Rxf6  g6 16. Raf1  Rxb2 17. Nxe6  fxe6 18. Rxf8+  Qxf8 19. Rxf8+  Kxf8 20. Qxa6  Rxc2 21. Qxe6  Rxd2 22. Qxd5  Rxa2 23. Qxa2  c5 24. Qc4  Ke7 25. dxc5  Kd7 26. Kf2  Kc7 27. Kf3  h5 28. g4  g5 29. gxh5  g4+ 30. hxg4  Kc6 31. h6  Kd7 32. h7  Ke7 33. c6  Ke8 34. c7  Kd7 35. c8=Q+  Ke7 36. Q4c5+  Kf7 37. Q5f5+  Ke7 38. Qce6+  Kd8 39. Qeg6  Ke7 40. Qg7+  Kd6 41. Qfg5  Ke6 42. Q7g6+  Kd7 43. Q5h6  Ke7 44. Qgg7+  Ke8 45. h8=Q# 1-0

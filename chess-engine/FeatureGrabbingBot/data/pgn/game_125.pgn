@@ -1,0 +1,18 @@
+[Event "Rated blitz game"]
+[Site "https://lichess.org/qV6CeDd6"]
+[Date "2024.02.04"]
+[White "AndriyDizak"]
+[Black "peterchero"]
+[Result "0-1"]
+[UTCDate "2024.02.04"]
+[UTCTime "16:40:19"]
+[WhiteElo "1366"]
+[BlackElo "1381"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+8"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C46"]
+[Termination "Normal"]
+                
+1. e4  e5 2. Nf3  g6 3. Nc3  Nc6 4. d4  exd4 5. Nxd4  Nxd4 6. Qxd4  Bg7 7. Qd2  Nf6 8. e5  Qe7 9. Qe3  Nh5 10. Be2  Bxe5 11. Bxh5  Bxc3+ 12. Bd2  Bxd2+ 13. Kxd2  Qxe3+ 14. Kxe3  gxh5 15. Rhe1  O-O 16. Kd3  b6 17. Re3  Bb7 18. Rg3+  Kh8 19. Re1  Rae8 20. Rd1  Re6 21. Rg1  Rfe8 22. f3  Re3+ 23. Kd2  Re2+ 24. Kd3  Ba6+ 25. Kc3 0-1

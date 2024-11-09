@@ -1,0 +1,16 @@
+[Event "Casual classical game"]
+[Site "https://lichess.org/9wqYeVsI"]
+[Date "2022.12.07"]
+[White "peterchero"]
+[Black "baqeri2008"]
+[Result "0-1"]
+[UTCDate "2022.12.07"]
+[UTCTime "17:00:17"]
+[WhiteElo "1500"]
+[BlackElo "1457"]
+[Variant "Standard"]
+[TimeControl "3600+30"]
+[ECO "A04"]
+[Termination "Time forfeit"]
+                
+1. Nf3  c6 2. d4  d5 3. Nc3  Nf6 4. Bf4  Bf5 5. e3  Nbd7 6. Be2  e6 7. O-O  Qb6 8. b3  Bb4 9. Nb1  O-O 10. c3  Be7 11. Nbd2  c5 12. Rc1  cxd4 13. cxd4  Ba3 14. Rc3  Qa5 15. Nb1  Bb2 0-1

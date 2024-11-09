@@ -1,0 +1,18 @@
+[Event "Rated bullet game"]
+[Site "https://lichess.org/XeocjAzK"]
+[Date "2023.04.23"]
+[White "kamaliza"]
+[Black "peterchero"]
+[Result "1-0"]
+[UTCDate "2023.04.23"]
+[UTCTime "18:34:08"]
+[WhiteElo "1221"]
+[BlackElo "1281"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-12"]
+[Variant "Standard"]
+[TimeControl "120+1"]
+[ECO "D00"]
+[Termination "Normal"]
+                
+1. d4  d5 2. c3  Nc6 3. Nf3  e5 4. dxe5  d4 5. cxd4  Bf5 6. Na3  Bb4+ 7. Bd2  Bxd2+ 8. Qxd2  Nge7 9. e3  O-O 10. Bb5  a6 11. Bxc6  Nxc6 12. O-O  f6 13. Rfd1  fxe5 14. Nxe5  Nxe5 15. dxe5  Qg5 16. f4  Qg4 17. Qf2  Rfd8 18. Rxd8+  Rxd8 19. Nc4  Rd1+ 20. Rxd1  Qxd1+ 21. Qf1  Qxf1+ 22. Kxf1  Kf7 23. Kf2  Ke6 24. Kf3  g6 25. g4  Bc2 26. b3  b5 27. Na5  c5 28. a3  b4 29. axb4  cxb4 30. Ke2  Kd5 31. Kd2  Be4 32. h4  Bf3 33. g5  Ke4 34. e6  Kf5 35. e7  Bc6 36. Nxc6 1-0

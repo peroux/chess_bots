@@ -1,0 +1,18 @@
+[Event "Rated bullet game"]
+[Site "https://lichess.org/6aO4EvZ3"]
+[Date "2023.04.24"]
+[White "peterchero"]
+[Black "TheNabbitQueen"]
+[Result "0-1"]
+[UTCDate "2023.04.24"]
+[UTCTime "00:18:07"]
+[WhiteElo "1220"]
+[BlackElo "1293"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+4"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "A04"]
+[Termination "Time forfeit"]
+                
+1. Nf3  e6 2. d4  d5 3. Nc3  c5 4. dxc5  Bxc5 5. Be3  Nc6 6. Bxc5  b6 7. Be3  Qc7 8. Qd2  Ne5 9. Nxe5  Qxe5 10. O-O-O  Bd7 11. Kb1  a5 12. Bxb6  a4 13. Be3  Qb8 14. b3  Nf6 15. Nxa4  Rxa4 16. g3  Ne4 17. Qd3  Bb5 18. Qxb5+  Qxb5 19. Rd4  Nc3+ 20. Kb2  e5 21. Rxa4  Nxa4+ 22. Kb1  Nc5 23. Bd2  Ne4 24. e3  Qxf1+ 25. Rxf1  Nxd2+ 26. Kc1  Nxf1 27. Kd1  O-O 0-1

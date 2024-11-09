@@ -1,0 +1,16 @@
+[Event "Casual bullet game"]
+[Site "https://lichess.org/uEUDTSxo"]
+[Date "2022.12.01"]
+[White "peterchero"]
+[Black "haltzero"]
+[Result "0-1"]
+[UTCDate "2022.12.01"]
+[UTCTime "21:25:58"]
+[WhiteElo "1306"]
+[BlackElo "1005"]
+[Variant "Standard"]
+[TimeControl "90+0"]
+[ECO "A40"]
+[Termination "Normal"]
+                
+1. d4  e6 2. Nf3  d6 3. Nc3  h6 4. d5  e5 5. Be3  g6 6. Qd3  Bg7 7. O-O-O  Nf6 8. Nh4  g5 9. Nf3  Nh5 10. g4  Nf4 11. Bxf4  exf4 12. e3  fxe3 13. fxe3  f6 14. Bg2  Bxg4 15. Rhf1  Bxf3 16. Bxf3  O-O 17. Bg4  Nd7 18. Bxd7  Qxd7 19. Rf2  Rae8 20. Rdf1  Re5 21. Ne4  Qe7 22. Ng3  Rxe3 23. Nf5  Rxd3 24. Nxe7+  Kf7 25. Nf5  Rxd5 26. Nxg7  Kxg7 27. Rf3  f5 28. R1f2  f4 29. Rd2  Rxd2 30. Kxd2  Re8 31. Rd3  Re7 32. Rd4  b6 33. Re4  Rxe4 34. Kd3  d5 35. Kc3  c6 36. Kd3  a5 37. Kc3  f3 38. Kd3  f2 0-1

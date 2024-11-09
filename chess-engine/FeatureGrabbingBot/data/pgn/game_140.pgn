@@ -1,0 +1,18 @@
+[Event "Rated bullet game"]
+[Site "https://lichess.org/QHooiVZA"]
+[Date "2024.01.30"]
+[White "rosendito"]
+[Black "peterchero"]
+[Result "1-0"]
+[UTCDate "2024.01.30"]
+[UTCTime "00:19:46"]
+[WhiteElo "1289"]
+[BlackElo "1353"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "C42"]
+[Termination "Time forfeit"]
+                
+1. e4  e5 2. Nf3  Nf6 3. Bc4  g6 4. Ng5  d5 5. exd5  Nxd5 6. Qf3  f5 7. Bxd5  Qxg5 8. Qd1  Bd6 9. d3  Nd7 10. Bxg5  Nf6 11. Bf3  Nd5 12. c4  Ne7 13. Bf6  Rf8 14. Bg5  Be6 15. Bh6  Rg8 16. Nc3  O-O-O 17. d4  Kb8 18. dxe5  Bxe5 19. Nb5  Rxd1+ 20. Kxd1  Bxb2 21. Re1  Bxa1 22. Rxe6  Bg7 23. Rxe7  Bxh6 24. Rxh7  Bg5 25. Rh3  a6 26. Rg3  Bf6 27. Nd4  c5 28. Ne6  Re8 29. Nxc5  Re5 30. Bxb7  Rxc5 31. Rxg6  Kxb7 32. Rg7+  Be7 33. Rg6 1-0

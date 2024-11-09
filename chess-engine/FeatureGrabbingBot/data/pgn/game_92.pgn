@@ -1,0 +1,16 @@
+[Event "Casual classical game"]
+[Site "https://lichess.org/z7HvlEUq"]
+[Date "2024.03.12"]
+[White "PABLO-1"]
+[Black "peterchero"]
+[Result "0-1"]
+[UTCDate "2024.03.12"]
+[UTCTime "17:02:29"]
+[WhiteElo "1578"]
+[BlackElo "1500"]
+[Variant "Standard"]
+[TimeControl "1800+30"]
+[ECO "C23"]
+[Termination "Normal"]
+                
+1. e4  e5 2. Bc4  Nc6 3. Qf3  Nf6 4. d3  g6 5. Bg5  Bg7 6. Nc3  Nd4 7. Qd1  O-O 8. Nd5  c6 9. Ne3  d5 10. exd5  cxd5 11. Bxd5  Qa5+ 12. c3  Nxd5 13. Nxd5  Qxd5 14. f3  e4 15. f4  exd3 16. cxd4  Qxg2 17. Qxd3  Qxh1 18. O-O-O  Bf5 19. Qf3  Qxh2 20. Ne2  Rac8+ 21. Nc3  Qc2# 0-1

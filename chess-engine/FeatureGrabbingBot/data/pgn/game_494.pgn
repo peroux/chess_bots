@@ -1,0 +1,16 @@
+[Event "Casual rapid game"]
+[Site "https://lichess.org/G7aET1pn"]
+[Date "2024.02.15"]
+[White "peterchero"]
+[Black "OSYA721"]
+[Result "1-0"]
+[UTCDate "2024.02.15"]
+[UTCTime "17:51:10"]
+[WhiteElo "1504"]
+[BlackElo "1956"]
+[Variant "Standard"]
+[TimeControl "540+0"]
+[ECO "A08"]
+[Termination "Normal"]
+                
+1. d4  d5 2. Nf3  c5 3. g3  Nc6 4. Bg2  e6 5. O-O  Nf6 6. b3  Be7 7. c4  cxd4 8. Nxd4  Nxd4 9. Qxd4  O-O 10. Bb2  Qc7 11. Nd2  Bc5 12. Qe5  Bd6 13. Qc3  dxc4 14. Rac1  Nd5 15. Qxg7# 1-0

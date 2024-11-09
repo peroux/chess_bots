@@ -1,0 +1,16 @@
+[Event "Casual rapid game"]
+[Site "https://lichess.org/Tvb3Or14"]
+[Date "2023.11.15"]
+[White "fidooo"]
+[Black "peterchero"]
+[Result "1-0"]
+[UTCDate "2023.11.15"]
+[UTCTime "19:04:36"]
+[WhiteElo "1500"]
+[BlackElo "1504"]
+[Variant "Standard"]
+[TimeControl "1200+0"]
+[ECO "A00"]
+[Termination "Normal"]
+                
+1. g3  Nc6 2. Bg2  e5 3. b3  Nf6 4. Bb2  Bc5 5. e3  O-O 6. Nf3  e4 7. Ng5  Ne8 8. Nxe4  Bb6 9. Qg4  Nf6 10. Nxf6+  Kh8 11. Nxd7  Bxd7 12. Qxg7# 1-0

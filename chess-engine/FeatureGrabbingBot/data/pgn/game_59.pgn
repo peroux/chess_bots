@@ -1,0 +1,16 @@
+[Event "Casual blitz game"]
+[Site "https://lichess.org/lbDrXocJ"]
+[Date "2024.07.09"]
+[White "askar102"]
+[Black "peterchero"]
+[Result "1-0"]
+[UTCDate "2024.07.09"]
+[UTCTime "16:15:49"]
+[WhiteElo "1500"]
+[BlackElo "1415"]
+[Variant "Standard"]
+[TimeControl "300+0"]
+[ECO "C46"]
+[Termination "Normal"]
+                
+1. e4  e5 2. Nc3  Nc6 3. Nf3  b6 4. d4  exd4 5. Nxd4  Nxd4 6. Qxd4  Bc5 7. Qxg7  Qh4 8. g3  Bxf2+ 9. Kxf2  Qf6+ 10. Qxf6  Nxf6 11. Bg5  Ng4+ 12. Kf3  d6 13. h3  Ne5+ 14. Kg2  Bb7 15. Bf6  Rg8 16. Nd5  Kd7 17. Bxe5  dxe5 18. Nf6+  Ke6 19. Nxg8  Bxe4+ 20. Kg1  Bxh1 21. Kxh1  Rxg8 22. Rd1  Rxg3 23. Kh2  Rf3 24. Bc4+  Ke7 25. Re1  f6 26. Re2  Rf4 27. Bd3  h5 28. Bg6  h4 29. Rd2  Rf3 30. Be4  Rf4 31. Bc6  Rd4 32. Rxd4  exd4 33. Kg2  Kd6 34. Be4  Ke5 35. Bh7  f5 36. Kf3  f4 37. Kg4  c5 38. Kxh4  f3 39. Bd3  Kf4 40. Kh5  f2 41. h4  Kg3 42. Bf1  c4 43. Bxc4  Kg2 44. Kg6  f1=Q 45. Bxf1+  Kxf1 46. h5  Ke2 47. h6  Kd2 48. h7  Kxc2 49. h8=Q  d3 50. Qc3+  Kb1 51. Qxd3+  Kxa2 52. Qc3  a5 53. Kf6  b5 54. Qa3+  Kb1 55. Qxa5  Kc1 56. Qxb5  Kb1 57. Ke5  Ka1 58. Kd4  Ka2 59. Kc3  Ka1 60. Kc2  Ka2 61. Qa4# 1-0

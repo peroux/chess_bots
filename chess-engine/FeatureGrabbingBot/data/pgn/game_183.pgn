@@ -1,0 +1,18 @@
+[Event "Rated blitz game"]
+[Site "https://lichess.org/sBcRc9vg"]
+[Date "2023.12.24"]
+[White "samnosus"]
+[Black "peterchero"]
+[Result "1-0"]
+[UTCDate "2023.12.24"]
+[UTCTime "19:01:40"]
+[WhiteElo "1260"]
+[BlackElo "1223"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-22"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D06"]
+[Termination "Normal"]
+                
+1. d4  d5 2. c4  Nf6 3. cxd5  Nxd5 4. Nf3  Nc6 5. e4  Nf6 6. Nc3  Bg4 7. e5  Nd5 8. Nxd5  Qxd5 9. Be3  Bxf3 10. Qxf3  Nxd4 11. Qxd5  Nc2+ 12. Kd2  Rd8 13. Qxd8+  Kxd8 14. Kxc2  e6 15. Bxa7  Bc5 16. Bxc5 1-0

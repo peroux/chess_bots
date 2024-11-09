@@ -1,0 +1,16 @@
+[Event "Casual classical game"]
+[Site "https://lichess.org/QIx7rrhd"]
+[Date "2024.03.13"]
+[White "peterchero"]
+[Black "bacia2015"]
+[Result "1-0"]
+[UTCDate "2024.03.13"]
+[UTCTime "14:13:55"]
+[WhiteElo "1500"]
+[BlackElo "1547"]
+[Variant "Standard"]
+[TimeControl "1800+3"]
+[ECO "D02"]
+[Termination "Normal"]
+                
+1. d4  d5 2. Nf3  Bf5 3. g3  Nc6 4. a3  e6 5. Bg2  Bd6 6. O-O  Nf6 7. Nc3  h6 8. Nb5  a6 9. Nxd6+  Qxd6 10. Bf4  Qd8 11. Ne5  Nxe5 12. Bxe5  O-O 13. f3  Nd7 14. Bf4  Nb6 15. e4  Bg6 16. b3  dxe4 17. fxe4  Qxd4+ 18. Qxd4 1-0

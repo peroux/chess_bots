@@ -1,0 +1,16 @@
+[Event "Casual classical game"]
+[Site "https://lichess.org/h56XqRlJ"]
+[Date "2023.01.19"]
+[White "peterchero"]
+[Black "eggbutnobacon"]
+[Result "0-1"]
+[UTCDate "2023.01.19"]
+[UTCTime "15:51:49"]
+[WhiteElo "1500"]
+[BlackElo "1244"]
+[Variant "Standard"]
+[TimeControl "1200+10"]
+[ECO "A04"]
+[Termination "Normal"]
+                
+1. Nf3  d6 2. d4  e5 3. dxe5  d5 4. b3  c6 5. Bb2  Be6 6. e4  g6 7. exd5  cxd5 8. Nc3  Ne7 9. Na4  Nf5 10. Nc5  Bxc5 11. Bb5+  Nc6 12. O-O  O-O 13. Re1  Rc8 14. c3  Nce7 15. a4  a6 16. Bd3  Qb6 17. b4  Bxf2+ 18. Kf1  Bxe1 19. Qxe1  Ne3+ 20. Ke2  Nc2 21. a5 0-1

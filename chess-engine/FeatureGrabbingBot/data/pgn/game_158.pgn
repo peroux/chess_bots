@@ -1,0 +1,18 @@
+[Event "Rated blitz game"]
+[Site "https://lichess.org/YLeQ5bHd"]
+[Date "2024.01.21"]
+[White "DZONI97"]
+[Black "peterchero"]
+[Result "0-1"]
+[UTCDate "2024.01.21"]
+[UTCTime "15:22:42"]
+[WhiteElo "1138"]
+[BlackElo "1246"]
+[WhiteRatingDiff "-57"]
+[BlackRatingDiff "+9"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C20"]
+[Termination "Normal"]
+                
+1. e4  e5 2. f3  Nf6 3. Bd3  g6 4. Ne2  Bg7 5. O-O  O-O 6. f4  c6 7. fxe5  Ne8 8. e6  Qb6+ 9. Rf2  fxe6 10. Qf1  Rxf2 11. Qxf2  Qxf2+ 12. Kxf2  Nd6 13. e5  Nf7 14. Nf4  Nxe5 15. Be4  d5 16. Bd3  Nbd7 17. Be2  b6 18. Kg1  Bb7 19. g3  c5 20. Nc3  d4 21. b4  dxc3 22. dxc3  cxb4 23. cxb4  Bf8 24. Nxe6  Bxb4 25. Nc7  Rf8 26. Bh6  Bc5+ 27. Be3  Bxe3# 0-1

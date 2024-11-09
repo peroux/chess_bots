@@ -1,0 +1,16 @@
+[Event "Casual rapid game"]
+[Site "https://lichess.org/YyGGLGBW"]
+[Date "2022.02.23"]
+[White "msvn"]
+[Black "peterchero"]
+[Result "1-0"]
+[UTCDate "2022.02.23"]
+[UTCTime "15:37:09"]
+[WhiteElo "1528"]
+[BlackElo "1500"]
+[Variant "Standard"]
+[TimeControl "360+3"]
+[ECO "C45"]
+[Termination "Normal"]
+                
+1. e4  e5 2. Nf3  Nc6 3. d4  exd4 4. Nxd4  Bc5 5. Be3  Nf6 6. Nxc6  Bxe3 7. Nxd8 1-0

@@ -1,0 +1,18 @@
+[Event "Rated blitz game"]
+[Site "https://lichess.org/TSIXGsld"]
+[Date "2023.03.25"]
+[White "peterchero"]
+[Black "A1Khalid"]
+[Result "1-0"]
+[UTCDate "2023.03.25"]
+[UTCTime "19:57:11"]
+[WhiteElo "1106"]
+[BlackElo "949"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-4"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D02"]
+[Termination "Normal"]
+                
+1. d4  d5 2. Nf3  Nf6 3. Nc3  Nc6 4. Bf4  Bf5 5. Nb5  e5 6. dxe5  Ne4 7. e6  Bd6 8. exf7+  Kxf7 9. Bxd6  Nxd6 10. Qxd5+  Be6 11. Nxd6+  cxd6 12. Ng5+  Qxg5 13. Qxg5  h6 14. Qf4+  Ke7 15. O-O-O  Raf8 16. Qxd6+  Kf6 17. e4  Ne5 18. f4  Ng4 19. e5+  Kf5 20. Bd3+  Kxf4 21. Rhf1+  Kg5 22. Rxf8  Rxf8 23. Qxf8  Nxe5 24. Qe7+  Kf4 25. Qxe6  Nxd3+ 26. Rxd3  g5 27. Qd5  g4 28. g3# 1-0

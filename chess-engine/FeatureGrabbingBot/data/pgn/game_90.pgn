@@ -1,0 +1,16 @@
+[Event "Casual rapid game"]
+[Site "https://lichess.org/uiVUJ54J"]
+[Date "2024.03.15"]
+[White "DeadSerious"]
+[Black "peterchero"]
+[Result "1-0"]
+[UTCDate "2024.03.15"]
+[UTCTime "14:23:21"]
+[WhiteElo "1500"]
+[BlackElo "1484"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "A00"]
+[Termination "Normal"]
+                
+1. e3  d5 2. Ke2  Kd7 3. Kf3  Ke6 4. Kf4  Kf6 5. g4  e5+ 6. Kg3  Kg5 7. h4+  Kg6 8. f4  exf4+ 9. exf4  f5 10. Bd3  Nf6 11. h5+  Kf7 12. Bxf5  Bxf5 13. gxf5  Ne4+ 14. Kf3 1-0

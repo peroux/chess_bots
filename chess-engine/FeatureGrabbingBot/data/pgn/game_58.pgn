@@ -1,0 +1,16 @@
+[Event "Casual blitz game"]
+[Site "https://lichess.org/gbRPE2RV"]
+[Date "2024.07.11"]
+[White "alwaysretweet"]
+[Black "peterchero"]
+[Result "1-0"]
+[UTCDate "2024.07.11"]
+[UTCTime "22:57:46"]
+[WhiteElo "1464"]
+[BlackElo "1415"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C24"]
+[Termination "Time forfeit"]
+                
+1. e4  e5 2. Bc4  Nc6 3. Nc3  Nf6 4. d3  g6 5. Nf3  Bg7 6. Bd2  O-O 7. Qc1  Ng4 8. h3  Nf6 9. Bh6  Nd4 10. Bxg7  Kxg7 11. Nxd4  exd4 12. Ne2 1-0

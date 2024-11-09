@@ -1,0 +1,18 @@
+[Event "Rated blitz game"]
+[Site "https://lichess.org/K4AYWEkQ"]
+[Date "2023.05.26"]
+[White "satotb"]
+[Black "peterchero"]
+[Result "0-1"]
+[UTCDate "2023.05.26"]
+[UTCTime "18:29:56"]
+[WhiteElo "1218"]
+[BlackElo "1183"]
+[WhiteRatingDiff "-16"]
+[BlackRatingDiff "+11"]
+[Variant "Standard"]
+[TimeControl "300+0"]
+[ECO "C53"]
+[Termination "Normal"]
+                
+1. e4  e5 2. Nf3  Nc6 3. c3  Bc5 4. Bc4  b6 5. O-O  Bb7 6. d4  exd4 7. cxd4  Bd6 8. Ng5  Bxh2+ 9. Kxh2  d5 10. exd5  Nce7 11. d6  Nf5 12. Nxf7  Qh4+ 13. Kg1  Bxg2 14. Kxg2  Kd7 15. dxc7  Nf6 16. Bb5+  Kc8 17. Nxh8  Ng4 18. Ba6+  Kd7 19. Qa4+  Kxc7 20. Qc4+  Kd7 21. Bb5+  Kd6 22. Bf4+  Ke7 23. Re1+  Kf6 24. Be5+  Kg5 25. Nf7+  Kh5 26. Bxg7  Qxf2+ 27. Kh3  Qg3# 0-1

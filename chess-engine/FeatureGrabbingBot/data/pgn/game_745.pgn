@@ -1,0 +1,18 @@
+[Event "Rated bullet game"]
+[Site "https://lichess.org/QoF7LHLm"]
+[Date "2022.10.19"]
+[White "peterchero"]
+[Black "Nachtgold"]
+[Result "0-1"]
+[UTCDate "2022.10.19"]
+[UTCTime "21:02:12"]
+[WhiteElo "1311"]
+[BlackElo "1325"]
+[WhiteRatingDiff "-29"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "120+1"]
+[ECO "D02"]
+[Termination "Normal"]
+                
+1. Nf3  d5 2. d4  e6 3. Bf4  c5 4. c3  Nf6 5. Nbd2  Nc6 6. Qa4  Bd7 7. O-O-O  Nxd4 8. Qa3  Nxf3 9. exf3  c4 10. b4  cxb3 11. Qxb3  b6 12. Bb5  Be7 13. Rhe1  O-O 14. Bd3  Nh5 15. Be5  Nf6 16. h4  Bc6 17. Qb4  Bxb4 18. cxb4  Ba4 19. Nb3  Rc8+ 20. Kb2  Bxb3 21. Kxb3  a5 22. a3  axb4 23. a4  Nd7 24. Bf4  Qxh4 25. g3  Qf6 26. Be5  Nxe5 27. f4  Nxd3 28. Rxd3  Rc3+ 29. Kxb4  Rxd3 30. Re5  Rc8 31. Kb5  Qd8 32. Re2  Qd7+ 33. Ka6  Rb3 34. Rc2  Ra8# 0-1

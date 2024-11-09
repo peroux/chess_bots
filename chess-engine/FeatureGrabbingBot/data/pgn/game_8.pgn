@@ -1,0 +1,18 @@
+[Event "Rated blitz game"]
+[Site "https://lichess.org/u5eM19Pe"]
+[Date "2024.10.17"]
+[White "Az437"]
+[Black "peterchero"]
+[Result "0-1"]
+[UTCDate "2024.10.17"]
+[UTCTime "23:16:58"]
+[WhiteElo "1316"]
+[BlackElo "1422"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+17"]
+[Variant "Standard"]
+[TimeControl "180+2"]
+[ECO "D02"]
+[Termination "Normal"]
+                
+1. d4  d5 2. Bf4  Nf6 3. Nf3  Nc6 4. e3  g6 5. Bd3  Bg7 6. O-O  O-O 7. c4  dxc4 8. Bxc4  e6 9. Nc3  Qe7 10. Re1  Na5 11. Bb5  c6 12. Ba4  b5 13. Bc2  Nc4 14. b3  Nb6 15. h3  a5 16. Rb1  Nfd5 17. Nxd5  exd5 18. Bh2  c5 19. dxc5  Qxc5 20. Qd3  Bf5 21. Qd4  Bxd4 22. Nxd4 0-1

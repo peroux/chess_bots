@@ -1,0 +1,18 @@
+[Event "Rated bullet game"]
+[Site "https://lichess.org/1RvPNbcL"]
+[Date "2024.02.08"]
+[White "peterchero"]
+[Black "serhii_sydoriuk"]
+[Result "0-1"]
+[UTCDate "2024.02.08"]
+[UTCTime "00:21:43"]
+[WhiteElo "1412"]
+[BlackElo "1404"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "D02"]
+[Termination "Time forfeit"]
+                
+1. d4  d5 2. Nf3  Nf6 3. g3  c6 4. Bg2  e5 5. O-O  e4 6. Nfd2  Bb4 7. f3  exf3 8. Rxf3  O-O 9. c3  Ba5 10. Nf1  Bc7 11. Ne3  b6 12. Qd2  Bb7 13. Ng4  Nbd7 14. Nxf6+  Nxf6 15. Na3  Bd6 16. Nc2  c5 17. Ne3  cxd4 18. cxd4  a5 19. Nf5  Bb4 20. Qe3  Ne4 21. Nxg7  Kxg7 22. Rf4  Re8 23. Bxe4  Rxe4 24. Rxe4  dxe4 25. Qxe4  Bxe4 26. Be3  Rc8 27. Rf1  Rc2 28. Bf2  Rxe2 29. Re1  Rxf2 30. Kxf2  Qxd4+ 31. Kf1  Qd2 32. Re2  Qxb2 33. Rxb2  Bd3+ 34. Re2  Bc3 0-1

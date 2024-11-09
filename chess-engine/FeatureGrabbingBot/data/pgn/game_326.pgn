@@ -1,0 +1,16 @@
+[Event "Casual blitz game"]
+[Site "https://lichess.org/XRap3Uv3"]
+[Date "2023.01.23"]
+[White "Keyfi_baj"]
+[Black "peterchero"]
+[Result "0-1"]
+[UTCDate "2023.01.23"]
+[UTCTime "18:59:22"]
+[WhiteElo "1047"]
+[BlackElo "1100"]
+[Variant "Standard"]
+[TimeControl "300+3"]
+[ECO "B00"]
+[Termination "Normal"]
+                
+1. e4  Nc6 2. d4  e5 3. d5  Nd4 4. f4  exf4 5. Qxd4  Nf6 6. Qe5+  Be7 7. Qxf4  Bb4+ 8. c3  Qe7 9. Bd3  Nxd5 10. Qg4  Nxc3 11. bxc3  d5 12. cxb4  Bxg4 13. h3  Qh4+ 14. Kf1  O-O-O 15. Be2  Bxe2+ 16. Kxe2  Qxe4+ 17. Be3  d4 18. Nc3  dxc3 19. Rc1  Rd2+ 20. Ke1  Qxe3+ 21. Kf1  Qf2# 0-1

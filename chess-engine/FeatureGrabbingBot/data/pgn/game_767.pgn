@@ -1,0 +1,18 @@
+[Event "Rated bullet game"]
+[Site "https://lichess.org/gMa2n6ku"]
+[Date "2022.01.26"]
+[White "peterchero"]
+[Black "UMsamarth"]
+[Result "0-1"]
+[UTCDate "2022.01.26"]
+[UTCTime "06:58:40"]
+[WhiteElo "1388"]
+[BlackElo "1461"]
+[WhiteRatingDiff "-83"]
+[BlackRatingDiff "+12"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "A00"]
+[Termination "Time forfeit"]
+                
+1. g3  c5 2. Nf3  Nc6 3. Bg2  Nf6 4. O-O  g6 5. e3  Bg7 6. Re1  O-O 7. d4  d5 8. c3  Ne4 9. Nbd2  Re8 10. b3  Nxc3 11. Qc2  Nb5 12. a4  Nc7 13. dxc5  Nb4 14. Qb1  Bxa1 15. Qxa1  Nc2 16. Qb1  Nxe1 17. Bb2  Nxf3+ 18. Nxf3  Bf5 19. Qc1  e5 20. Qc3  Qe7 21. Nh4  Rad8 22. Nxf5  gxf5 23. f4  d4 24. exd4  exd4 25. Qd3  Qe1+ 26. Bf1  Re3 0-1

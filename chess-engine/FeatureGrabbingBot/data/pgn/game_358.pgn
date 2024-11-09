@@ -1,0 +1,16 @@
+[Event "Casual bullet game"]
+[Site "https://lichess.org/OLIpXdr7"]
+[Date "2022.12.02"]
+[White "alexqrt"]
+[Black "peterchero"]
+[Result "1-0"]
+[UTCDate "2022.12.02"]
+[UTCTime "16:30:00"]
+[WhiteElo "1317"]
+[BlackElo "1306"]
+[Variant "Standard"]
+[TimeControl "60+2"]
+[ECO "C44"]
+[Termination "Normal"]
+                
+1. e4  e5 2. Nf3  Nc6 3. d4  exd4 4. Bg5  Bc5 5. Bxd8 1-0

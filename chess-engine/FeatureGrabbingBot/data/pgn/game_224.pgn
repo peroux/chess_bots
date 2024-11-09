@@ -1,0 +1,18 @@
+[Event "Rated bullet game"]
+[Site "https://lichess.org/lLb6YuVw"]
+[Date "2023.04.24"]
+[White "ToinDoido"]
+[Black "peterchero"]
+[Result "1-0"]
+[UTCDate "2023.04.24"]
+[UTCTime "00:27:29"]
+[WhiteElo "1198"]
+[BlackElo "1210"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "C20"]
+[Termination "Normal"]
+                
+1. e4  e5 2. Qf3  Nc6 3. Bc4  Nf6 4. c3  Be7 5. g4  O-O 6. g5  d5 7. exd5  Nxd5 8. Bxd5  Be6 9. Bxe6  fxe6 10. Qg2  Rf5 11. h4  h6 12. gxh6  Bxh4 13. Qxg7# 1-0

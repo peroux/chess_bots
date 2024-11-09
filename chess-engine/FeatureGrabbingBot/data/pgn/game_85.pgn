@@ -1,0 +1,16 @@
+[Event "Casual blitz game"]
+[Site "https://lichess.org/njT1UZmD"]
+[Date "2024.03.21"]
+[White "karat2"]
+[Black "peterchero"]
+[Result "1-0"]
+[UTCDate "2024.03.21"]
+[UTCTime "15:33:42"]
+[WhiteElo "1912"]
+[BlackElo "1415"]
+[Variant "Standard"]
+[TimeControl "300+0"]
+[ECO "D06"]
+[Termination "Normal"]
+                
+1. d4  d5 2. c4  Nf6 3. cxd5  Nxd5 4. e4  Nb6 5. Nc3  f6 6. Be3  e5 7. Nge2  Bb4 8. f3  O-O 9. Rc1  Nc6 10. g4  Bxc3+ 11. bxc3  exd4 12. cxd4  Na5 13. Ng3  f5 14. gxf5  Qh4 15. Bg2  c6 16. O-O  Nd7 17. Qd2  Nf6 18. Bg5 1-0

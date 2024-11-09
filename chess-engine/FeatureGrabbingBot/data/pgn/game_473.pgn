@@ -1,0 +1,16 @@
+[Event "Casual bullet game"]
+[Site "https://lichess.org/MkYDKhXJ"]
+[Date "2024.06.16"]
+[White "peterchero"]
+[Black "javiu"]
+[Result "0-1"]
+[UTCDate "2024.06.16"]
+[UTCTime "23:22:11"]
+[WhiteElo "1400"]
+[BlackElo "1561"]
+[Variant "Standard"]
+[TimeControl "0+4"]
+[ECO "A80"]
+[Termination "Normal"]
+                
+1. d4  f5 2. Nf3  e6 3. g3  Nf6 4. Bg2  d5 5. O-O  Be7 6. c3  O-O 7. Nbd2  Nbd7 8. e4  fxe4 9. Ne5  Nxe5 10. dxe5  Nd7 11. f3  Nxe5 12. fxe4  Bc5+ 13. Kh1  Bd7 14. exd5  exd5 15. Rxf8+  Qxf8 16. Qf3  Nxf3 17. Bxf3 0-1

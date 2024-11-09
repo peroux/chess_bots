@@ -1,0 +1,18 @@
+[Event "Rated bullet game"]
+[Site "https://lichess.org/esKudbuJ"]
+[Date "2024.01.30"]
+[White "dsthedragon"]
+[Black "peterchero"]
+[Result "0-1"]
+[UTCDate "2024.01.30"]
+[UTCTime "00:03:43"]
+[WhiteElo "1340"]
+[BlackElo "1341"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "C46"]
+[Termination "Time forfeit"]
+                
+1. e4  e5 2. Nc3  Nc6 3. Nf3  g6 4. d3  Bg7 5. Be2  Nf6 6. O-O  O-O 7. Nd2  Ne7 8. Bf3  c6 9. a3  d5 10. exd5  cxd5 11. b4  a6 12. Be2  b5 13. Nf3  d4 14. Ne4  Nc6 15. Nc5  Nd7 16. Bg5  Qe8 17. Nxd7  Qxd7 18. Bd2  f5 19. Ne1  e4 20. dxe4  fxe4 21. Qc1  d3 22. cxd3  exd3 23. Bxd3  Bxa1 24. Qxa1  Ne5 25. Be4  Nd3 26. Bxa8  Nxe1 27. Qxe1  Bb7 28. Bxb7  Qxb7 29. Be3  Qf7 30. Qb1  Qg7 31. Qb3+  Rf7 32. Rd1  Kh8 33. Rd8+  Rf8 34. Rxf8+  Qxf8 0-1

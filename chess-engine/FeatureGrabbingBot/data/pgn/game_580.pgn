@@ -1,0 +1,16 @@
+[Event "Casual bullet game"]
+[Site "https://lichess.org/L3NC9pRW"]
+[Date "2023.11.15"]
+[White "peterchero"]
+[Black "Rooster131"]
+[Result "0-1"]
+[UTCDate "2023.11.15"]
+[UTCTime "19:08:56"]
+[WhiteElo "1228"]
+[BlackElo "1246"]
+[Variant "Standard"]
+[TimeControl "120+1"]
+[ECO "B10"]
+[Termination "Normal"]
+                
+1. e4  c6 2. Nc3  d5 3. exd5  cxd5 4. d4  Nc6 5. Bf4  Nf6 6. Nf3  Bg4 7. Be2  e6 8. O-O  Qb6 9. Na4  Qb4 10. Nc5  Bxc5 11. dxc5  Qxc5 12. Be3  Qd6 13. a3  Bxf3 14. Bxf3  O-O 15. Qd3  Ne5 16. Qd1  b6 17. b4  Rac8 18. c4  Nxc4 19. Rc1  Nxe3 20. Rxc8  Nxd1 21. Rxf8+  Qxf8 22. Rxd1  g6 23. Rc1  Qe7 24. Be2  Kg7 25. Ba6  Ne4 26. f3  Nd6 27. Bd3  Nc4 28. Bxc4  dxc4 29. Rxc4  Qd6 30. Rc1  Qd4+ 31. Kh1  Qb2 32. Re1  Qxa3 33. Rd1  Qxb4 34. h3  a5 35. Rd7  a4 36. Ra7  a3 37. Kg1  Qb2 38. Kf1  a2 39. Ke1  a1=Q+ 40. Rxa1  Qxa1+ 41. Kd2  Qg1 42. g4  Qf2+ 43. Kd3  Qxf3+ 44. Kd4  Qxh3 45. g5  Qg4+ 46. Ke5  Qxg5+ 47. Kd6  h5 48. Kd7  h4 49. Kc6  h3 50. Kxb6  h2 51. Kc6  h1=Q+ 52. Kd7  Qgd5+ 53. Ke8  f5 54. Ke7  e5 55. Ke8  e4 56. Ke7  e3 57. Ke8  e2 58. Ke7  f4 59. Ke8  f3 60. Ke7  g5 61. Ke8  g4 62. Ke7  g3 63. Ke8  g2 64. Ke7  f2 65. Ke8  e1=Q# 0-1

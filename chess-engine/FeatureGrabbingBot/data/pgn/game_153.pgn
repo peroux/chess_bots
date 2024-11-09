@@ -1,0 +1,18 @@
+[Event "Rated bullet game"]
+[Site "https://lichess.org/llosIasU"]
+[Date "2024.01.26"]
+[White "Shorly"]
+[Black "peterchero"]
+[Result "0-1"]
+[UTCDate "2024.01.26"]
+[UTCTime "15:08:05"]
+[WhiteElo "1316"]
+[BlackElo "1308"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+9"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "C45"]
+[Termination "Time forfeit"]
+                
+1. e4  e5 2. Nf3  Nc6 3. d4  exd4 4. Nxd4  Bc5 5. c3  Qf6 6. Be3  Bxd4 7. cxd4  d6 8. d5  Ne5 9. Bd4  Ne7 10. Be2  O-O 11. O-O  Qg6 12. Bh5  Qg5 13. Be3  Qf6 14. Nc3  g6 15. Be2  c6 16. f3  cxd5 17. Nxd5  Nxd5 18. exd5  Bf5 19. Bd4  Rae8 20. Bxe5  dxe5 21. Bb5  e4 22. fxe4  Qe5 23. exf5  gxf5 24. Rc1  Qe3+ 25. Kh1  Re4 26. d6  Rg4 0-1

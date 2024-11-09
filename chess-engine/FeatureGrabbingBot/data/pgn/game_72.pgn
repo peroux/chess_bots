@@ -1,0 +1,16 @@
+[Event "Casual blitz game"]
+[Site "https://lichess.org/tZNBdcm5"]
+[Date "2024.06.22"]
+[White "PuGgLeS"]
+[Black "peterchero"]
+[Result "1-0"]
+[UTCDate "2024.06.22"]
+[UTCTime "20:26:09"]
+[WhiteElo "1571"]
+[BlackElo "1415"]
+[Variant "Standard"]
+[TimeControl "120+2"]
+[ECO "C34"]
+[Termination "Normal"]
+                
+1. e4  e5 2. f4  Nc6 3. Nf3  exf4 4. d4  d5 5. e5  f6 6. Bxf4  fxe5 7. dxe5  Qe7 8. Bb5  Bg4 9. O-O  O-O-O 10. Bxc6  bxc6 11. c3  g5 12. Bxg5  Qd7 13. Bxd8  Qxd8 14. Qa4  Qd7 15. Qxa7  Ne7 16. Qa8# 1-0

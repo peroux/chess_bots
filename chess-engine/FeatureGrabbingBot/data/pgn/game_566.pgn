@@ -1,0 +1,18 @@
+[Event "Rated bullet game"]
+[Site "https://lichess.org/xjjFK8c5"]
+[Date "2024.01.11"]
+[White "peterchero"]
+[Black "freidoon-mohammadnia"]
+[Result "0-1"]
+[UTCDate "2024.01.11"]
+[UTCTime "02:43:07"]
+[WhiteElo "1266"]
+[BlackElo "1251"]
+[WhiteRatingDiff "-16"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "120+1"]
+[ECO "A46"]
+[Termination "Time forfeit"]
+                
+1. d4  Nf6 2. Nf3  e6 3. g3  b6 4. Bg2  Bb7 5. O-O  Be7 6. Nc3  O-O 7. Re1  d5 8. Nd2  Nbd7 9. f3  a6 10. e4  dxe4 11. fxe4  c5 12. dxc5  Nxc5 13. e5  Bxg2 14. Kxg2  Nd5 15. Nxd5  Qxd5+ 16. Nf3  Rfd8 17. Qxd5  Rxd5 18. Bf4  Rad8 19. Rad1  Rxd1 20. Rxd1  Rxd1 21. Kh3  h6 22. g4  Ne4 23. Nh4  Bxh4 24. Kxh4  Rf1 25. Bg3  Rc1 26. c3  Rc2 27. b4  Nxg3 28. Kxg3  Rxc3+ 29. Kf4  Ra3 30. b5  axb5 31. Ke4  Rxa2 32. Kd4  Rc2 33. Kd3  Rc7 34. Kd4  b4 0-1

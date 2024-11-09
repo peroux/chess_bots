@@ -1,0 +1,16 @@
+[Event "Casual rapid game"]
+[Site "https://lichess.org/q2NNJqGr"]
+[Date "2023.04.20"]
+[White "dark0809"]
+[Black "peterchero"]
+[Result "0-1"]
+[UTCDate "2023.04.20"]
+[UTCTime "17:00:36"]
+[WhiteElo "1500"]
+[BlackElo "1502"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "B20"]
+[Termination "Normal"]
+                
+1. e4  c5 2. c4  g6 3. d3  Bg7 4. Bf4  Nc6 5. h4  d6 6. a4  e5 7. Be3  Nd4 8. Bd2  Nf6 9. Nc3  O-O 10. g3  Bg4 11. Qc1  Nf3+ 12. Ke2  Nxg1+ 13. Ke3  Nf3 14. Nb5  Bh6+ 0-1

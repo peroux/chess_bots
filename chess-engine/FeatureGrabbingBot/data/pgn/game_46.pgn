@@ -1,0 +1,16 @@
+[Event "Casual bullet game"]
+[Site "https://lichess.org/KFCgrG1N"]
+[Date "2024.08.02"]
+[White "nithishpsg"]
+[Black "peterchero"]
+[Result "1-0"]
+[UTCDate "2024.08.02"]
+[UTCTime "14:13:13"]
+[WhiteElo "1476"]
+[BlackElo "1400"]
+[Variant "Standard"]
+[TimeControl "90+2"]
+[ECO "C20"]
+[Termination "Normal"]
+                
+1. e4  e5 2. d3  Nf6 3. Nc3  g6 4. Nf3  Nc6 5. Bg5  Bg7 6. Be2  O-O 7. Nd5  d6 8. O-O  Be6 9. c4  Nd4 10. Nxd4  exd4 11. Qb3  Bxd5 12. cxd5  b6 13. f4  Qe8 14. e5  dxe5 15. fxe5  Nd7 16. e6  fxe6 17. Rxf8+  Bxf8 18. dxe6  Qxe6 19. Qxe6+ 1-0

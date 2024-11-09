@@ -1,0 +1,18 @@
+[Event "Rated bullet game"]
+[Site "https://lichess.org/bNkluyPz"]
+[Date "2024.02.03"]
+[White "peterchero"]
+[Black "Mounaym"]
+[Result "1-0"]
+[UTCDate "2024.02.03"]
+[UTCTime "16:45:36"]
+[WhiteElo "1380"]
+[BlackElo "1362"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "D02"]
+[Termination "Normal"]
+                
+1. d4  d5 2. Nf3  Bf5 3. g3  Nf6 4. Bg2  e6 5. O-O  Bd6 6. b3  Nc6 7. c4  Qd7 8. Nc3  dxc4 9. bxc4  O-O-O 10. c5  Be7 11. Bf4  Nxd4 12. Nxd4  Qxd4 13. Bxb7+  Kxb7 14. Rb1+  Kc8 15. Qb3  Qxc5 16. Rfc1  Bh3 17. Ne4  Qb6 18. Rxc7+  Qxc7 19. Bxc7  Kxc7 20. Qb7# 1-0

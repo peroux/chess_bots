@@ -1,0 +1,18 @@
+[Event "Rated bullet game"]
+[Site "https://lichess.org/RwbScC5k"]
+[Date "2024.02.02"]
+[White "volkii"]
+[Black "peterchero"]
+[Result "0-1"]
+[UTCDate "2024.02.02"]
+[UTCTime "20:46:11"]
+[WhiteElo "1365"]
+[BlackElo "1374"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "C25"]
+[Termination "Time forfeit"]
+                
+1. e4  e5 2. Nc3  Nc6 3. f4  exf4 4. Nf3  f6 5. Bc4  Nge7 6. d4  d5 7. exd5  Nxd5 8. Nxd5  Nb4 9. Nxb4  Bxb4+ 10. c3  Bd6 11. Qe2+  Be6 12. Qxe6+  Be7 13. Qf7+  Kd7 14. Be6+  Kc6 15. d5+  Kb6 16. Bxf4  Rf8 17. Be3+  c5 18. dxc6+  Kc7 19. Bf4+  Kb6 20. Qxg7  Qd6 21. cxb7  Rab8 22. Bxd6  Rxb7 23. Bxe7  Rxe7 24. Qxe7  Rc8 25. Bxc8  Kb5 26. Qd7+  Kc4 27. Qd4+  Kb5 28. Bd7+  Ka5 29. b4+  Ka6 30. c4  Kb7 31. c5  a6 32. c6+  Kc7 33. b5  Kd8 34. a4  Kc7 35. a5  Kd8 36. b6  Ke7 37. b7  Kf7 38. b8=Q  Kg6 39. Qbd6  h6 40. Q4xf6+  Kh5 0-1

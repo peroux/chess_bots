@@ -1,0 +1,16 @@
+[Event "Casual classical game"]
+[Site "https://lichess.org/1R6fjPTF"]
+[Date "2022.02.21"]
+[White "peterchero"]
+[Black "jamal13"]
+[Result "1-0"]
+[UTCDate "2022.02.21"]
+[UTCTime "00:34:34"]
+[WhiteElo "1500"]
+[BlackElo "1500"]
+[Variant "Standard"]
+[TimeControl "10800+0"]
+[ECO "D02"]
+[Termination "Time forfeit"]
+                
+1. Nf3  Nf6 2. d4  d5 3. g3  g6 4. Bg2  Bg7 5. Nc3  c6 6. O-O  O-O 7. Re1  Nfd7 8. Bf4  Bxd4 9. Nxd4  Na6 10. e4  dxe4 11. Rxe4  Nb4 12. Ne6  fxe6 13. Rxb4  Qa5 14. Rd4  Qc7 15. Bxc7 1-0

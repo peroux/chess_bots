@@ -1,0 +1,16 @@
+[Event "Casual blitz game"]
+[Site "https://lichess.org/0SXa7bxh"]
+[Date "2023.03.15"]
+[White "marco314159"]
+[Black "peterchero"]
+[Result "1-0"]
+[UTCDate "2023.03.15"]
+[UTCTime "16:26:42"]
+[WhiteElo "1468"]
+[BlackElo "1070"]
+[Variant "Standard"]
+[TimeControl "180+2"]
+[ECO "D06"]
+[Termination "Normal"]
+                
+1. d4  d5 2. c4  Nf6 3. Bg5  dxc4 4. Nc3  Be6 5. Bxf6  gxf6 6. e3  Bh6 7. Qa4+  Nc6 8. Bxc4  Bxc4 9. Qxc4  Qd6 10. Nf3  O-O-O 11. O-O  Rhg8 12. Qxf7  e5 13. dxe5  Nxe5 14. Nxe5  Qxe5 15. Rfd1  Rxd1+ 16. Rxd1  Rd8 17. Rxd8+  Kxd8 18. Qg8+  Kd7 19. Qxh7+  Kc6 20. Qxh6  Qd5 21. Nxd5 1-0

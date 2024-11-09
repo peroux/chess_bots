@@ -1,0 +1,18 @@
+[Event "Rated blitz game"]
+[Site "https://lichess.org/qoe5Gq3n"]
+[Date "2024.01.21"]
+[White "peterchero"]
+[Black "Ademmlk"]
+[Result "0-1"]
+[UTCDate "2024.01.21"]
+[UTCTime "15:09:56"]
+[WhiteElo "1291"]
+[BlackElo "1315"]
+[WhiteRatingDiff "-16"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D02"]
+[Termination "Normal"]
+                
+1. d4  d5 2. Nf3  Nc6 3. g3  Bg4 4. Bg2  e6 5. O-O  Bb4 6. c3  Ba5 7. Bf4  Qd7 8. Ne5  Nxe5 9. Bxe5  f6 10. Bf4  O-O-O 11. h3  Bf5 12. g4  Bxb1 13. Qxb1  a6 14. Qd3  Ne7 15. Rae1  Qa4 16. b3  Qxa2 17. Ra1  Qxb3 18. Rxa5  Nc6 19. Rxa6  bxa6 20. Qxa6+  Kd7 21. c4  dxc4 22. Qxc6+  Ke7 23. Qxc7+  Rd7 24. Qc5+  Kf7 25. d5  e5 26. Bd2  c3 27. Bxc3  Rhd8 28. Bb4  Kg6 29. h4  h6 30. h5+  Kh7 31. Be4+  Kg8 32. Rd1  Qh3 33. d6  Qxg4+ 34. Kf1  Qxe4 35. Qc7  Qh1# 0-1

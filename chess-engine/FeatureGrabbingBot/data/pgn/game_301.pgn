@@ -1,0 +1,18 @@
+[Event "Rated rapid game"]
+[Site "https://lichess.org/Gf77tCub"]
+[Date "2023.02.27"]
+[White "paganoodle"]
+[Black "peterchero"]
+[Result "1-0"]
+[UTCDate "2023.02.27"]
+[UTCTime "00:24:36"]
+[WhiteElo "1625"]
+[BlackElo "1599"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-50"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "C50"]
+[Termination "Normal"]
+                
+1. e4  e5 2. Nf3  Nc6 3. Bc4  h6 4. d4  exd4 5. Nxd4  Qf6 6. Be3  Bc5 7. Nf5  Bxe3 8. fxe3  Qxb2 9. Nd2  Nb4 10. O-O  Nxc2 11. Bxf7+  Kd8 12. Qg4  Nxa1 13. Nd4  d6 14. Qxg7  Qxd2 15. Qf8+  Kd7 16. Qe8# 1-0

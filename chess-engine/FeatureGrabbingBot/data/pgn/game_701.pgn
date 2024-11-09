@@ -1,0 +1,18 @@
+[Event "Rated blitz game"]
+[Site "https://lichess.org/j3Bj5UcV"]
+[Date "2023.01.25"]
+[White "peterchero"]
+[Black "dilya_m"]
+[Result "1-0"]
+[UTCDate "2023.01.25"]
+[UTCTime "04:54:07"]
+[WhiteElo "1100"]
+[BlackElo "1091"]
+[WhiteRatingDiff "+32"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D02"]
+[Termination "Normal"]
+                
+1. Nf3  d5 2. d4  e6 3. Nc3  Nf6 4. Bf4  h6 5. Nb5  g5 6. Nxc7+  Ke7 7. Nxa8  gxf4 8. Qd3  Bg7 9. Qa3+  Ke8 10. Qc5  Nbd7 11. Nc7+ 1-0

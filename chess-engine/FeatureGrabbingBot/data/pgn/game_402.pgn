@@ -1,0 +1,17 @@
+[Event "Casual blitz game"]
+[Site "https://lichess.org/6Q0DAOBx"]
+[Date "2024.10.18"]
+[White "peterchero"]
+[Black "maia1"]
+[Result "1-0"]
+[UTCDate "2024.10.18"]
+[UTCTime "16:29:06"]
+[WhiteElo "1356"]
+[BlackElo "1430"]
+[BlackTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "300+3"]
+[ECO "D02"]
+[Termination "Normal"]
+                
+1. d4  d5 2. Nf3  e6 3. g3  Nc6 4. Bg2  Nf6 5. O-O  Bd6 6. c4  dxc4 7. Nbd2  b5 8. a4  a6 9. axb5  Nb4 10. Nxc4  Bb7 11. bxa6  Bxa6 12. Nxd6+  Qxd6 13. Ne5  O-O 14. Bxa8  Rxa8 15. Bf4  Qd5 16. Qa4  Qxd4 17. e3  Qxb2 18. Rfb1  Qc3 19. Rxb4  Nd5 20. Qxa6  Rxa6 21. Rb8# 1-0

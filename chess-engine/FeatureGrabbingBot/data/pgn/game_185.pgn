@@ -1,0 +1,18 @@
+[Event "Rated blitz game"]
+[Site "https://lichess.org/tDQPlA5v"]
+[Date "2023.12.24"]
+[White "EvgenPPPP"]
+[Black "peterchero"]
+[Result "0-1"]
+[UTCDate "2023.12.24"]
+[UTCTime "18:41:36"]
+[WhiteElo "1130"]
+[BlackElo "1232"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+25"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C50"]
+[Termination "Normal"]
+                
+1. e4  e5 2. Nf3  Nc6 3. Bc4  h6 4. Bxf7+  Kxf7 5. Nxe5+  Nxe5 6. Qh5+  Ke6 7. O-O  Nf6 8. Qh3+  Kf7 9. Qb3+  d5 10. exd5  Qxd5 11. Qxd5+  Nxd5 12. d3  Nb4 13. c3  Nc2 14. Re1  Nxd3 15. Re2  Nxa1 16. b3  Nxc1 17. Re1  Nd3 18. Rd1  Bf5 19. Na3  Bxa3 20. Rxa1  Rae8 21. h3  Bd6 22. Rd1  Kg6 23. c4  c5 24. Rc1  Re4 25. Rc3  Rhe8 26. Rxd3  Re1# 0-1

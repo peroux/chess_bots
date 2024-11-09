@@ -1,0 +1,16 @@
+[Event "Casual rapid game"]
+[Site "https://lichess.org/WtCzdRxS"]
+[Date "2024.02.19"]
+[White "Kir_first"]
+[Black "peterchero"]
+[Result "0-1"]
+[UTCDate "2024.02.19"]
+[UTCTime "18:09:33"]
+[WhiteElo "1500"]
+[BlackElo "1504"]
+[Variant "Standard"]
+[TimeControl "600+7"]
+[ECO "A45"]
+[Termination "Normal"]
+                
+1. d4  Nf6 2. f4  g6 3. Nf3  Bg7 4. g4  O-O 5. Bh3  d5 6. Ne5  Qd6 7. Nc4  Qa6 8. g5  Bxh3 9. Ne5  Ne4 10. Nd7  Nxd7 11. Qd3  Qxd3 0-1

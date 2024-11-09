@@ -1,0 +1,18 @@
+[Event "Rated bullet game"]
+[Site "https://lichess.org/6qjCaibA"]
+[Date "2022.10.16"]
+[White "peterchero"]
+[Black "capturologist"]
+[Result "0-1"]
+[UTCDate "2022.10.16"]
+[UTCTime "01:09:39"]
+[WhiteElo "1256"]
+[BlackElo "1259"]
+[WhiteRatingDiff "-60"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "120+1"]
+[ECO "B30"]
+[Termination "Time forfeit"]
+                
+1. Nf3  c5 2. e4  Nc6 3. Nc3  g6 4. Bc4  e6 5. O-O  a6 6. d4  b5 7. d5  bxc4 8. dxc6  Nf6 9. Bf4  d6 10. e5  Nh5 11. exd6  Nxf4 12. c7  Qd7 13. Ne5  Qxd6 14. Nxf7  Kxf7 15. Qxd6  Bxd6 16. g3  Nh3+ 17. Kg2  Ng5 18. Rfd1  Bb7+ 19. f3  Bc6 20. Rxd6  Nxf3 21. Rxc6  Ne5 22. Rd6  Rac8 23. Rad1  Rxc7 24. Ne4  Rb8 25. Rf1+  Ke7 26. Rf6  Rc6 27. Rxc6  Nxc6 28. Rf4  Rxb2 29. Nxc5  Rxc2+ 30. Kh3  Rxa2 31. Rxc4  Ne5 32. Re4  Nf3 33. Nb7  Nxh2 34. Nc5  Nf3 35. Rxe6+  Kf7 36. Re3  Ng5+ 37. Kg4  h6 38. Ne4  Ra4 39. Kf4  Ne6+ 40. Ke5  Nc7 41. Nd6+  Kg7 42. Rf3  Ra5+ 43. Kd4  Ne6+ 44. Kd3  Nc5+ 45. Kd4  Nb3+ 46. Kc3  Nc1 47. Kc2  Ne2 48. Rf7+  Kg8 49. Rf6  Nd4+ 50. Kd1  Kg7 0-1

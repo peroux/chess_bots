@@ -1,0 +1,18 @@
+[Event "Rated bullet game"]
+[Site "https://lichess.org/J6GeIzaO"]
+[Date "2024.01.10"]
+[White "peterchero"]
+[Black "PieceGroper"]
+[Result "0-1"]
+[UTCDate "2024.01.10"]
+[UTCTime "05:21:15"]
+[WhiteElo "1238"]
+[BlackElo "1240"]
+[WhiteRatingDiff "-30"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "D02"]
+[Termination "Time forfeit"]
+                
+1. d4  d5 2. Nf3  e6 3. g3  Nc6 4. Bg2  Nf6 5. O-O  Bd6 6. Nc3  O-O 7. Ne5  Nxe5 8. dxe5  Nd7 9. exd6  cxd6 10. f3  d4 11. Nb1  e5 12. c3  Nf6 13. cxd4  exd4 14. Qxd4  Be6 15. Bf4  Qe7 16. Bxd6  Qe8 17. Bxf8  Qxf8 18. Rd1  Rd8 19. Qa4  Re8 20. Nc3  Nd7 21. Qxa7  h6 22. Qa4  Kh7 23. Rxd7  Bxd7 24. Qxd7  Re7 25. Qd3+  g6 26. Rc1  Qg7 27. Ne4  f5 28. Nf2  Qf6 29. g4  fxg4 30. Nxg4  Qxb2 31. Rc8  Qg7 32. Qb5  Rxe2 33. Qb6  Qa1+ 34. Bf1  Qe1 35. Rc7+  Re7 36. Nf6+  Kg7 37. Rxe7+  Qxe7 38. Ne4  Qf6 0-1

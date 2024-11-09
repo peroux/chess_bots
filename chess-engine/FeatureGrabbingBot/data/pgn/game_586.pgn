@@ -1,0 +1,16 @@
+[Event "Casual blitz game"]
+[Site "https://lichess.org/c9GbUath"]
+[Date "2023.10.25"]
+[White "peterchero"]
+[Black "Kumba2002"]
+[Result "0-1"]
+[UTCDate "2023.10.25"]
+[UTCTime "14:31:59"]
+[WhiteElo "1232"]
+[BlackElo "1255"]
+[Variant "Standard"]
+[TimeControl "300+0"]
+[ECO "B00"]
+[Termination "Time forfeit"]
+                
+1. e4  Nc6 2. Nf3  g6 3. d4  Bg7 4. Be3  d5 5. exd5  Qxd5 6. b3  Bg4 7. Bc4  Bxf3 0-1

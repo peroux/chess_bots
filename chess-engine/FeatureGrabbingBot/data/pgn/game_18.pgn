@@ -1,0 +1,16 @@
+[Event "Casual bullet game"]
+[Site "https://lichess.org/8F8Zzmv3"]
+[Date "2024.10.02"]
+[White "Bearchess22"]
+[Black "peterchero"]
+[Result "1-0"]
+[UTCDate "2024.10.02"]
+[UTCTime "21:27:31"]
+[WhiteElo "1470"]
+[BlackElo "1400"]
+[Variant "Standard"]
+[TimeControl "15+1"]
+[ECO "C50"]
+[Termination "Normal"]
+                
+1. e4  e5 2. Bc4  Nc6 3. Nf3  g6 4. Ng5  d5 5. exd5  Nce7 6. d3  c6 7. dxc6  Nxc6 8. Bxf7+  Ke7 9. Bb3  Qe8 10. Nf7 1-0

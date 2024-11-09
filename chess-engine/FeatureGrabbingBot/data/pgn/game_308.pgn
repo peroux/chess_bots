@@ -1,0 +1,16 @@
+[Event "Casual rapid game"]
+[Site "https://lichess.org/3MYmAq1i"]
+[Date "2023.01.27"]
+[White "jool"]
+[Black "peterchero"]
+[Result "1-0"]
+[UTCDate "2023.01.27"]
+[UTCTime "16:39:43"]
+[WhiteElo "1605"]
+[BlackElo "1322"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "C45"]
+[Termination "Normal"]
+                
+1. e4  e5 2. Nf3  Nc6 3. d4  exd4 4. Nxd4  Nf6 5. Nc3  d6 6. Bg5  Bd7 7. Nd5  Be7 8. Nxe7  Qxe7 9. f3  d5 10. Nxc6  Bxc6 11. Bd3  O-O-O 12. O-O  dxe4 13. Re1  Qc5+ 14. Be3  Qh5 15. fxe4  Qxd1 16. Raxd1  Bxe4 17. Bxe4  Nxe4 18. Rxd8+  Rxd8 19. Bxa7  Rd2 20. Rxe4  Rxc2 21. Bd4  b6 22. Bxg7  c5 23. h3  Kd7 24. Rh4  Kd6 25. Rxh7  Kd5 26. Rh4  Ke6 27. Bc3  Kd5 28. Rf4  Ke6 29. Rf6+  Ke7 30. Rxb6  f5 31. Rc6  Kd7 1-0

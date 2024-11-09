@@ -1,0 +1,16 @@
+[Event "Casual blitz game"]
+[Site "https://lichess.org/W99OdYYk"]
+[Date "2023.03.03"]
+[White "peterchero"]
+[Black "deividcosta"]
+[Result "1-0"]
+[UTCDate "2023.03.03"]
+[UTCTime "19:21:06"]
+[WhiteElo "1070"]
+[BlackElo "1551"]
+[Variant "Standard"]
+[TimeControl "300+3"]
+[ECO "A41"]
+[Termination "Time forfeit"]
+                
+1. Nf3  d6 2. d4  Bg4 3. e3  Nd7 4. Bd3  e5 5. dxe5  Nxe5 6. O-O  Nxf3+ 7. gxf3  Bh5 8. e4  Nf6 9. Nc3  Be7 10. Nd5  Nxd5 11. exd5  O-O 12. Qe2  Bf6 13. Qe4  Bg6 14. Qf4  Be5 15. Qg4  Bxd3 16. cxd3  c6 17. Bf4  Bxf4 18. Qxf4  cxd5 19. Rac1  b6 20. Rc6  Qe7 21. Rxd6  Rad8 22. Rxd8  Rxd8 23. Qe3  Qd7 24. Re1  h6 25. Qe7  Qc8 26. Qxa7  Re8 27. Rxe8+  Qxe8 28. Qxb6  Qe2 29. Qd8+  Kh7 30. Qxd5 1-0

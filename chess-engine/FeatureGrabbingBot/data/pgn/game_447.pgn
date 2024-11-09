@@ -1,0 +1,16 @@
+[Event "Casual rapid game"]
+[Site "https://lichess.org/uUXwUYyY"]
+[Date "2024.07.22"]
+[White "peterchero"]
+[Black "Ershov_Evgeny"]
+[Result "1-0"]
+[UTCDate "2024.07.22"]
+[UTCTime "16:12:33"]
+[WhiteElo "1507"]
+[BlackElo "1511"]
+[Variant "Standard"]
+[TimeControl "600+10"]
+[ECO "C44"]
+[Termination "Normal"]
+                
+1. Nf3  Nc6 2. e4  e5 3. g3  Bc5 4. Bg2  d6 5. O-O  Nf6 6. a3  Nxe4 7. b4  Bb6 8. c3  Qf6 9. Qb3  Be6 10. Qc2  O-O-O 11. Qxe4  d5 12. Qh4  g5 13. Qxg5  Qg6 14. Qxg6  hxg6 15. d4  e4 16. Ne5  Ne7 17. a4  Rh7 18. a5  f6 19. axb6  axb6 20. Ra8# 1-0

@@ -1,0 +1,18 @@
+[Event "Rated bullet game"]
+[Site "https://lichess.org/JfsLLdB0"]
+[Date "2023.04.24"]
+[White "peterchero"]
+[Black "mazivic"]
+[Result "0-1"]
+[UTCDate "2023.04.24"]
+[UTCTime "00:13:46"]
+[WhiteElo "1221"]
+[BlackElo "1254"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "B00"]
+[Termination "Normal"]
+                
+1. e4  d6 2. d3  Nf6 3. Bf4  g6 4. Nf3  Bg7 5. Nc3  O-O 6. Be2  c5 7. O-O  Nc6 8. d4  cxd4 9. Nb1  e5 10. c3  exf4 11. cxd4  Nxe4 12. Qd3  Nf6 13. Nc3  a6 14. d5  Ne5 15. Nxe5  dxe5 16. Rfd1  Ne8 17. Ne4  Nd6 18. Nxd6  Qxd6 19. Bg4  Bxg4 20. f3  Bf5 21. Qe2  b5 22. Rac1  Rfe8 23. Rc6  Qd8 24. d6  e4 25. d7  Re7 26. Rc8  Rxc8 27. dxc8=Q  Qxc8 28. Rd4  Bxd4+ 29. Kh1  Qd7 30. Qf2  Bxf2 31. g3  Qd1+ 32. Kg2  Qxf3+ 33. Kf1  Bc5+ 34. Ke1  e3 35. gxf4  Qf2+ 36. Kd1  Qd2# 0-1

@@ -1,0 +1,18 @@
+[Event "Rated blitz game"]
+[Site "https://lichess.org/Fd5zW3I1"]
+[Date "2023.01.25"]
+[White "octornadopus"]
+[Black "peterchero"]
+[Result "1-0"]
+[UTCDate "2023.01.25"]
+[UTCTime "05:22:07"]
+[WhiteElo "972"]
+[BlackElo "1067"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-25"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C44"]
+[Termination "Normal"]
+                
+1. Nf3  Nc6 2. e4  e5 3. d3  Nf6 4. Bg5  Be7 5. Nc3  O-O 6. h4  h6 7. Bxf6  Bxf6 8. h5  Nd4 9. Qd2  Bg5 10. Nxg5  Qxg5 11. Qxg5  hxg5 12. h6  gxh6 13. Rxh6  Nxc2+ 14. Ke2  Nxa1 15. Kd2  Kg7 16. Rh5  Rh8 17. Rxg5+  Kf6 18. Rf5+  Ke6 19. g3  Rh1 20. Bg2  Rg1 21. Bh3  Kd6 22. Rxf7  b6 23. Rf6+  Ke7 24. Rf5  d6 25. Nd5+  Kd8 26. Rf8# 1-0

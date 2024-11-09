@@ -1,0 +1,16 @@
+[Event "Casual blitz game"]
+[Site "https://lichess.org/qa4GSNeT"]
+[Date "2024.07.27"]
+[White "peterchero"]
+[Black "sfrm31"]
+[Result "0-1"]
+[UTCDate "2024.07.27"]
+[UTCTime "19:15:41"]
+[WhiteElo "1415"]
+[BlackElo "1424"]
+[Variant "Standard"]
+[TimeControl "300+3"]
+[ECO "D02"]
+[Termination "Normal"]
+                
+1. d4  Nf6 2. Nf3  d5 3. g3  Bf5 4. Bg2  e6 5. O-O  Be7 6. Nc3  O-O 7. Bf4  c6 8. b4  Ne4 9. Nxe4  Bxe4 10. Qd2  Nd7 11. a3  Nb6 12. Qc3  Nc4 13. Nd2  Bxg2 14. Nxc4  Bxf1 15. Kxf1  dxc4 16. Qxc4  Bg5 17. Be5  Bf6 18. Bf4  Qxd4 19. Qa2  Qxa1+ 0-1

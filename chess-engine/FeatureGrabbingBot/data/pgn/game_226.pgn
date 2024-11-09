@@ -1,0 +1,18 @@
+[Event "Rated bullet game"]
+[Site "https://lichess.org/3BbissCD"]
+[Date "2023.04.24"]
+[White "SurenEds98"]
+[Black "peterchero"]
+[Result "1-0"]
+[UTCDate "2023.04.24"]
+[UTCTime "00:20:12"]
+[WhiteElo "1180"]
+[BlackElo "1215"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-8"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "C25"]
+[Termination "Normal"]
+                
+1. e4  e5 2. f4  Nc6 3. Nf3  exf4 4. Nc3  Bd6 5. Bc4  b6 6. d4  Bb7 7. e5  Bb4 8. Qd3  Bxc3+ 9. Qxc3  Nge7 10. d5  O-O 11. dxc6  Bxc6 12. O-O  d6 13. exd6  cxd6 14. Bxf4  Nd5 15. Bxd5  Bxd5 16. Nd4  Qh4 17. Nf5  Qg4 18. Ng3  Rfe8 19. Rae1  Rxe1 20. Rxe1  g5 21. Bc1  Rd8 22. b3  f6 23. Bb2  Kg7 24. Qxf6+  Kg8 25. Qg7# 1-0

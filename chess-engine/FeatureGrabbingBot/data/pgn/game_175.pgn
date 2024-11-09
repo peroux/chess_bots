@@ -1,0 +1,18 @@
+[Event "Rated bullet game"]
+[Site "https://lichess.org/HOku2nRR"]
+[Date "2024.01.11"]
+[White "tittiestaddies"]
+[Black "peterchero"]
+[Result "1-0"]
+[UTCDate "2024.01.11"]
+[UTCTime "02:39:37"]
+[WhiteElo "1181"]
+[BlackElo "1286"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-20"]
+[Variant "Standard"]
+[TimeControl "120+1"]
+[ECO "D00"]
+[Termination "Normal"]
+                
+1. d4  d5 2. Bf4  Nf6 3. e3  g6 4. h4  Bg7 5. Be2  O-O 6. h5  Re8 7. hxg6  fxg6 8. Nf3  Nfd7 9. Ng5  e5 10. dxe5  Bxe5 11. Nxh7  Bxf4 12. exf4  Re7 13. Ng5  Nc5 14. Qd4  Rxe2+ 15. Kxe2  Bg4+ 16. Kf1  Nc6 17. Qh8# 1-0

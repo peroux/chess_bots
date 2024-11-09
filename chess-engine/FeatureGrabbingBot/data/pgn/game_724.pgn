@@ -1,0 +1,16 @@
+[Event "Casual blitz game"]
+[Site "https://lichess.org/5tihoiv6"]
+[Date "2022.12.29"]
+[White "peterchero"]
+[Black "gunn9197"]
+[Result "1-0"]
+[UTCDate "2022.12.29"]
+[UTCTime "06:16:46"]
+[WhiteElo "1075"]
+[BlackElo "1035"]
+[Variant "Standard"]
+[TimeControl "300+3"]
+[ECO "C34"]
+[Termination "Normal"]
+                
+1. e4  e5 2. f4  exf4 3. Nf3  Nf6 4. d4  Nxe4 5. Bxf4  Nc6 6. Bc4  Nxd4 7. Qxd4 1-0

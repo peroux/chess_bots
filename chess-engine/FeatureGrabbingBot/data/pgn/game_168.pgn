@@ -1,0 +1,18 @@
+[Event "Rated blitz game"]
+[Site "https://lichess.org/MsUNohXh"]
+[Date "2024.01.16"]
+[White "egevka"]
+[Black "peterchero"]
+[Result "0-1"]
+[UTCDate "2024.01.16"]
+[UTCTime "05:20:47"]
+[WhiteElo "1236"]
+[BlackElo "1256"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+17"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A00"]
+[Termination "Normal"]
+                
+1. g4  e5 2. Bg2  Nf6 3. c4  g6 4. Qb3  Bg7 5. Bxb7  Bxb7 6. Qxb7  Nc6 7. g5  Ne4 8. Qb5  Nxg5 9. d3  O-O 10. h4  Nd4 11. Bxg5  f6 12. Bxf6  Rxf6 13. Qxe5  Nc2+ 14. Kd2  Nxa1 15. b3  Rxf2 16. Qd5+  Kh8 17. Nf3  Qf6 18. d4  Qf4+ 19. Kd3  Re8 20. Qxd7 0-1

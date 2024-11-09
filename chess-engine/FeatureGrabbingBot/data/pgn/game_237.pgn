@@ -1,0 +1,18 @@
+[Event "Rated bullet game"]
+[Site "https://lichess.org/nL4Mi5hr"]
+[Date "2023.04.23"]
+[White "leebraun"]
+[Black "peterchero"]
+[Result "0-1"]
+[UTCDate "2023.04.23"]
+[UTCTime "18:26:41"]
+[WhiteElo "1305"]
+[BlackElo "1269"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+12"]
+[Variant "Standard"]
+[TimeControl "120+1"]
+[ECO "D77"]
+[Termination "Time forfeit"]
+                
+1. c4  Nc6 2. Nf3  g6 3. g3  Bg7 4. Bg2  Nf6 5. O-O  O-O 6. d4  d5 7. Nc3  dxc4 8. Bg5  Bf5 9. Re1  Nh5 10. g4  Nf6 11. gxf5  gxf5 12. Qc1  Nxd4 13. Bh6  Nxf3+ 14. Bxf3  Bxh6 15. Qxh6  Ng4 16. Bxg4  fxg4 17. Qg5+  Kh8 18. Kh1  Rg8 19. Qe5+  f6 20. Qe6  Qd2 21. Rg1  Qxb2 22. Nd5  c3 23. Qxe7  c2 24. Qxf6+  Rg7 25. Rac1  Qxf6 26. Nxf6  Rf8 27. Nxg4  Rxf2 28. Rxc2  Rf4 29. Ne5  Rxg1+ 30. Kxg1  Re4 31. Nf3  Kg7 32. Rxc7+  Kg6 33. Rxb7  a5 34. Rb6+  Kf7 35. Ra6  Rxe2 36. Rxa5  Re3 37. Kf2  Re6 38. Rh5  Ra6 39. Rxh7+  Kg8 40. Rh3  Rxa2+ 41. Kg3  Ra3 42. Rh4  Kf7 43. Rg4  Ke6 44. h4  Ra5 45. h5  Rxh5 46. Rg6+  Kf7 47. Ra6  Rb5 48. Kg4  Kg7 49. Ng5  Rb4+ 50. Kh5  Rb5 51. Ra7+  Kf6 52. Rf7+  Ke5 53. Rh7  Kf4 54. Rf7+  Kg3 55. Re7  Rb4 56. Re5  Rh4+ 57. Kg6  Ra4 58. Re3+  Kf4 59. Rf3+  Kg4 60. Rf7  Ra5 61. Nh7  Ra6+ 62. Kg7  Kh5 63. Rf5+  Kg4 64. Rg5+  Kf4 65. Rh5  Ra7+ 66. Kg6  Ra6+ 67. Nf6  Kg3 68. Rg5+  Kf3 69. Rf5+  Ke3 70. Re5+  Kd4 71. Re4+  Kd3 72. Rg4  Ke3 73. Rg3+  Kf4 74. Rg1  Ke5 75. Re1+  Kd4 76. Re4+  Kd3 77. Rh4  Ke3 78. Rh6  Kf4 79. Rh5  Kf3 80. Rf5+  Ke3 81. Re5+  Kd4 82. Rh5  Ke3 83. Rh3+  Kf4 84. Rh1  Ke5 85. Re1+  Kd6 86. Ne4+  Ke5+ 0-1

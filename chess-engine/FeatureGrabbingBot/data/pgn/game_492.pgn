@@ -1,0 +1,16 @@
+[Event "Casual classical game"]
+[Site "https://lichess.org/osiRaF9r"]
+[Date "2024.02.23"]
+[White "peterchero"]
+[Black "EDIPOLO"]
+[Result "1-0"]
+[UTCDate "2024.02.23"]
+[UTCTime "19:15:56"]
+[WhiteElo "1500"]
+[BlackElo "1574"]
+[Variant "Standard"]
+[TimeControl "1500+0"]
+[ECO "D02"]
+[Termination "Normal"]
+                
+1. d4  d5 2. Nf3  f6 3. g3  Nc6 4. Bg2  Bf5 5. O-O  Qd6 6. b3  e6 7. c4  dxc4 8. bxc4  Qb4 9. d5  Na5 10. Bd2  Qb2 11. Bxa5  Qxa1 12. Qa4+  Kd8 13. Bc3  Bc2 14. Qxc2 1-0

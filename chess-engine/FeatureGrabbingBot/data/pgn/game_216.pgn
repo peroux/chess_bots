@@ -1,0 +1,18 @@
+[Event "Rated bullet game"]
+[Site "https://lichess.org/2Uq0FPKG"]
+[Date "2023.05.07"]
+[White "gwin232"]
+[Black "peterchero"]
+[Result "1-0"]
+[UTCDate "2023.05.07"]
+[UTCTime "15:15:32"]
+[WhiteElo "1252"]
+[BlackElo "1212"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "A00"]
+[Termination "Normal"]
+                
+1. f3  d6 2. Nc3  e5 3. d4  Nc6 4. e3  exd4 5. exd4  Qf6 6. d5  Nce7 7. Bd3  c6 8. dxc6  Nxc6 9. Nge2  Bf5 10. Bxf5  Qxf5 11. O-O  O-O-O 12. Nb5  Nf6 13. Be3  Kb8 14. Ned4  Nxd4 15. Qxd4  d5 16. Qxa7+  Kc8 17. Qa8+  Kd7 18. Qxb7+  Ke8 19. Nc7+  Ke7 20. Nxd5+  Ke6 21. Qc6+  Ke5 22. f4+  Ke4 23. Qc4# 1-0

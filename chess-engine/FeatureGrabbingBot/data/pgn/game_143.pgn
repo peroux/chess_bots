@@ -1,0 +1,18 @@
+[Event "Rated bullet game"]
+[Site "https://lichess.org/HG4sEVzx"]
+[Date "2024.01.29"]
+[White "macedo_03"]
+[Black "peterchero"]
+[Result "0-1"]
+[UTCDate "2024.01.29"]
+[UTCTime "23:58:57"]
+[WhiteElo "1308"]
+[BlackElo "1342"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "D06"]
+[Termination "Time forfeit"]
+                
+1. d4  d5 2. c4  Nf6 3. Nc3  dxc4 4. e4  g6 5. Bxc4  Bg7 6. Nf3  O-O 7. Bg5  Nc6 8. Qd2  e5 9. d5  Nd4 10. Nxd4  exd4 11. Qxd4  Nh5 12. Qe3  Bxc3+ 13. bxc3  f6 14. Bh4  g5 15. Bg3  Nf4 16. Bxf4  gxf4 17. Qxf4  c6 18. h4  cxd5 19. Bxd5+  Kh8 20. h5  Be6 21. Bxb7  Rb8 22. Rb1  Rf7 23. Qc1  Rfxb7 24. Rxb7  Rxb7 25. O-O  Bc4 26. Re1  Re7 27. Qf4  Bd5 28. e5  Rxe5 29. Rxe5  fxe5 30. Qxe5+  Kg8 0-1

@@ -1,0 +1,18 @@
+[Event "Rated bullet game"]
+[Site "https://lichess.org/afH7EYoG"]
+[Date "2024.01.30"]
+[White "peterchero"]
+[Black "Kubi93"]
+[Result "1-0"]
+[UTCDate "2024.01.30"]
+[UTCTime "00:27:57"]
+[WhiteElo "1358"]
+[BlackElo "1390"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "D02"]
+[Termination "Time forfeit"]
+                
+1. d4  d5 2. Nf3  Nf6 3. g3  e6 4. Bg2  c5 5. O-O  cxd4 6. Nxd4  Nc6 7. Nf3  Be7 8. b3  O-O 9. c4  dxc4 10. bxc4  b6 11. Qxd8  Rxd8 12. Be3  Bb7 13. Nc3  Rac8 14. Rad1  Bb4 15. Rxd8+  Nxd8 16. Nb5  a6 17. Nd6  Bxd6 18. Nd4  Bxg2 19. Kxg2  Nc6 20. Nxc6  Rxc6 21. Rd1  Bc5 22. Bxc5  h6 23. Rd8+  Kh7 24. Be3  Rxc4 25. Rd4  Rc2 26. Rg4  b5 27. Rf4  Nd5 28. Rd4  Rxe2 29. Rxd5  exd5 30. Bc5  Rxa2 31. Kf3  Rd2 32. Ke3  Rc2 33. Kd4  b4 34. Kxd5  b3 35. Bd4  b2 36. Bxb2  Rxb2 37. Kc5  Rb1 38. Kc4  a5 39. Kc3  a4 40. Kc2  Rb7 41. Kc1  a3 42. Kc2  a2 43. Kd3  a1=Q 44. Ke4 1-0

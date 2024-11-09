@@ -1,0 +1,18 @@
+[Event "Rated bullet game"]
+[Site "https://lichess.org/bzyxpMac"]
+[Date "2023.04.23"]
+[White "lordoan"]
+[Black "peterchero"]
+[Result "1-0"]
+[UTCDate "2023.04.23"]
+[UTCTime "17:32:03"]
+[WhiteElo "1310"]
+[BlackElo "1313"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-14"]
+[Variant "Standard"]
+[TimeControl "120+1"]
+[ECO "A00"]
+[Termination "Normal"]
+                
+1. b4  e5 2. Bb2  Bd6 3. e3  Nf6 4. a3  O-O 5. Nf3  Nc6 6. b5  Ne7 7. d4  exd4 8. Bxd4  c5 9. Bxf6  g6 10. Bxe7  Qxe7 11. Be2  Qf6 12. Nbd2  Be5 13. Rb1  d6 14. Nxe5  Qxe5 15. O-O  Qg5 16. Nf3  Qf6 17. c4  a6 18. a4  axb5 19. axb5  b6 20. Ra1  Rb8 21. Ra7  Be6 22. Qxd6  Rbd8 23. Qc7  Rd7 24. Qxb6  Rxa7 25. Qxa7  Rd8 26. g3  Bxc4 27. Bxc4  Qxf3 28. Qxc5  Qf6 29. b6  Rb8 30. Qc7  Qxb6 31. Qxf7+  Kh8 32. Rd1  Qd8 33. Rxd8+  Rxd8 34. e4  Rd1+ 35. Kg2  Rc1 36. Qg8# 1-0

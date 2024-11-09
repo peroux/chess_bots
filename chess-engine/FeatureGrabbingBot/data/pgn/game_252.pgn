@@ -1,0 +1,18 @@
+[Event "Rated blitz game"]
+[Site "https://lichess.org/Lnn18zBD"]
+[Date "2023.04.22"]
+[White "aangra77"]
+[Black "peterchero"]
+[Result "0-1"]
+[UTCDate "2023.04.22"]
+[UTCTime "19:31:59"]
+[WhiteElo "1167"]
+[BlackElo "1133"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+8"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D02"]
+[Termination "Normal"]
+                
+1. d4  d5 2. Nf3  Nc6 3. Nc3  Bf5 4. e3  Qd7 5. Bb5  O-O-O 6. Ne5  Qd6 7. Nxf7  Qf6 8. Nxh8  g5 9. Bxc6  bxc6 10. Na4  Qxh8 11. Qd2  Kd7 12. Nc5+  Ke8 13. Qa5  e5 14. Qxc7  Bxc5 15. dxc5  e4 16. a4  Nf6 17. Qxc6+  Nd7 18. a5  Kf8 19. Qxd5  Bg6 20. Qd6+  Ke8 21. a6  Nb8 22. Qe6+  Kf8 23. c6  Nxc6 24. Qxc6  Qe5 25. Bd2  Be8 26. Bb4+  Kg8 27. Bc3  Qb8 28. Qh6  Rd7 29. Ke2  Qb5+ 30. Ke1  Qd5 31. Ra5  Qd1# 0-1

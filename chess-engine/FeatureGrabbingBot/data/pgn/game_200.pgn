@@ -1,0 +1,16 @@
+[Event "Casual blitz game"]
+[Site "https://lichess.org/KBFv3pHH"]
+[Date "2023.10.09"]
+[White "bobbycrusher"]
+[Black "peterchero"]
+[Result "1-0"]
+[UTCDate "2023.10.09"]
+[UTCTime "18:06:22"]
+[WhiteElo "1617"]
+[BlackElo "1232"]
+[Variant "Standard"]
+[TimeControl "300+0"]
+[ECO "A04"]
+[Termination "Normal"]
+                
+1. Nf3  Nc6 2. d4  Nf6 3. Nc3  b6 4. g3  Bb7 5. Bg2  d5 6. O-O  e6 7. Bg5  Be7 8. Re1  Kf8 9. e4  dxe4 10. Nxe4  h6 11. Bxf6  Bxf6 12. Nxf6  Qxf6 13. c3  Rd8 14. Qe2  Kg8 15. Ne5  Nxe5 16. dxe5  Qe7 17. Bxb7  c6 18. Ba6  b5 19. c4  Qc7 20. cxb5  Qb6 21. bxc6  Qxc6 22. Rac1  Qd5 23. Red1  Qa8 24. Rxd8+  Qxd8 25. Rd1  Qe7 26. Bb5  Kh7 27. Qe4+  g6 28. Rd7  Qf8 29. Rxa7  Qb8 30. Rxf7+  Kg8 31. Qxg6# 1-0

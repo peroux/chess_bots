@@ -1,0 +1,16 @@
+[Event "Casual rapid game"]
+[Site "https://lichess.org/HUflPTIB"]
+[Date "2024.08.02"]
+[White "peterchero"]
+[Black "Schachmatt23"]
+[Result "1-0"]
+[UTCDate "2024.08.02"]
+[UTCTime "20:55:20"]
+[WhiteElo "1507"]
+[BlackElo "1433"]
+[Variant "Standard"]
+[TimeControl "600+3"]
+[ECO "A40"]
+[Termination "Normal"]
+                
+1. d4  c6 2. Nf3  d5 3. Nc3  g6 4. e3  Bg4 5. Be2  Bg7 6. O-O  Nf6 7. h3  Bxf3 8. Bxf3  O-O 9. Ne2  Ne4 10. b3  Nd7 11. Bb2  Ndf6 12. Qd3  a6 13. c4  b6 14. cxd5  cxd5 15. Nf4  e6 16. Bxe4  Nxe4 17. Rac1  Re8 18. Rc6  b5 19. Rfc1  Qd7 20. Rc7  Qd8 21. a4  Re7 22. Rxe7  Qxe7 23. axb5  axb5 24. Qxb5  Bf8 25. Nd3  Rd8 26. Ne5  Qe8 27. Qd3  Qb5 28. Qxb5  Nd2 29. Rc2  Ne4 30. Qb7  Nd6 31. Qc7  Re8 32. Ba3  Nb5 33. Qxf7+  Kh8 34. Bxf8  Ra8 35. Qg7# 1-0

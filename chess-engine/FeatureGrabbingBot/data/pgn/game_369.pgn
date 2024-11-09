@@ -1,0 +1,18 @@
+[Event "Rated bullet game"]
+[Site "https://lichess.org/J40wOzYd"]
+[Date "2022.10.19"]
+[White "eka_iswandie"]
+[Black "peterchero"]
+[Result "0-1"]
+[UTCDate "2022.10.19"]
+[UTCTime "15:36:29"]
+[WhiteElo "1255"]
+[BlackElo "1239"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+38"]
+[Variant "Standard"]
+[TimeControl "120+1"]
+[ECO "A00"]
+[Termination "Time forfeit"]
+                
+1. b4  e5 2. Bb2  d6 3. a3  Nf6 4. e3  Be6 5. h3  Nc6 6. d3  Be7 7. c4  O-O 8. b5  Na5 9. Bc3  b6 10. Qa4  Rb8 11. Bxa5  bxa5 12. Qxa5  Rb7 13. Qd2  Nd7 14. Nf3  Nc5 15. Qc2  a6 16. a4  a5 17. Be2  Qd7 18. Nc3  c6 19. Rb1  cxb5 20. cxb5  Rfb8 21. Qd2  Bf6 22. e4  Qc7 23. O-O  Bd7 24. Nd5  Qd8 25. Nxf6+  Qxf6 26. Rfc1  Bxb5 27. axb5  Qd8 28. Ng5  f6 29. Ne6  Nxe6 30. Bg4  Nc5 31. Bf5  Qe8 0-1

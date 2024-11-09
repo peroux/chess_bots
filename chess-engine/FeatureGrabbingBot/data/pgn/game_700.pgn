@@ -1,0 +1,18 @@
+[Event "Rated blitz game"]
+[Site "https://lichess.org/n7EIP7vU"]
+[Date "2023.01.25"]
+[White "peterchero"]
+[Black "Gaelopo"]
+[Result "1-0"]
+[UTCDate "2023.01.25"]
+[UTCTime "05:03:53"]
+[WhiteElo "1085"]
+[BlackElo "945"]
+[WhiteRatingDiff "+16"]
+[BlackRatingDiff "-4"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A04"]
+[Termination "Normal"]
+                
+1. Nf3  e6 2. d4  Bb4+ 3. Nc3  Bxc3+ 4. bxc3  Nh6 5. Ba3  d6 6. e4  O-O 7. Bd3  d5 8. O-O  dxe4 9. Bxe4  Ng4 10. Qd3  g6 11. h4  Nf6 12. g4  Nxg4 13. h5  gxh5 14. Bxh7+  Kh8 15. Bxf8  Qxf8 16. Ng5  Qd6 17. Nxf7+  Kg7 18. Nxd6  cxd6 19. Qg6+  Kh8 20. Qg8# 1-0

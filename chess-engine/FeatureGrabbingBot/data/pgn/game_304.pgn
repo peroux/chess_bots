@@ -1,0 +1,18 @@
+[Event "Rated blitz game"]
+[Site "https://lichess.org/lY1aHh2K"]
+[Date "2023.02.23"]
+[White "furkan35x"]
+[Black "peterchero"]
+[Result "0-1"]
+[UTCDate "2023.02.23"]
+[UTCTime "09:00:50"]
+[WhiteElo "1036"]
+[BlackElo "1056"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+14"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B00"]
+[Termination "Normal"]
+                
+1. e4  Nc6 2. Qh5  Nf6 3. Qf3  Nd4 4. Qd3  e5 5. Nc3 0-1

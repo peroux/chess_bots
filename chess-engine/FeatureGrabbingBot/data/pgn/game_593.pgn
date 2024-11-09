@@ -1,0 +1,18 @@
+[Event "Rated bullet game"]
+[Site "https://lichess.org/D2NR2S0b"]
+[Date "2023.05.29"]
+[White "peterchero"]
+[Black "TRJTUSA"]
+[Result "0-1"]
+[UTCDate "2023.05.29"]
+[UTCTime "03:15:58"]
+[WhiteElo "1208"]
+[BlackElo "1253"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "A40"]
+[Termination "Normal"]
+                
+1. d4  h5 2. Nf3  f6 3. Nc3  c6 4. g3  b5 5. Bg2  b4 6. Nb1  a5 7. O-O  e6 8. c3  bxc3 9. Nxc3  a4 10. b3  axb3 11. Bb2  bxa2 12. Qb3  d5 13. Rxa2  Rxa2 14. Qxa2  Nd7 15. Ne5  Nxe5 16. dxe5  fxe5 17. f4  Bb4 18. Na4  exf4 19. Rxf4  Nf6 20. Nb6  Qxb6+ 21. Kh1  Bd6 22. Rf3  Bxg3 23. hxg3  h4 24. Bh3  hxg3 25. Rxg3  Qf2 26. Qa6  Qe1+ 27. Rg1  Qh4 28. Qxc6+  Bd7 29. Qc8+  Ke7 30. Qc7  Qxh3+ 31. Qh2  Qxh2# 0-1

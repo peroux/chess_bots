@@ -1,0 +1,18 @@
+[Event "Rated bullet game"]
+[Site "https://lichess.org/XKV5KMsO"]
+[Date "2022.02.21"]
+[White "peterchero"]
+[Black "intothebluesky"]
+[Result "1-0"]
+[UTCDate "2022.02.21"]
+[UTCTime "00:00:38"]
+[WhiteElo "1285"]
+[BlackElo "1288"]
+[WhiteRatingDiff "+57"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "120+1"]
+[ECO "B30"]
+[Termination "Normal"]
+                
+1. Nf3  c5 2. e4  Nc6 3. g3  e6 4. Bg2  Nge7 5. O-O  d5 6. d3  Ng6 7. Qe2  Be7 8. Nbd2  O-O 9. b3  b6 10. Bb2  Bb7 11. e5  Qc7 12. Rfe1  Rfe8 13. Rac1  a5 14. c4  Ba6 15. cxd5  exd5 16. Rc3  Ncxe5 17. Nxe5  Nxe5 18. Qxe5 1-0

@@ -1,0 +1,18 @@
+[Event "Rated bullet game"]
+[Site "https://lichess.org/Fv44ccgq"]
+[Date "2024.01.19"]
+[White "peterchero"]
+[Black "dcmacster"]
+[Result "0-1"]
+[UTCDate "2024.01.19"]
+[UTCTime "18:29:57"]
+[WhiteElo "1284"]
+[BlackElo "1259"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "A49"]
+[Termination "Time forfeit"]
+                
+1. d4  Nf6 2. Nf3  g6 3. g3  Bg7 4. Bg2  O-O 5. O-O  d6 6. Nc3  Nfd7 7. e4  Nc6 8. d5  Nce5 9. Nxe5  Nxe5 10. Bf4  c6 11. Bxe5  dxe5 12. f4  exf4 13. Rxf4  cxd5 14. Nxd5  Be6 15. c3  Bxd5 16. exd5  Rb8 17. b3  Qb6+ 18. Kh1  Bxc3 19. Qd3  Bxa1 20. Be4  f5 21. Bxf5  Rxf5 22. Rxf5  gxf5 23. Qxf5  Qf6 24. Qb1  Bd4 25. Qd3  Qf2 26. h3  Rf8 0-1

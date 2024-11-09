@@ -1,0 +1,18 @@
+[Event "Rated bullet game"]
+[Site "https://lichess.org/VYqDi49L"]
+[Date "2023.04.23"]
+[White "peterchero"]
+[Black "vonHelster"]
+[Result "1-0"]
+[UTCDate "2023.04.23"]
+[UTCTime "23:48:22"]
+[WhiteElo "1240"]
+[BlackElo "1123"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "A48"]
+[Termination "Time forfeit"]
+                
+1. d4  d5 2. Nf3  Nf6 3. Bf4  g6 4. Nc3  Bg7 5. e3  O-O 6. Bd3  Nc6 7. O-O  Bg4 8. h3  Bxf3 9. Qxf3  a5 10. b4  axb4 11. Nd1  Na5 12. Rb1  Nc4 13. Bxc4  dxc4 14. Rxb4  Nd5 15. Rxc4  Qd7 16. Nc3  Nxc3 17. Rxc3  Rxa2 18. Rxc7  Qd8 19. Qxb7  Ra8 20. Rxe7  Ra2 21. c3  Rc2 22. Rd7  Qc8 23. Rc7  Qxb7 24. Rxb7  Rxc3 25. Rfb1  Rc2 26. Rd7  Re8 27. Rbb7  Kf8 28. Bd6+  Kg8 29. Re7  Rxe7 30. Rxe7 1-0

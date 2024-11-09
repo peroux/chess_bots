@@ -1,0 +1,18 @@
+[Event "Rated blitz game"]
+[Site "https://lichess.org/KBDCBs19"]
+[Date "2023.01.04"]
+[White "scaccomattooooo"]
+[Black "peterchero"]
+[Result "0-1"]
+[UTCDate "2023.01.04"]
+[UTCTime "01:56:11"]
+[WhiteElo "965"]
+[BlackElo "1114"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+29"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C65"]
+[Termination "Normal"]
+                
+1. e4  e5 2. Nf3  Nc6 3. Bb5  Nf6 4. Bxc6  bxc6 5. Nxe5  Bc5 6. O-O  Nxe4 7. Nxf7  Qf6 8. Qf3  Qxf7 9. Qxe4+  Be7 10. d3  O-O 11. Re1  d5 12. Qa4  Qxf2+ 0-1

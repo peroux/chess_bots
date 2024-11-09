@@ -1,0 +1,16 @@
+[Event "Casual UltraBullet game"]
+[Site "https://lichess.org/cDSFkEup"]
+[Date "2024.08.04"]
+[White "peterchero"]
+[Black "snithik999"]
+[Result "0-1"]
+[UTCDate "2024.08.04"]
+[UTCTime "02:24:53"]
+[WhiteElo "1500"]
+[BlackElo "1500"]
+[Variant "Standard"]
+[TimeControl "15+0"]
+[ECO "B01"]
+[Termination "Time forfeit"]
+                
+1. e4  d5 2. exd5  Qd6 3. Nf3  e5 4. g3  e4 5. Bg2  Qxd5 6. c4  Kd7 7. cxd5  Bb4 8. b3  Nf6 9. Nc3  Re8 10. Bb2  Kd8 11. Nb5  Bf5 12. Nd6  e3 13. Ne5  e2 14. Nexf7+  Kd7 15. Qxe2  Ne4 16. Qe3  Nxf2 17. Qe4  Bxe4 0-1

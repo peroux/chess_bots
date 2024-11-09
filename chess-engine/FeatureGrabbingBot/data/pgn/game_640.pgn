@@ -1,0 +1,18 @@
+[Event "Rated blitz game"]
+[Site "https://lichess.org/z6R4YZNg"]
+[Date "2023.04.22"]
+[White "peterchero"]
+[Black "belottoalbuquerque"]
+[Result "0-1"]
+[UTCDate "2023.04.22"]
+[UTCTime "19:15:46"]
+[WhiteElo "1147"]
+[BlackElo "1185"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A48"]
+[Termination "Normal"]
+                
+1. d4  Nf6 2. Nf3  g6 3. Bf4  Bg7 4. Nc3  d6 5. Qd2  O-O 6. O-O-O  Ng4 7. Qe3  Nxe3 8. fxe3  Bf5 9. Kb1  Nc6 10. e4  Bg4 11. e3  Bxf3 12. gxf3  e5 13. Bg3  exd4 14. exd4  Nxd4 15. Bc4  Nxf3 16. Rhf1  Nd4 17. e5  dxe5 18. Nd5  c5 19. Rfe1  b5 20. Bxe5  bxc4 21. Bxg7  Kxg7 22. Ne3  Qb6 23. Nxc4  Qb5 24. Nd2  Rab8 25. b3  Rfd8 26. Re5  Nc6 27. Re2  Nb4 28. Nc4  Qa6 29. Rxd8  Rxd8 30. Re1  Qxa2+ 31. Kc1  Qxc2# 0-1

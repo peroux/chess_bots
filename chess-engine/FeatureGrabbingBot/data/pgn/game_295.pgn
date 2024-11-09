@@ -1,0 +1,18 @@
+[Event "Rated blitz game"]
+[Site "https://lichess.org/e71ncRUQ"]
+[Date "2023.03.24"]
+[White "Shihani_95"]
+[Black "peterchero"]
+[Result "1-0"]
+[UTCDate "2023.03.24"]
+[UTCTime "21:03:31"]
+[WhiteElo "1043"]
+[BlackElo "1066"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-17"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C34"]
+[Termination "Normal"]
+                
+1. e4  e5 2. f4  Nc6 3. Nf3  exf4 4. d3  Nf6 5. Bxf4  Bd6 6. Bxd6  cxd6 7. Nc3  O-O 8. g3  Re8 9. Bg2  d5 10. O-O  dxe4 11. dxe4  Nxe4 12. Nxe4  Rxe4 13. Ng5  Re5 14. Nxf7  Qg5 15. Nxg5  Rxg5 16. Bxc6  dxc6 17. Qd8# 1-0

@@ -1,0 +1,18 @@
+[Event "Rated bullet game"]
+[Site "https://lichess.org/F51awk8P"]
+[Date "2023.02.24"]
+[White "MARIO1962"]
+[Black "peterchero"]
+[Result "1-0"]
+[UTCDate "2023.02.24"]
+[UTCTime "16:35:08"]
+[WhiteElo "1375"]
+[BlackElo "1316"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-26"]
+[Variant "Standard"]
+[TimeControl "120+1"]
+[ECO "A22"]
+[Termination "Time forfeit"]
+                
+1. c4  e5 2. Nc3  Nf6 3. g3  b6 4. Bg2  Nc6 5. e4  Bb7 6. d3  Bb4 7. Bd2  O-O 8. Nge2  Nd4 9. Nxd4  exd4 10. Ne2  Bxd2+ 11. Qxd2  c5 12. O-O  Qe7 13. b4  d5 14. bxc5  bxc5 15. cxd5  Nxd5 16. exd5 1-0

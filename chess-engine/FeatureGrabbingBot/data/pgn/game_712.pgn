@@ -1,0 +1,16 @@
+[Event "Casual rapid game"]
+[Site "https://lichess.org/LSV7XwtG"]
+[Date "2023.01.20"]
+[White "peterchero"]
+[Black "someoneisdivakar"]
+[Result "1-0"]
+[UTCDate "2023.01.20"]
+[UTCTime "17:02:47"]
+[WhiteElo "1322"]
+[BlackElo "1035"]
+[Variant "Standard"]
+[TimeControl "660+3"]
+[ECO "B06"]
+[Termination "Normal"]
+                
+1. e4  g6 2. d4  Bg7 3. Nf3  d6 4. Bc4  e6 5. Nc3  Nd7 6. Bf4  Ne7 7. d5  e5 8. Bg5  b6 9. Qe2  Bb7 10. Ba6  Qb8 11. Bxe7  Kxe7 12. Ng5  Nc5 13. Bxb7  Qxb7 14. Qf3  Raf8 15. O-O  Kd7 16. b4  Na6 1-0

@@ -1,0 +1,18 @@
+[Event "Rated blitz game"]
+[Site "https://lichess.org/BMmd0zaE"]
+[Date "2023.01.25"]
+[White "Bizaman"]
+[Black "peterchero"]
+[Result "1-0"]
+[UTCDate "2023.01.25"]
+[UTCTime "04:56:59"]
+[WhiteElo "1157"]
+[BlackElo "1132"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-28"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B00"]
+[Termination "Normal"]
+                
+1. e4  e5 2. d4  Nc6 3. d5  Nb8 4. h4  c6 5. c4  cxd5 6. cxd5  Qa5+ 7. Bd2  Qb5 8. Bxb5 1-0

@@ -1,0 +1,16 @@
+[Event "Casual blitz game"]
+[Site "https://lichess.org/3ZqJOAtZ"]
+[Date "2022.12.02"]
+[White "Filmaty98"]
+[Black "peterchero"]
+[Result "0-1"]
+[UTCDate "2022.12.02"]
+[UTCTime "05:53:29"]
+[WhiteElo "1184"]
+[BlackElo "1075"]
+[Variant "Standard"]
+[TimeControl "60+10"]
+[ECO "C33"]
+[Termination "Normal"]
+                
+1. e4  e5 2. f4  Nc6 3. Bc4  exf4 4. Nf3  Nf6 5. O-O  Nxe4 6. Re1  d5 7. Bb3  Bc5+ 8. Kh1  O-O 9. d3  Nf2+ 0-1

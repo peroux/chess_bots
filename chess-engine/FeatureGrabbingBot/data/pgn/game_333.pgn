@@ -1,0 +1,16 @@
+[Event "Casual rapid game"]
+[Site "https://lichess.org/FkYJc6dq"]
+[Date "2023.01.19"]
+[White "karokan1"]
+[Black "peterchero"]
+[Result "1-0"]
+[UTCDate "2023.01.19"]
+[UTCTime "16:06:47"]
+[WhiteElo "1500"]
+[BlackElo "1322"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "C45"]
+[Termination "Time forfeit"]
+                
+1. e4  Nc6 2. d4  e5 3. Nf3  exd4 4. Nxd4  Bc5 5. Nxc6  Qf6 6. Qe2  Qxc6 7. c3  Nf6 8. e5 1-0

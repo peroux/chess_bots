@@ -1,0 +1,18 @@
+[Event "Rated blitz game"]
+[Site "https://lichess.org/qS3AlDJc"]
+[Date "2023.01.18"]
+[White "peterchero"]
+[Black "guillermoso"]
+[Result "0-1"]
+[UTCDate "2023.01.18"]
+[UTCTime "23:06:05"]
+[WhiteElo "1136"]
+[BlackElo "1136"]
+[WhiteRatingDiff "-36"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "300+0"]
+[ECO "A07"]
+[Termination "Time forfeit"]
+                
+1. Nf3  d5 2. g3  Nc6 3. Bg2  e5 4. d3  Nf6 5. O-O  Bd6 6. Re1  Be6 7. e4  d4 8. Nbd2  Qd7 9. Nc4  Bh3 10. Nxd6+  cxd6 11. Bxh3  Qxh3 12. Ng5  Qh5 13. Qxh5  Nxh5 14. c3  f6 15. Ne6  Kf7 16. Nc7  Rac8 17. Nb5  Ke7 18. cxd4  a6 19. Nc3  exd4 20. Nd5+  Kd7 21. Bd2  Ne5 22. Kg2  g5 23. f4  Nxd3 24. Red1  gxf4 25. Nb6+  Ke7 26. Nxc8+  Rxc8 27. gxf4  Nhxf4+ 28. Bxf4  Nxf4+ 29. Kf3  Ne6 30. Rdc1  Rd8 31. Kg4  d5 32. exd5  Rxd5 33. Kf3  Rf5+ 34. Kg2  Nf4+ 35. Kh1  d3 36. Rf1  Ke6 37. Rad1  Kd5 38. Rd2  Kd4 39. Rdf2  Ke5 40. h4  Ke4 41. Kh2  h5 42. Kg3  Ne2+ 43. Kg2  Nf4+ 44. Kg3  Ne2+ 45. Kg2  Rxf2+ 46. Kxf2  Nf4 47. Kg3  d2 48. Rxf4+  Ke3 49. Rf1  Ke2 50. Kg2  d1=Q 51. Rxd1  Kxd1 52. Kf3  Kc2 53. Kf4  Kxb2 54. Kf5  Kxa2 55. Kg6  b5 56. Kxh5  b4 57. Kg6  b3 58. h5  b2 59. h6  b1=Q+ 60. Kg7  Qb7+ 61. Kg6  Qb6 62. h7  Qd8 63. Kg7  f5 64. h8=Q  f4 65. Qxd8  f3 66. Qf6  f2 67. Qxf2+  Kb3 0-1

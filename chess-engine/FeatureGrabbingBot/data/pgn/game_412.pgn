@@ -1,0 +1,16 @@
+[Event "Casual classical game"]
+[Site "https://lichess.org/WAlMx3nI"]
+[Date "2024.10.06"]
+[White "peterchero"]
+[Black "Hopen123"]
+[Result "1-0"]
+[UTCDate "2024.10.06"]
+[UTCTime "18:03:07"]
+[WhiteElo "1500"]
+[BlackElo "1444"]
+[Variant "Standard"]
+[TimeControl "3600+45"]
+[ECO "D02"]
+[Termination "Time forfeit"]
+                
+1. d4  d5 2. Nf3  e6 3. g3  h6 4. Bg2  Nd7 5. O-O  g6 6. Be3  Bg7 7. Qd2  Ngf6 8. Nc3  O-O 9. Bxh6  Bxh6 10. Qxh6  Nh7 11. e4  f6 12. Qxg6+  Kh8 13. exd5  Rg8 14. Qh6  Qe7 15. Rae1  Qg7 16. Qxg7+  Rxg7 17. dxe6  Ndf8 18. e7  Be6 19. exf8=Q+  Nxf8 20. d5  Bf7 21. Nd4  Rd8 22. Ne6  Nxe6 23. dxe6  Bg6 24. Nd5  Bxc2 25. e7  Re8 26. Nxf6  Rgxe7 27. Nxe8  Bd3 28. Rxe7  Bxf1 29. Kxf1  Kg8 30. Rxc7  Kf8 31. Nf6  b6 32. g4 1-0

@@ -1,0 +1,18 @@
+[Event "Rated blitz game"]
+[Site "https://lichess.org/aUkpZEqZ"]
+[Date "2023.02.23"]
+[White "peterchero"]
+[Black "MixaEl01071921"]
+[Result "1-0"]
+[UTCDate "2023.02.23"]
+[UTCTime "08:45:54"]
+[WhiteElo "1051"]
+[BlackElo "1010"]
+[WhiteRatingDiff "+16"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D02"]
+[Termination "Normal"]
+                
+1. Nf3  Nc6 2. d4  d5 3. Nc3  e6 4. Bf4  Bd6 5. Qd2  Nf6 6. O-O-O  Ne4 7. Nxe4  dxe4 8. Ne5  Nxd4 9. Qxd4  c6 10. Nc4  Bxf4+ 11. e3  Bd6 12. Nxd6+  Kd7 13. Nxf7+  Ke7 14. Nxd8  Bd7 15. Qxd7+  Kf8 1-0

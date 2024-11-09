@@ -1,0 +1,16 @@
+[Event "Casual rapid game"]
+[Site "https://lichess.org/bsDfI7g0"]
+[Date "2022.02.21"]
+[White "peterchero"]
+[Black "Aliali77"]
+[Result "1-0"]
+[UTCDate "2022.02.21"]
+[UTCTime "00:09:10"]
+[WhiteElo "1500"]
+[BlackElo "1500"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "A40"]
+[Termination "Normal"]
+                
+1. d4  g6 2. Nf3  Bh6 3. Bxh6  Nxh6 4. g3  d5 5. Bg2  Rg8 6. O-O  Be6 7. Qd2  g5 8. Nxg5  f6 9. Nxe6  Qd7 10. Nxc7+  Kd8 11. Nxa8  Rf8 12. Qxh6  Rh8 13. Nc3  Qf5 14. Nxd5  e6 15. Ne7  Kxe7 16. Qg7+  Kd6 17. Bxb7  Qh3 18. Qc7# 1-0

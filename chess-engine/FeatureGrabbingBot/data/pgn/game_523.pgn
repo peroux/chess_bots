@@ -1,0 +1,18 @@
+[Event "Rated blitz game"]
+[Site "https://lichess.org/CEKCYWLq"]
+[Date "2024.02.02"]
+[White "peterchero"]
+[Black "Marcz13"]
+[Result "0-1"]
+[UTCDate "2024.02.02"]
+[UTCTime "18:27:48"]
+[WhiteElo "1373"]
+[BlackElo "1400"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A08"]
+[Termination "Time forfeit"]
+                
+1. d4  d5 2. Nf3  c5 3. g3  Nc6 4. Bg2  Nf6 5. O-O  Bf5 6. c3  e6 7. Nbd2  Bd6 8. b3  Qc7 9. dxc5  Bxc5 10. c4  O-O-O 11. Bb2  h5 12. Bxf6  gxf6 13. cxd5  exd5 14. Nh4  Bg4 15. Qc2  Kb8 16. Qxc5  Rc8 17. Rac1  Qd7 18. Qe3  d4 19. Qf4+  Ka8 20. Bxc6  Rxc6 21. Rxc6  Qxc6 22. Nc4  Bh3 23. f3  Qc5 24. Rd1  d3+ 25. Ne3  dxe2 26. Re1  Qb5 27. Qxf6  Rb8 28. Nhg2  Qd3 29. Qa1  Rd8 30. Nf4  Qxe3+ 31. Kh1  Qxf3+ 32. Kg1  h4 33. Rxe2  hxg3 34. hxg3  Qxg3+ 35. Rg2  Qxf4 36. Qg7  Rc8 37. Qg8  Kb8 38. Qxf7  Bxg2 39. Qxf4+  Ka8 40. Qd4  Bc6 41. Qf6  a6 0-1

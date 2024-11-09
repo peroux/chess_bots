@@ -1,0 +1,18 @@
+[Event "Rated bullet game"]
+[Site "https://lichess.org/9ElmOnth"]
+[Date "2023.04.27"]
+[White "DarkChessman"]
+[Black "peterchero"]
+[Result "0-1"]
+[UTCDate "2023.04.27"]
+[UTCTime "16:01:57"]
+[WhiteElo "1195"]
+[BlackElo "1217"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "120+1"]
+[ECO "A22"]
+[Termination "Time forfeit"]
+                
+1. c4  e5 2. Nc3  Nf6 3. a3  Bc5 4. d3  O-O 5. Bg5  Re8 6. Bxf6  Qxf6 7. Ne4  Qd6 8. Nxc5  Qxc5 9. Nf3  d5 10. Rc1  dxc4 11. Rxc4  Qa5+ 12. Rc3  Nc6 13. Nd2  Be6 14. g3  Bd5 15. e4  Be6 16. Bg2  Rad8 17. O-O  Nd4 18. Nc4  Bxc4 19. dxc4  c5 20. Re1  a6 21. Rc1  b5 22. cxb5  axb5 23. Rxc5  Nb3 24. Rd5  Rxd5 25. exd5  Nd4 26. Rf1  Rd8 27. Qg4  Rxd5 0-1

@@ -1,0 +1,18 @@
+[Event "Rated bullet game"]
+[Site "https://lichess.org/AfaiejSH"]
+[Date "2023.04.23"]
+[White "jery33"]
+[Black "peterchero"]
+[Result "1-0"]
+[UTCDate "2023.04.23"]
+[UTCTime "18:12:36"]
+[WhiteElo "1276"]
+[BlackElo "1304"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-13"]
+[Variant "Standard"]
+[TimeControl "120+1"]
+[ECO "C50"]
+[Termination "Normal"]
+                
+1. e4  e5 2. Nf3  Nc6 3. Bc4  b6 4. d4  exd4 5. Nxd4  Bb7 6. Nc3  Bc5 7. Be3  Nf6 8. f3  Bxd4 9. Bxd4  Nxd4 10. Qxd4  O-O 11. O-O-O  c5 12. Qf2  d6 13. g4  Nd7 14. g5  a6 15. g6  Qg5+ 16. Kb1  Qxg6 17. Rhg1  Qf6 18. Nd5  Bxd5 19. Bxd5  Rae8 20. Rg2  Ne5 21. Rdg1  Ng6 22. Rg4  Re5 23. h4  Rh5 24. Rh1  Re8 25. f4  Nxf4 26. Rxf4  Qd8 27. Rxf7  Rf8 28. Rd7+  Rf7 29. Rxd8# 1-0

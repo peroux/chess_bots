@@ -1,0 +1,18 @@
+[Event "Rated rapid game"]
+[Site "https://lichess.org/qqWNbeCP"]
+[Date "2023.04.27"]
+[White "peterchero"]
+[Black "sitasree"]
+[Result "1-0"]
+[UTCDate "2023.04.27"]
+[UTCTime "17:29:55"]
+[WhiteElo "1459"]
+[BlackElo "1477"]
+[WhiteRatingDiff "+45"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "A40"]
+[Termination "Normal"]
+                
+1. d4  e6 2. Nf3  d5 3. g3  Bb4+ 4. c3  Bf8 5. Bg2  a5 6. O-O  b6 7. Nbd2  Ba6 8. Qa4+  c6 9. Ne5  b5 10. Qc2  f6 11. Nef3  b4 12. cxb4  Bxb4 13. a3  Bd6 14. Nb3  a4 15. Nc5  Bxc5 16. Qxc5  Ne7 17. Re1  O-O 18. e4  Nd7 19. Qc2  Bc4 20. exd5  Bxd5 21. Nd2  Rc8 22. Nc4  Re8 23. Nd6  Bb3 24. Qe2  Nd5 25. Nxe8  Qxe8 26. Bxd5  Bxd5 27. Bf4  Nb6 28. Rac1  g5 29. Bd6  Qd7 30. Bb4  Re8 31. f4  g4 32. f5  Bf3 33. Qxe6+  Qxe6 34. Rxe6  Rxe6 35. fxe6  Nd5 36. Rxc6  Kg7 37. Rc5  Ne7 38. Rc7 1-0

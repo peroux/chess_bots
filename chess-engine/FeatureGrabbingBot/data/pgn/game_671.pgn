@@ -1,0 +1,16 @@
+[Event "Casual blitz game"]
+[Site "https://lichess.org/AIpWDb8O"]
+[Date "2023.03.25"]
+[White "peterchero"]
+[Black "Mahmoudtaher"]
+[Result "0-1"]
+[UTCDate "2023.03.25"]
+[UTCTime "04:57:59"]
+[WhiteElo "1104"]
+[BlackElo "1126"]
+[Variant "Standard"]
+[TimeControl "300+2"]
+[ECO "C00"]
+[Termination "Normal"]
+                
+1. e4  e6 2. Nf3  c6 3. d4  Nf6 4. e5  Ne4 5. Bd3  d5 6. Bxe4  dxe4 7. Ng5  h6 8. Nxe4  Qd5 9. Nbc3  Bb4 10. O-O  Bxc3 11. bxc3  Qxe4 12. Ba3  b6 13. Rb1  Bb7 14. Qd3  c5 15. Qxe4  Bxe4 16. h3  Bxc2 17. Rbc1  Bf5 18. dxc5  O-O 19. cxb6  axb6 20. Bxf8  Kxf8 21. Rb1  Bxb1 22. Rxb1  Rxa2 23. Rxb6  Nd7 24. Rd6  Nxe5 25. Kh2  Rxf2 26. Rd1  Nc4 27. Rd4  Ne3 28. c4  Rxg2+ 29. Kh1  Rc2 30. Rd3  Rc1+ 31. Kh2  Nf1+ 32. Kg2  f5 33. Rf3  Nd2 34. Rf2  Ne4 35. Ra2  Rxc4 36. Ra8+  Kf7 37. Ra7+  Kf6 38. Kf3  Rc3+ 39. Kg2  Rg3+ 40. Kh2  g5 41. Ra8  h5 42. Rf8+  Kg6 43. Rg8+  Kf6 44. Rh8  g4 45. Rxh5  gxh3 46. Rxh3  Rxh3+ 47. Kxh3  Kg5 48. Kg2  Kg4 49. Kf1  Kg3 50. Kg1  f4 51. Kf1  f3 52. Kg1  Nd2 53. Kh1  e5 54. Kg1  f2+ 55. Kh1  f1=Q# 0-1

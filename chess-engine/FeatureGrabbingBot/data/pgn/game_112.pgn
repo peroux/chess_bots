@@ -1,0 +1,18 @@
+[Event "Rated blitz game"]
+[Site "https://lichess.org/XN1NRHGg"]
+[Date "2024.02.07"]
+[White "Dacruca"]
+[Black "peterchero"]
+[Result "0-1"]
+[UTCDate "2024.02.07"]
+[UTCTime "01:49:32"]
+[WhiteElo "1405"]
+[BlackElo "1404"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+8"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A00"]
+[Termination "Normal"]
+                
+1. e3  d5 2. Qe2  Nf6 3. f3  g6 4. d3  Bg7 5. c3  O-O 6. b4  c6 7. g4  e6 8. g5  Nfd7 9. h4  e5 10. f4  Re8 11. Kd1  exf4 12. e4  dxe4 13. Bxf4  exd3 14. Qxd3  Nb6 15. Qxd8  Rxd8+ 16. Kc2  Bf5+ 17. Kb2  Na4+ 18. Kb3  b5 19. c4  Be6 20. Nd2  bxc4+ 21. Bxc4  Bxc4+ 22. Nxc4  Bxa1 23. Kxa4  Rd4 24. Bxb8  Rxb8 25. Ne5  Rdxb4+ 26. Ka3  Bb2# 0-1

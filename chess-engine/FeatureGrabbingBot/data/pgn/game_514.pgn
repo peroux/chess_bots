@@ -1,0 +1,18 @@
+[Event "Rated bullet game"]
+[Site "https://lichess.org/x4imXa5U"]
+[Date "2024.02.05"]
+[White "peterchero"]
+[Black "Digol"]
+[Result "1-0"]
+[UTCDate "2024.02.05"]
+[UTCTime "15:05:48"]
+[WhiteElo "1384"]
+[BlackElo "1470"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "B06"]
+[Termination "Time forfeit"]
+                
+1. e4  g6 2. Nf3  Bg7 3. g3  d6 4. Bg2  Nf6 5. O-O  Nxe4 6. b3  Bxa1 7. Nc3  Nxc3 8. dxc3  Bxc3 9. Qd3  Bg7 10. Nh4  O-O 11. Nf3  Bf5 12. Qe3  Nd7 13. Bh3  Bxh3 14. g4  Bxg4 15. Ng5  e5 16. Rd1  h6 17. Ne4  Bxd1 18. Qd2  Bf3 19. Qe3  Bxe4 20. Qxe4  Nc5 21. Qe3  h5 22. h4  Qxh4 23. f3  Qg3+ 24. Kf1  Rae8 25. c4  e4 26. f4  Nd3 27. Qd2  Qh3+ 28. Ke2  Qg2+ 29. Kd1  Qxd2+ 30. Kxd2  Nxf4 31. Ke3  Ng2+ 32. Kf2  Nf4 33. Ke3  Ne6 34. Bb2  Bd4+ 35. Bxd4  Nxd4 36. Kxd4  c5+ 37. Ke3  f5 38. Kf4  e3 39. Kf3  e2 40. Kf4  e1=Q 41. Kg5 1-0

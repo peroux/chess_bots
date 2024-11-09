@@ -1,0 +1,16 @@
+[Event "Casual blitz game"]
+[Site "https://lichess.org/nwBkAvUb"]
+[Date "2024.07.22"]
+[White "chavodelocho8"]
+[Black "peterchero"]
+[Result "1-0"]
+[UTCDate "2024.07.22"]
+[UTCTime "16:11:01"]
+[WhiteElo "1489"]
+[BlackElo "1415"]
+[Variant "Standard"]
+[TimeControl "300+0"]
+[ECO "C40"]
+[Termination "Normal"]
+                
+1. e4  e5 2. Nf3  f6 3. Nxe5  fxe5 4. Qh5+  Ke7 5. Qxe5+  Kf7 6. Bc4+  Kg6 7. d4  h6 8. Qf5# 1-0

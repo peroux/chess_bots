@@ -1,0 +1,16 @@
+[Event "Casual rapid game"]
+[Site "https://lichess.org/lJAmeoWM"]
+[Date "2024.09.16"]
+[White "peterchero"]
+[Black "tekgoldenyatan"]
+[Result "1-0"]
+[UTCDate "2024.09.16"]
+[UTCTime "17:22:32"]
+[WhiteElo "1507"]
+[BlackElo "1500"]
+[Variant "Standard"]
+[TimeControl "900+0"]
+[ECO "A43"]
+[Termination "Normal"]
+                
+1. d4  c5 2. Nf3  cxd4 3. Nxd4  e5 4. Nb3  Bb4+ 5. c3  Be7 6. g3  d5 7. Bg2  Nf6 8. O-O  b6 9. c4  Bb7 10. cxd5  Nxd5 11. Bxd5  Bxd5 12. Nc3  Bxb3 13. Qxb3  a5 14. Rd1  Nd7 15. Be3  Ra6 16. Nd5  a4 17. Qb5  Ra5 18. Qc6  Ra6 19. Nc7+  Kf8 20. Nxa6 1-0

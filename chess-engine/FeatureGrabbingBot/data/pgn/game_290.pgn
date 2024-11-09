@@ -1,0 +1,16 @@
+[Event "Casual blitz game"]
+[Site "https://lichess.org/ScWbhvwK"]
+[Date "2023.03.25"]
+[White "StrongerThenYou"]
+[Black "peterchero"]
+[Result "0-1"]
+[UTCDate "2023.03.25"]
+[UTCTime "04:47:08"]
+[WhiteElo "1211"]
+[BlackElo "1104"]
+[Variant "Standard"]
+[TimeControl "300+3"]
+[ECO "C20"]
+[Termination "Normal"]
+                
+1. e4  e5 2. Qh5  Nc6 3. Bc4  Nf6 4. Qf3  Nd4 5. Qh5  Nxc2+ 6. Kd1  g6 7. Qxe5+  Be7 8. Nf3  Nxa1 9. Ng5  O-O 10. Bxf7+  Rxf7 11. Nxf7  Kxf7 12. Qd5+  Kf8 13. e5  Nxd5 0-1

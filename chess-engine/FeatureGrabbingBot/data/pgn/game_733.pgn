@@ -1,0 +1,16 @@
+[Event "Casual classical game"]
+[Site "https://lichess.org/DSPBazup"]
+[Date "2022.12.02"]
+[White "peterchero"]
+[Black "creek1"]
+[Result "0-1"]
+[UTCDate "2022.12.02"]
+[UTCTime "18:33:18"]
+[WhiteElo "1500"]
+[BlackElo "1420"]
+[Variant "Standard"]
+[TimeControl "7200+0"]
+[ECO "A06"]
+[Termination "Time forfeit"]
+                
+1. Nf3  d5 0-1

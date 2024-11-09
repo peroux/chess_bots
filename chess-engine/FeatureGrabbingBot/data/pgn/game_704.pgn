@@ -1,0 +1,16 @@
+[Event "Casual blitz game"]
+[Site "https://lichess.org/qVX1KOma"]
+[Date "2023.01.25"]
+[White "peterchero"]
+[Black "cjm3"]
+[Result "0-1"]
+[UTCDate "2023.01.25"]
+[UTCTime "00:20:40"]
+[WhiteElo "1100"]
+[BlackElo "1102"]
+[Variant "Standard"]
+[TimeControl "300+0"]
+[ECO "D02"]
+[Termination "Normal"]
+                
+1. Nf3  d5 2. d4  Nc6 3. Bf4  g5 4. Nc3  gxf4 5. Qd2  e5 6. dxe5  d4 7. Nxd4  Nxd4 8. Qxf4  Nxc2# 0-1

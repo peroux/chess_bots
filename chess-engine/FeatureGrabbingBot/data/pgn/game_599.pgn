@@ -1,0 +1,18 @@
+[Event "Rated blitz game"]
+[Site "https://lichess.org/yzWaELOO"]
+[Date "2023.05.28"]
+[White "peterchero"]
+[Black "ANGELNAIPI"]
+[Result "1-0"]
+[UTCDate "2023.05.28"]
+[UTCTime "04:12:02"]
+[WhiteElo "1205"]
+[BlackElo "1111"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-4"]
+[Variant "Standard"]
+[TimeControl "300+0"]
+[ECO "D02"]
+[Termination "Time forfeit"]
+                
+1. d4  d5 2. Nf3  c5 3. g3  h5 4. Bg2  Bg4 5. O-O  Bxf3 6. Bxf3  c4 7. Nc3  e6 8. e4  h4 9. exd5  exd5 10. Re1+  Be7 11. Nxd5  hxg3 12. fxg3  Nc6 13. Bf4  Nf6 14. Nc7+  Kf8 15. Nxa8  Qxa8 16. Bxc6  bxc6 17. Qe2  Bb4 18. c3  Ba5 19. Bd6+  Kg8 20. Qe7  Nd5 21. Qe8+  Kh7 22. Qxa8  Rxa8 23. Re4  Nf6 24. Rh4+  Kg6 25. Rf1  Bd8 26. Be5  Nd7 27. Rg4+  Kh5 28. Rxg7  Nxe5 29. dxe5  Bg5 30. Rf5  Kh6 31. Rfxg5  Rb8 32. e6  Rxb2 33. exf7  Rxa2 34. f8=Q  Rc2 35. Rg8+ 1-0

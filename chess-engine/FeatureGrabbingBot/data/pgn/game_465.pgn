@@ -1,0 +1,16 @@
+[Event "Casual rapid game"]
+[Site "https://lichess.org/K6NKlwpR"]
+[Date "2024.06.28"]
+[White "peterchero"]
+[Black "GsmbitodeRey"]
+[Result "0-1"]
+[UTCDate "2024.06.28"]
+[UTCTime "22:00:43"]
+[WhiteElo "1507"]
+[BlackElo "1500"]
+[Variant "Standard"]
+[TimeControl "300+9"]
+[ECO "A40"]
+[Termination "Normal"]
+                
+1. d4  e6 2. Nf3  d5 3. g3  c5 4. c3  cxd4 5. cxd4  Bb4+ 6. Nc3  Nc6 7. Qa4  Bd7 8. Bd2  Bxc3 9. bxc3  Ne5 10. Qb3  Nxf3+ 11. exf3  Qc7 12. Rb1  b6 13. Bb5  Rd8 14. Bf4  Qb7 15. O-O  Nf6 16. Qb4  Bxb5 17. Qxb5+  Qd7 18. Qb4  Qc6 19. Be5  Rc8 20. Bxf6  gxf6 21. Rbc1  Rd8 22. Qb2  O-O 23. Qd2  e5 24. dxe5  fxe5 25. Qg5+  Qg6 26. Qxe5  Rfe8 27. Qf4  Re2 28. Rfd1  Rxa2 29. Qc7  Qf6 30. Rd4  Re8 31. Rf4  Qe6 32. Rg4+  Kf8 33. Rf4  Re7 34. Qd8+  Re8 35. Qc7  Qe7 36. Qxe7+  Rxe7 37. Rd4  Ree2 38. Rf1  Rad2 39. Rxd2  Rxd2 40. Re1  Rc2 41. Rd1  Rxc3 42. Rxd5  a5 43. Kf1  a4 44. Ke2  a3 45. Rd2  Rb3 46. Rd8+  Ke7 47. Ra8  Rb2+ 48. Kd1  a2 49. Kc1  Rxf2 50. Ra7+  Kd6 51. Rxf7  a1=Q# 0-1

@@ -1,0 +1,16 @@
+[Event "Casual UltraBullet game"]
+[Site "https://lichess.org/IkuRLOZY"]
+[Date "2024.08.04"]
+[White "peterchero"]
+[Black "snithik999"]
+[Result "1-0"]
+[UTCDate "2024.08.04"]
+[UTCTime "02:22:05"]
+[WhiteElo "1500"]
+[BlackElo "1500"]
+[Variant "Standard"]
+[TimeControl "15+0"]
+[ECO "D02"]
+[Termination "Time forfeit"]
+                
+1. d4  d5 2. Nf3  e6 3. g3  Qd6 4. Bg2  Bd7 5. O-O  Bb5 6. Nc3  Be7 7. Nxb5  Bg5 8. Nxd6+  Kd7 9. Nb5  c6 10. Qd3  cxb5 11. Qxb5+  Kd6 12. Qb4+ 1-0

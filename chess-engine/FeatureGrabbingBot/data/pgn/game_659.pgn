@@ -1,0 +1,16 @@
+[Event "Casual blitz game"]
+[Site "https://lichess.org/yTBlgt7M"]
+[Date "2023.03.31"]
+[White "peterchero"]
+[Black "IamChristian"]
+[Result "0-1"]
+[UTCDate "2023.03.31"]
+[UTCTime "18:16:14"]
+[WhiteElo "1149"]
+[BlackElo "1311"]
+[Variant "Standard"]
+[TimeControl "180+7"]
+[ECO "B01"]
+[Termination "Normal"]
+                
+1. e4  d5 2. Nc3  d4 3. Nce2  e5 4. f4  Bg4 5. fxe5  Nc6 6. Nh3  Nxe5 7. g3  Nf3+ 8. Kf2  d3 9. cxd3  Bc5+ 10. d4  Bxd4+ 11. Nxd4  Qxd4+ 12. Kg2  O-O-O 13. Ng1  Qxe4 14. Nxf3  Bxf3+ 15. Qxf3  Qxf3+ 16. Kxf3  Nf6 17. d3  Rhe8 18. Be3  b6 19. Bh3+  Kb7 20. Rhc1  Rxd3 21. Re1  Nd5 22. Bg2  Nxe3 23. Rxe3  Rdxe3+ 24. Kf2+  c6 25. Rd1  Re2+ 26. Kf3  Rxb2 27. Rd7+  Ka6 28. Bf1+  b5 29. Rxf7  g6 30. Rxh7  Rg8 31. Rc7  Rf8+ 32. Kg4  Rxf1 33. h4  Rb4+ 34. Kg5  Rf5+ 35. Kxg6  Rg4+ 36. Kxf5  Rxg3 37. Rxc6+  Kb7 38. Rg6  Ra3 39. h5  Rxa2 40. h6  Rh2 41. Kf6  b4 42. Kg7  b3 43. h7  b2 44. h8=Q  Rxh8 45. Kxh8  b1=Q 46. Rg7+  Kc6 47. Rxa7  Qb2+ 48. Kg8  Qg2+ 49. Rg7  Qd5+ 50. Rf7  Qd8+ 51. Rf8  Qg5+ 52. Kh8  Kd7 53. Rg8  Qf6+ 54. Rg7+  Ke6 55. Kg8  Qd8+ 56. Kh7  Kf6 57. Rg6+  Kf5 58. Rg7  Qe8 59. Kh6  Qe6+ 60. Kh7  Qf6 61. Kh8  Qh6+ 62. Rh7  Qf6+ 63. Rg7  Qf8+ 64. Rg8  Qh6# 0-1

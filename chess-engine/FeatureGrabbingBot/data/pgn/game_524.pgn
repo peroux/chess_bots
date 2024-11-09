@@ -1,0 +1,18 @@
+[Event "Rated blitz game"]
+[Site "https://lichess.org/qsK6Njba"]
+[Date "2024.02.02"]
+[White "peterchero"]
+[Black "taarkik"]
+[Result "1-0"]
+[UTCDate "2024.02.02"]
+[UTCTime "04:56:25"]
+[WhiteElo "1349"]
+[BlackElo "1399"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A46"]
+[Termination "Time forfeit"]
+                
+1. d4  Nf6 2. Nf3  d6 3. g3  Nbd7 4. Bg2  e5 5. e3  e4 6. Nfd2  d5 7. c4  c5 8. O-O  cxd4 9. exd4  Bd6 10. cxd5  e3 11. Re1  O-O 12. Rxe3  Nb6 13. Nc3  Bg4 14. Bf3  Bxf3 15. Qxf3  Bb4 16. Nce4  Nfxd5 17. Rb3  Bxd2 18. Bxd2  Nc4 19. Bh6  gxh6 20. Rxb7  f5 21. Nc5  Nd2 22. Qh5  Qg5 23. Rg7+  Kxg7 24. Ne6+ 1-0

@@ -1,0 +1,16 @@
+[Event "Casual bullet game"]
+[Site "https://lichess.org/kSx2a73c"]
+[Date "2021.02.23"]
+[White "linustechtips"]
+[Black "peterchero"]
+[Result "1-0"]
+[UTCDate "2021.02.23"]
+[UTCTime "07:00:13"]
+[WhiteElo "1500"]
+[BlackElo "1500"]
+[Variant "Standard"]
+[TimeControl "120+0"]
+[ECO "A00"]
+[Termination "Normal"]
+                
+1. g3  Nc6 2. Bg2  g6 3. b3  Bg7 4. Bb2  b6 5. Bxg7  Bb7 6. Bxh8  Nf6 7. Bxf6  exf6 8. Nf3  f5 9. O-O  Ne5 10. d4  Nxf3+ 11. Bxf3  g5 12. Bxb7  g4 13. Bxa8  Qxa8 14. Re1  Qe4 15. f4  d5 16. Qd3  Qe6 17. Nc3  c5 18. Qb5+  Kf8 19. Qa6  Qe7 20. dxc5  bxc5 21. Nxd5  Qd7 22. Nf6  Qd4+ 23. e3  Qxf6 24. Qxf6 1-0

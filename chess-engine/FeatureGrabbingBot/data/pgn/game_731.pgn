@@ -1,0 +1,16 @@
+[Event "Casual bullet game"]
+[Site "https://lichess.org/chHktkaj"]
+[Date "2022.12.07"]
+[White "peterchero"]
+[Black "yeebey"]
+[Result "0-1"]
+[UTCDate "2022.12.07"]
+[UTCTime "17:39:58"]
+[WhiteElo "1306"]
+[BlackElo "973"]
+[Variant "Standard"]
+[TimeControl "120+0"]
+[ECO "A40"]
+[Termination "Normal"]
+                
+1. d4  g6 2. Nf3  Bg7 3. Bg5  f6 4. Bf4  f5 5. Nc3  c6 6. e4  Nf6 7. e5  Nd5 8. Nxd5  cxd5 9. Bd3  b5 10. Bxb5  Qa5+ 11. Qd2  Qxb5 12. O-O-O  O-O 13. Ng5  h6 14. Nf3  g5 15. Be3  Nc6 16. g3  Qa6 17. Rhe1  Qxa2 0-1

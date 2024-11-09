@@ -1,0 +1,18 @@
+[Event "Rated bullet game"]
+[Site "https://lichess.org/w4x9444W"]
+[Date "2024.02.02"]
+[White "Empatiem"]
+[Black "peterchero"]
+[Result "1-0"]
+[UTCDate "2024.02.02"]
+[UTCTime "20:44:02"]
+[WhiteElo "1406"]
+[BlackElo "1379"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "C20"]
+[Termination "Normal"]
+                
+1. e4  e5 2. d3  Nf6 3. Nf3  g6 4. Nxe5  Bg7 5. Nxf7  Kxf7 6. Bg5  Rf8 7. e5  Kg8 8. exf6  Rxf6 9. Bxf6  Qxf6 10. Nc3  Nc6 11. Qf3  Qe5+ 12. Qe3  Qf5 13. Qe8+  Bf8 14. O-O-O  Qg5+ 15. Kb1  Nd4 16. Re1  d6 17. g3  Bg4 18. Qxa8  Ne2 19. Bxe2  Bxe2 20. Rxe2  Qg4 21. Re8  Kg7 22. Rxf8  Kh6 23. Rf4  Qg5 24. a3  Qe5 25. Qxa7  d5 26. Qxb7  d4 27. Ne4  g5 28. Rf7  Qd5 29. Qxd5  Kh5 30. Qxg5# 1-0

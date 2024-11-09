@@ -1,0 +1,16 @@
+[Event "Casual blitz game"]
+[Site "https://lichess.org/2GN70sX6"]
+[Date "2022.10.14"]
+[White "peterchero"]
+[Black "carouselman"]
+[Result "0-1"]
+[UTCDate "2022.10.14"]
+[UTCTime "16:17:07"]
+[WhiteElo "1148"]
+[BlackElo "1204"]
+[Variant "Standard"]
+[TimeControl "300+0"]
+[ECO "A04"]
+[Termination "Normal"]
+                
+1. Nf3  d6 2. d4  g6 3. Nc3  Nd7 4. Bf4  Bg7 5. e4  c6 6. Bd3  Qa5 7. O-O  e5 8. dxe5  dxe5 9. Be3  Ngf6 10. a3  O-O 11. b4  Qc7 12. Ne2  Nh5 13. c4  Ndf6 14. h3  Be6 15. Ng3  Rad8 16. Nxh5  Nxh5 17. Qc2  Kh8 18. Ng5  Qe7 19. Bc5  Qxg5 20. Bxf8  Rxf8 21. f4  Nxf4 22. Rad1  Nxh3+ 23. Kh1  Nf4 24. Rf3  Qg4 25. Rh3  Nxh3 26. gxh3  Qxh3+ 27. Qh2  Qf3+ 28. Qg2  Qxd1+ 29. Kh2  Qxd3 30. Kh1  Bh3 31. Kh2  Bxg2 32. Kxg2  Qxe4+ 33. Kf2  Rd8 34. Kg3  Rd3+ 35. Kf2  Qe3+ 36. Kg2  Qe2+ 37. Kg1  Rd1# 0-1

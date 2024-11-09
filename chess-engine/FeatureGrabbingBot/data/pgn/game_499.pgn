@@ -1,0 +1,18 @@
+[Event "Rated blitz game"]
+[Site "https://lichess.org/IDFErbII"]
+[Date "2024.02.07"]
+[White "peterchero"]
+[Black "ivan_ilnytskyi"]
+[Result "1-0"]
+[UTCDate "2024.02.07"]
+[UTCTime "22:35:28"]
+[WhiteElo "1428"]
+[BlackElo "1437"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-32"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A41"]
+[Termination "Time forfeit"]
+                
+1. d4  d6 2. Nf3  g6 3. g3  Bg7 4. Bg2  Nf6 5. O-O  Nc6 6. e3  Bg4 7. b3  h5 8. c4  Nb4 9. Qd2  a5 10. a3  Ne4 11. Qe1  Nd3 12. Qe2  Nxc1 13. Rxc1  c5 14. Qc2  Nxf2 15. Qxf2  cxd4 16. exd4  Qb6 17. Rd1  e5 18. Kh1  Bxf3 19. Qxf3  Qxd4 20. Rxd4  exd4 21. Qxb7  O-O 22. Nd2  d3 23. Be4  Bxa1 24. Bxd3  Bd4 25. Ne4  Rab8 26. Qc6  Rxb3 27. Nd2  Rxd3 28. Qxd6  Rxd2 29. h4  Rd1+ 30. Kg2 1-0

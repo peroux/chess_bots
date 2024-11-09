@@ -1,0 +1,16 @@
+[Event "Casual blitz game"]
+[Site "https://lichess.org/7Tij4elY"]
+[Date "2022.12.16"]
+[White "peterchero"]
+[Black "Miha23"]
+[Result "0-1"]
+[UTCDate "2022.12.16"]
+[UTCTime "05:57:11"]
+[WhiteElo "1075"]
+[BlackElo "1410"]
+[Variant "Standard"]
+[TimeControl "180+2"]
+[ECO "A46"]
+[Termination "Time forfeit"]
+                
+1. Nf3  d6 2. d4  Nf6 3. Nc3  g6 4. Bf4  Bg7 5. g3  O-O 6. Bg2  Nc6 7. O-O  Nh5 8. Bg5  f6 9. Be3  e5 10. d5  Ne7 11. Nd2  f5 12. f4  e4 0-1

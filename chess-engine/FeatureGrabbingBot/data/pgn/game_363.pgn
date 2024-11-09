@@ -1,0 +1,16 @@
+[Event "Casual bullet game"]
+[Site "https://lichess.org/fjzzVfny"]
+[Date "2022.12.02"]
+[White "ShirtGambit"]
+[Black "peterchero"]
+[Result "1-0"]
+[UTCDate "2022.12.02"]
+[UTCTime "05:45:58"]
+[WhiteElo "1142"]
+[BlackElo "1306"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "B00"]
+[Termination "Normal"]
+                
+1. e4  Nc6 2. d4  e5 3. d5  Nd4 4. c3  Nb5 5. Bxb5  c6 6. dxc6  dxc6 7. Qxd8+  Kxd8 8. Bc4  Bc5 9. Bxf7  Nf6 10. Bg5  Ke7 11. Bxf6+  Kxf7 12. Bxe5  Ke6 13. f4  Rf8 14. Nf3  Rxf4 15. Bxf4  Be3 16. Bxe3 1-0

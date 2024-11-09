@@ -1,0 +1,18 @@
+[Event "Rated blitz game"]
+[Site "https://lichess.org/pachwrmh"]
+[Date "2023.04.23"]
+[White "megaknight2007"]
+[Black "peterchero"]
+[Result "0-1"]
+[UTCDate "2023.04.23"]
+[UTCTime "00:02:53"]
+[WhiteElo "1136"]
+[BlackElo "1140"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C46"]
+[Termination "Normal"]
+                
+1. e4  e5 2. Nc3  Nc6 3. Nf3  Bc5 4. d4  exd4 5. Nd5  Nf6 6. Nxf6+  Qxf6 7. a3  O-O 8. b4  Bb6 9. b5  Nb8 10. Bb2  Re8 11. Nxd4  Rxe4+ 12. Be2  Bxd4 13. Bxd4  Rxd4 14. Qb1  Re4 15. O-O  Rxe2 16. c4  c6 17. Re1  Rxe1+ 18. Qxe1  Qe6 19. Qxe6  fxe6 20. bxc6  bxc6 21. Re1  Ba6 22. f4  Bxc4 23. g4  Na6 24. f5  Rf8 25. fxe6  Bxe6 26. h3  Nc5 27. Rc1  Nd3 28. Rd1  Nf4 29. Rb1  Nxh3+ 30. Kg2  Nf4+ 31. Kg3  Nd5 32. Rb7  a5 33. Ra7  h5 34. gxh5  Rf5 35. Ra8+  Kh7 36. Rxa5  Rxh5 37. Rc5  Rg5+ 38. Kf3  Rf5+ 39. Ke4  Nf6+ 40. Kd4  Rxc5 41. Kxc5  g5 42. a4  Nd5 43. a5  Nc7 44. Kb6  Nb5 45. a6  g4 46. a7  Nxa7 47. Kxa7  g3 48. Kb7  g2 49. Kc7  g1=Q 50. Kd6  Qg3+ 51. Ke7  Qg5+ 52. Kd6  Qd5+ 53. Kc7  c5 54. Kd8  c4 55. Ke7  c3 56. Kf6  c2 57. Ke7  c1=Q 58. Kf6  Qc3+ 59. Ke7  Qcc5+ 60. Kf6  Qf5# 0-1

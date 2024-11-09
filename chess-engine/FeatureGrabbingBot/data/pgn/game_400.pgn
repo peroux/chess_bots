@@ -1,0 +1,17 @@
+[Event "Casual blitz game"]
+[Site "https://lichess.org/JdfoMkIE"]
+[Date "2024.10.18"]
+[White "peterchero"]
+[Black "maia5"]
+[Result "1-0"]
+[UTCDate "2024.10.18"]
+[UTCTime "19:52:51"]
+[WhiteElo "1356"]
+[BlackElo "1490"]
+[BlackTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "300+3"]
+[ECO "A40"]
+[Termination "Normal"]
+                
+1. d4  e5 2. dxe5  Nc6 3. Nf3  d5 4. exd6  Bxd6 5. g3  Nf6 6. Bg2  O-O 7. O-O  Bg4 8. Nc3  Qd7 9. Nb5  Bh3 10. Nxd6  cxd6 11. Bf4  Bxg2 12. Kxg2  d5 13. Ne5  Nxe5 14. Bxe5  Ne4 15. c4  f6 16. Bf4  g5 17. Be3  h5 18. Qxd5+  Qxd5 19. cxd5  Rad8 20. Rad1  b6 21. Rd4  Nd6 22. Rfd1  Nf5 23. R4d3  Nxe3+ 24. Rxe3  Rfe8 25. Rxe8+  Rxe8 26. d6  Rd8 27. Kf3  Kf7 28. Ke4  Ke6 29. f4  Rxd6 30. Rxd6+  Kxd6 31. fxg5  fxg5 32. Kf5  g4 33. Kg5  Ke5 34. Kxh5  Ke4 35. Kxg4  Ke3 36. h4  Kxe2 37. h5  Kd2 38. h6  Kc2 39. h7  Kxb2 40. h8=Q+  Kxa2 41. Qa8  a5 42. Qa6  Kb3 43. Qxb6+  Ka4 44. Kf4  Ka3 45. Qxa5+  Kb3 46. g4  Kc4 47. g5  Kd4 48. g6  Kc4 49. g7  Kd4 50. g8=Q  Kd3 51. Qga2  Kd4 52. Q5a4+  Kd3 53. Q2b3+  Kd2 54. Qaa2+  Kc1 55. Qbb1# 1-0

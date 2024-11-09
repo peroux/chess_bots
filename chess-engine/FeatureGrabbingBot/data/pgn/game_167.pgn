@@ -1,0 +1,18 @@
+[Event "Rated bullet game"]
+[Site "https://lichess.org/rsaJZCCt"]
+[Date "2024.01.17"]
+[White "vvvvv_desikeych"]
+[Black "peterchero"]
+[Result "1-0"]
+[UTCDate "2024.01.17"]
+[UTCTime "18:31:38"]
+[WhiteElo "1292"]
+[BlackElo "1279"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-11"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "C50"]
+[Termination "Normal"]
+                
+1. e4  e5 2. Nf3  Nc6 3. Bc4  h6 4. d4  exd4 5. Nxd4  Nxd4 6. Qxd4  Nf6 7. O-O  b6 8. Re1  Bc5 9. Qd3  O-O 10. Be3  d6 11. Bxc5  dxc5 12. Qxd8  Rxd8 13. Nc3  a6 14. Red1  b5 15. Rxd8+  Kh7 16. Bd3  c4 17. e5+  Ne4 18. Bxe4+  g6 19. Nd5  Rb8 20. Nf6+  Kg7 21. Rg8# 1-0

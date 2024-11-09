@@ -1,0 +1,18 @@
+[Event "Rated rapid game"]
+[Site "https://lichess.org/IuEGgZyK"]
+[Date "2023.04.27"]
+[White "Jeezaam"]
+[Black "peterchero"]
+[Result "1-0"]
+[UTCDate "2023.04.27"]
+[UTCTime "17:14:48"]
+[WhiteElo "1538"]
+[BlackElo "1502"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-43"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "D00"]
+[Termination "Normal"]
+                
+1. d4  d5 2. Bf4  Nf6 3. e3  g6 4. Nc3  Bg7 5. Nb5  Na6 6. c4  c6 7. Nc3  O-O 8. cxd5  Nxd5 9. Nxd5  cxd5 10. Bxa6  bxa6 11. Ne2  Re8 12. O-O  e5 13. dxe5  Bxe5 14. Bxe5  Rxe5 15. Rc1  Bb7 16. Nd4  Rc8 17. Qf3  Rxc1 18. Rxc1  Qb6 19. b3  a5 20. Qg3  a4 21. Qxe5  axb3 22. axb3  a5 23. Rc7  Qb4 24. Qe8+  Kg7 25. Qxf7+  Kh6 26. Qxh7+  Kg5 27. h4+  Kg4 28. Qxg6+  Kxh4 29. Rh7# 1-0

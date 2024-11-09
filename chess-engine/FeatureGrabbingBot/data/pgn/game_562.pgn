@@ -1,0 +1,18 @@
+[Event "Rated bullet game"]
+[Site "https://lichess.org/izHkOWKX"]
+[Date "2024.01.16"]
+[White "peterchero"]
+[Black "kblitz_11"]
+[Result "1-0"]
+[UTCDate "2024.01.16"]
+[UTCTime "00:01:47"]
+[WhiteElo "1267"]
+[BlackElo "1291"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "A45"]
+[Termination "Normal"]
+                
+1. d4  Nf6 2. g3  Nc6 3. Bg2  d5 4. Nf3  e6 5. O-O  Bb4 6. c3  Bd6 7. Bf4  Bxf4 8. gxf4  Qd6 9. e3  Ne4 10. Ne5  Qe7 11. Nxc6  bxc6 12. Bxe4  dxe4 13. Qh5  Bb7 14. Nd2  c5 15. Qe5  cxd4 16. cxd4  O-O 17. Nxe4  Bxe4 18. Qxe4  f5 19. Qd3  Rf6 20. e4  Rg6+ 21. Kh1  Qh4 22. Rg1  Rh6 23. Qg3  Qxg3 24. fxg3  Rf8 25. e5  Rd8 26. Rac1  Rxd4 27. Rxc7  a5 28. Rgc1  a4 29. R1c5  Rd2 30. Rb5  Rhxh2+ 31. Kg1  Rhg2+ 32. Kf1  Rgf2+ 33. Ke1  Rfe2+ 34. Kf1  Rf2+ 35. Kg1  Rde2 36. Kh1  Rg2 37. Rb8# 1-0

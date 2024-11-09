@@ -1,0 +1,18 @@
+[Event "Rated bullet game"]
+[Site "https://lichess.org/ftFaugcI"]
+[Date "2023.04.20"]
+[White "dr_IvanKaramazov"]
+[Black "peterchero"]
+[Result "0-1"]
+[UTCDate "2023.04.20"]
+[UTCTime "23:54:11"]
+[WhiteElo "1292"]
+[BlackElo "1281"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+16"]
+[Variant "Standard"]
+[TimeControl "120+1"]
+[ECO "C50"]
+[Termination "Time forfeit"]
+                
+1. e4  e5 2. Nf3  Bc5 3. Bc4  Nc6 4. O-O  Nf6 5. d3  O-O 6. Bg5  d6 7. Nc3  Be6 8. Re1  h6 9. Bh4  Qd7 10. d4  exd4 11. Nb5  a6 12. Bxe6  Qxe6 13. Nbxd4  Bxd4 14. Nxd4  Nxd4 15. Qxd4  Rfe8 16. f3  g5 17. Bg3  c5 18. Qc3  Rad8 19. Rad1  b5 20. b3  b4 21. h4  bxc3 22. hxg5  hxg5 0-1

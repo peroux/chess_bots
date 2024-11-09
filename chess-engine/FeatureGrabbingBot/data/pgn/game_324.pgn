@@ -1,0 +1,16 @@
+[Event "Casual blitz game"]
+[Site "https://lichess.org/pa2FFEzg"]
+[Date "2023.01.24"]
+[White "WOLF_ALBERTO"]
+[Black "peterchero"]
+[Result "0-1"]
+[UTCDate "2023.01.24"]
+[UTCTime "21:17:16"]
+[WhiteElo "1217"]
+[BlackElo "1100"]
+[Variant "Standard"]
+[TimeControl "300+2"]
+[ECO "C44"]
+[Termination "Normal"]
+                
+1. e4  Nc6 2. Nf3  e5 3. d4  exd4 4. c3  dxc3 5. Bc4  Qf6 6. Qd5  Nd8 7. Bg5  cxb2 8. Bxf6  Nxf6 9. Qe5+  Ne6 10. Qxb2  Nxe4 11. O-O  Bc5 12. Bxe6  fxe6 13. Qxg7  Rf8 14. Qxh7  d5 15. Rc1  Bxf2+ 16. Kf1  b6 17. Rxc7  Ba6+ 18. Rc4  Bxc4# 0-1

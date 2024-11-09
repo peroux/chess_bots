@@ -1,0 +1,18 @@
+[Event "Rated blitz game"]
+[Site "https://lichess.org/lhxHtfF1"]
+[Date "2024.02.02"]
+[White "rocko13"]
+[Black "peterchero"]
+[Result "0-1"]
+[UTCDate "2024.02.02"]
+[UTCTime "04:35:15"]
+[WhiteElo "1329"]
+[BlackElo "1325"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+12"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C34"]
+[Termination "Normal"]
+                
+1. e4  e5 2. f4  exf4 3. Nf3  Nf6 4. d4  g6 5. e5  Nh5 6. Be2  Bh6 7. O-O  O-O 8. c4  d6 9. Qb3  Nc6 10. Nc3  dxe5 11. dxe5  Bg7 12. Nd5  Nxe5 13. Bxf4  Nxf4 14. Nxf4  Nxf3+ 15. Bxf3  Qd4+ 16. Kh1  Qxf4 17. Bd5  Qd6 18. Bxf7+  Rxf7 19. Rxf7  Kxf7 20. c5+  Qe6 21. Rf1+  Kg8 22. Qd3  Qd7 23. Qc4+  Kh8 24. h3  b5 25. cxb6  cxb6 26. Rf7  Qd1+ 27. Kh2  Be5+ 28. g3  Qd2+ 29. Kh1  Bb7+ 30. Rxb7  Qe1+ 31. Kg2  Qxg3+ 32. Kf1  Qf3+ 33. Ke1  Qxb7 34. Kd2  Qd7+ 0-1

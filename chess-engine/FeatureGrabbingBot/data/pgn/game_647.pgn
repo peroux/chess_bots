@@ -1,0 +1,18 @@
+[Event "Rated blitz game"]
+[Site "https://lichess.org/UfsAoEst"]
+[Date "2023.04.22"]
+[White "peterchero"]
+[Black "J4nczi"]
+[Result "0-1"]
+[UTCDate "2023.04.22"]
+[UTCTime "18:09:35"]
+[WhiteElo "1149"]
+[BlackElo "1214"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B23"]
+[Termination "Normal"]
+                
+1. e4  c5 2. Nc3  g6 3. Nf3  Bg7 4. Bd3  d6 5. O-O  Nf6 6. e5  dxe5 7. Bc4  e4 8. Ne1  Bg4 9. f3  exf3 10. Nxf3  Bxf3 11. Qxf3  Qd4+ 12. Kh1  Qxc4 13. Qxb7  Qxf1# 0-1

@@ -1,0 +1,16 @@
+[Event "Casual bullet game"]
+[Site "https://lichess.org/tQd0zc0d"]
+[Date "2024.08.06"]
+[White "peradajz"]
+[Black "peterchero"]
+[Result "1-0"]
+[UTCDate "2024.08.06"]
+[UTCTime "04:17:36"]
+[WhiteElo "1422"]
+[BlackElo "1400"]
+[Variant "Standard"]
+[TimeControl "120+1"]
+[ECO "C34"]
+[Termination "Normal"]
+                
+1. e4  e5 2. f4  exf4 3. Nf3  g6 4. d4  Bg7 5. c3  Ne7 6. Bxf4  O-O 7. Bc4  c6 8. O-O  d5 9. exd5  cxd5 10. Bb3  Nbc6 11. Ne5  Nxe5 12. dxe5  Be6 13. Bg5  Qb6+ 14. Kh1  Nc6 15. Nd2  Nxe5 16. Nf3  Nxf3 17. Qxf3  Rad8 18. Be3  Qd6 19. Bf4  Qe7 20. h3  a5 21. a4  b6 22. Rae1  f5 23. Be5  Bxe5 24. Rxe5  Rde8 25. Rfe1  Qf7 26. Qf2  Bd7 27. Qxb6  Rxe5 28. Rxe5  Re8 29. Rxe8+  Qxe8 30. Bxd5+  Kh8 31. Qf6# 1-0

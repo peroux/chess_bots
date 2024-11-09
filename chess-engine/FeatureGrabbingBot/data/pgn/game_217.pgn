@@ -1,0 +1,18 @@
+[Event "Rated bullet game"]
+[Site "https://lichess.org/Ma6Cqiva"]
+[Date "2023.05.03"]
+[White "mirza54"]
+[Black "peterchero"]
+[Result "1-0"]
+[UTCDate "2023.05.03"]
+[UTCTime "22:29:39"]
+[WhiteElo "1199"]
+[BlackElo "1229"]
+[WhiteRatingDiff "+21"]
+[BlackRatingDiff "-8"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "D53"]
+[Termination "Normal"]
+                
+1. d4  d5 2. c4  Nf6 3. Nc3  e6 4. Bg5  Be7 5. e4  dxe4 6. Bxf6  Bxf6 7. Nxe4  O-O 8. Nxf6+  Qxf6 9. Nf3  e5 10. d5  Bg4 11. Be2  c6 12. O-O  cxd5 13. cxd5  Nd7 14. h3  Bxf3 15. Bxf3  Rad8 16. Re1  Nb6 17. Qe2  Rfe8 18. Qb5  Nxd5 19. Bxd5  Rxd5 20. Qxd5  Qe7 21. Rad1  Kh8 22. Re4  h6 23. Rde1  Qb4 24. Rxe5  Rxe5 25. Rxe5  Qxb2 26. Re8+  Kh7 27. Qxf7  Qc1+ 28. Kh2  Qc7+ 29. Qxc7  Kg6 30. Qe7  Kf5 31. Qe6+  Kg5 32. Qe5+  Kg6 33. Re7  Kh7 34. Qxg7# 1-0

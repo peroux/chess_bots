@@ -1,0 +1,18 @@
+[Event "Rated blitz game"]
+[Site "https://lichess.org/NZ0TVzeK"]
+[Date "2024.02.03"]
+[White "peterchero"]
+[Black "trashram"]
+[Result "1-0"]
+[UTCDate "2024.02.03"]
+[UTCTime "04:58:17"]
+[WhiteElo "1363"]
+[BlackElo "1364"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A40"]
+[Termination "Normal"]
+                
+1. d4  c6 2. Nf3  d5 3. g3  Bf5 4. Bg2  e6 5. O-O  Be7 6. b3  Nd7 7. c4  Ngf6 8. Nc3  a6 9. Ne5  Rc8 10. Bf4  c5 11. cxd5  Nxd5 12. Nxd5  exd5 13. Bxd5  Nxe5 14. dxe5  O-O 15. f3  b5 16. e4  Bd7 17. Qc2  Qb6 18. Be3  Qb7 1-0

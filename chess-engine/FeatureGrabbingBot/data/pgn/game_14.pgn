@@ -1,0 +1,16 @@
+[Event "Casual blitz game"]
+[Site "https://lichess.org/Kf4FfYNV"]
+[Date "2024.10.06"]
+[White "jaalzate"]
+[Black "peterchero"]
+[Result "1-0"]
+[UTCDate "2024.10.06"]
+[UTCTime "17:50:29"]
+[WhiteElo "1422"]
+[BlackElo "1415"]
+[Variant "Standard"]
+[TimeControl "300+0"]
+[ECO "C60"]
+[Termination "Normal"]
+                
+1. e4  e5 2. Nf3  Nc6 3. Bb5  Qf6 4. O-O  Bc5 5. Nc3  Nge7 6. d3  O-O 7. Bg5  Qe6 8. Bc4  Qd6 9. Nb5 1-0

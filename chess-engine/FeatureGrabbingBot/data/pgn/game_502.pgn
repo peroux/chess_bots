@@ -1,0 +1,18 @@
+[Event "Rated bullet game"]
+[Site "https://lichess.org/HBDqDy6M"]
+[Date "2024.02.07"]
+[White "peterchero"]
+[Black "lhazapatista"]
+[Result "1-0"]
+[UTCDate "2024.02.07"]
+[UTCTime "02:05:42"]
+[WhiteElo "1400"]
+[BlackElo "1449"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "D02"]
+[Termination "Time forfeit"]
+                
+1. d4  d5 2. Nf3  g6 3. g3  Bg7 4. Bg2  f6 5. O-O  Be6 6. b3  Bf7 7. c4  Nc6 8. e3  dxc4 9. bxc4  Bxc4 10. Qc2  Bxf1 11. Kxf1  Qd6 12. Nc3  e5 13. Qb3  O-O-O 14. Ba3  exd4 15. Bxd6  Rxd6 16. exd4  Nge7 17. Rd1  f5 18. Ne5  Nd5 19. Bxd5  Na5 20. Qb2  Rxd5 21. Nxd5  Bxe5 22. dxe5  Nc4 23. Ne7+  Kb8 24. Qc3  b5 25. Rd5 1-0

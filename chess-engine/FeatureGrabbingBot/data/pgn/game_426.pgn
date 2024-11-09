@@ -1,0 +1,16 @@
+[Event "Casual blitz game"]
+[Site "https://lichess.org/mrY1ll42"]
+[Date "2024.09.02"]
+[White "peterchero"]
+[Black "elliotsimpson_hf"]
+[Result "1-0"]
+[UTCDate "2024.09.02"]
+[UTCTime "17:00:47"]
+[WhiteElo "1415"]
+[BlackElo "1217"]
+[Variant "Standard"]
+[TimeControl "300+2"]
+[ECO "A49"]
+[Termination "Normal"]
+                
+1. d4  Nf6 2. Nf3  g6 3. g3  Bg7 4. Bg2  d5 5. O-O  O-O 6. c3  Nc6 7. Nbd2  Re8 8. e4  dxe4 9. Ne5  Bg4 10. Nxg4 1-0

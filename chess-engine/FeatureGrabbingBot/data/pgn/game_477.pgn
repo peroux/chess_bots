@@ -1,0 +1,16 @@
+[Event "Casual rapid game"]
+[Site "https://lichess.org/SBXD224s"]
+[Date "2024.06.14"]
+[White "peterchero"]
+[Black "li4nosTb"]
+[Result "1-0"]
+[UTCDate "2024.06.14"]
+[UTCTime "02:43:58"]
+[WhiteElo "1507"]
+[BlackElo "1612"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "A41"]
+[Termination "Normal"]
+                
+1. d4  d6 2. Nf3  c6 3. g3  Nd7 4. Bg2  Ngf6 5. O-O  h5 6. Nc3  h4 7. Nxh4  Rxh4 8. gxh4  Ng4 9. e3  e6 10. Qxg4  Be7 11. Qxg7  Bxh4 12. Ne4  Qe7 13. Nxd6+  Qxd6 14. Qh8+  Nf8 15. Qxh4  e5 16. Bh3  Ng6 17. Qh5  Bxh3 18. Qxh3  Ke7 19. e4  Rh8 20. Bg5+  f6 21. Bxf6+  Qxf6 22. Qf5  exd4 23. Qxf6+  Kxf6 24. Rfd1  c5 25. Rd3  Nf4 26. Rf3  Ke5 27. Re1  b5 28. c3  d3 29. Rd1  Rg8+ 30. Kf1  Kxe4 31. Rxf4+  Kxf4 32. Rxd3  c4 33. Rd4+  Ke5 34. f4+  Ke6 35. Kf2  Rh8 36. Kg3  Rg8+ 37. Kf2  Rh8 38. Kg2  Rg8+ 39. Kh1  Kf5 40. h3  Rg3 41. Kh2  Re3 42. h4  Re2+ 43. Kg3  Rxb2 44. h5  Rxa2 45. h6  Ra6 46. h7  Rh6 47. Rd7  Kg6 48. f5+  Kxf5 49. Rg7  Kf6 50. Rxa7  Kg6 51. Ra5  Kxh7 52. Rxb5  Rc6 53. Kf3  Kg7 54. Ke3  Kf7 55. Kd4  Ke6 56. Rc5  Rd6+ 57. Kxc4  Kd7 58. Rd5  Rxd5 59. Kxd5  Kc7 60. c4  Kd7 61. Kc5  Kc7 62. Kd4  Kc6 63. Kc3  Kc5 64. Kd3  Kd6 65. Ke4  Kc5 66. Kd3  Kd6 67. Kd4  Kc6 68. c5  Kd7 69. Kd5  Kc7 70. Kc4  Kc6 71. Kb4  Kc7 72. Ka5  Kb7 73. Kb5  Kc7 74. c6  Kb8 75. Kb6  Ka8 76. Kc7  Ka7 77. Kd7  Kb8 78. c7+  Kb7 79. c8=Q+  Ka7 80. Kd6  Kb6 81. Qc4  Kb7 82. Qc5  Kb8 83. Qc6  Ka7 84. Qb5  Ka8 85. Kc7  Ka7 86. Qb7# 1-0

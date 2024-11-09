@@ -1,0 +1,18 @@
+[Event "Rated bullet game"]
+[Site "https://lichess.org/B7i3kXcW"]
+[Date "2023.04.23"]
+[White "GladR1"]
+[Black "peterchero"]
+[Result "0-1"]
+[UTCDate "2023.04.23"]
+[UTCTime "17:27:56"]
+[WhiteElo "1317"]
+[BlackElo "1297"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+16"]
+[Variant "Standard"]
+[TimeControl "120+1"]
+[ECO "C44"]
+[Termination "Normal"]
+                
+1. e4  e5 2. Nf3  Nc6 3. d4  exd4 4. Nxd4  Nxd4 5. Qxd4  Nf6 6. e5  c5 7. Qd3  Qa5+ 8. Nc3  c4 9. Qf5  Nd5 10. Bxc4  d6 11. Bxd5  Bxf5 0-1

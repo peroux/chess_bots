@@ -1,0 +1,16 @@
+[Event "Casual rapid game"]
+[Site "https://lichess.org/FeShhWao"]
+[Date "2023.04.14"]
+[White "AMKG"]
+[Black "peterchero"]
+[Result "0-1"]
+[UTCDate "2023.04.14"]
+[UTCTime "16:28:20"]
+[WhiteElo "1500"]
+[BlackElo "1502"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "C46"]
+[Termination "Normal"]
+                
+1. e4  e5 2. Nf3  Nc6 3. Nc3  b6 4. Bc4  Bb7 5. d3  Qf6 6. a3  O-O-O 7. Be3  Nh6 8. d4  exd4 9. Bxd4  Nxd4 10. Nxd4  Bc5 11. Nd5  Qxd4 12. Qxd4  Bxd4 13. O-O  Bxd5 14. Bxd5  c6 15. c3  cxd5 16. Rad1  Bf6 17. exd5  Rhe8 18. h3 0-1

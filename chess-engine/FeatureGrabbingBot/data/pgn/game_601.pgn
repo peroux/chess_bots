@@ -1,0 +1,18 @@
+[Event "Rated bullet game"]
+[Site "https://lichess.org/ProIFce9"]
+[Date "2023.05.07"]
+[White "peterchero"]
+[Black "Foplo33c"]
+[Result "0-1"]
+[UTCDate "2023.05.07"]
+[UTCTime "15:17:16"]
+[WhiteElo "1206"]
+[BlackElo "1263"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+31"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "C00"]
+[Termination "Time forfeit"]
+                
+1. e4  e6 2. Nf3  d5 3. exd5  exd5 4. g3  c5 5. Bg2  Nc6 6. O-O  Qb6 7. b3  Bd7 8. c4  Bd6 9. cxd5  Nce7 10. Nc3  Ng6 11. d4  cxd4 12. Nxd4  Nh6 13. Na4  O-O 14. Nxb6  axb6 15. Bf4  Rac8 16. Bxd6  Ne5 17. Ne6  Rfe8 18. Ng5  Bg4 19. Qd2  Nf3+ 20. Bxf3  Bxf3 21. Qe3  Ng4 22. Qxf3  Ne5 23. Rae1  Nd3 24. Rxe8+  Rxe8 25. Qxd3  h6 26. Qb5  f6 27. Qxb6  fxg5 28. Qxb7  Kh7 29. Bc7  Rh8 30. Rd1  g6 31. d6  h5 32. Bd8+  Kh6 33. Bf6  Rf8 34. d7  Rd8 35. Bxd8  Kh7 36. Be7  Kh6 37. d8=Q  Kh7 0-1

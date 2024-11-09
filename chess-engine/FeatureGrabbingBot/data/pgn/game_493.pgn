@@ -1,0 +1,16 @@
+[Event "Casual rapid game"]
+[Site "https://lichess.org/TyfMplCu"]
+[Date "2024.02.19"]
+[White "peterchero"]
+[Black "Nxri"]
+[Result "1-0"]
+[UTCDate "2024.02.19"]
+[UTCTime "18:18:34"]
+[WhiteElo "1504"]
+[BlackElo "1796"]
+[Variant "Standard"]
+[TimeControl "600+3"]
+[ECO "A46"]
+[Termination "Normal"]
+                
+1. d4  Nf6 2. Nf3  e6 3. g3  d5 4. Bg2  Be7 5. O-O  Nbd7 6. b3  c5 7. c4  dxc4 8. bxc4  cxd4 9. Nxd4  O-O 10. Nc3  Rb8 11. Be3  Bc5 12. Nxe6  fxe6 13. Bxc5  Re8 14. Bxa7  Ra8 15. Be3  Ra3 16. Nb5  Ra4 17. Qxa4 1-0

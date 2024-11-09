@@ -1,0 +1,18 @@
+[Event "Rated blitz game"]
+[Site "https://lichess.org/7MV93rtR"]
+[Date "2023.04.22"]
+[White "ICEMAN47"]
+[Black "peterchero"]
+[Result "1-0"]
+[UTCDate "2023.04.22"]
+[UTCTime "19:04:41"]
+[WhiteElo "1246"]
+[BlackElo "1147"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C50"]
+[Termination "Normal"]
+                
+1. e4  e5 2. Nf3  Nc6 3. Bc4  d6 4. d3  Nf6 5. Ng5  d5 6. Bb3  Bc5 7. exd5  Nxd5 8. Nxf7  Kxf7 9. Qf3+  Qf6 10. Bxd5+  Ke7 11. Qxf6+  gxf6 12. h4  Rg8 13. Bxc6  bxc6 14. O-O  Ba6 15. Be3  Bxe3 16. fxe3  Rad8 17. Nc3  Rg3 18. Ne4  Rg4 19. Nxf6  Rxh4 20. Ne4  Rf8 21. Rxf8  Kxf8 22. Rf1+  Ke7 23. Nc5  Kd6 24. b4  Bb5 25. a4  Rxb4 26. axb5  Rxb5 27. Ne4+  Kd5 28. c4+  Ke6 29. Rf6+  Ke7 30. Rxc6  Rb3 31. Rxc7+  Kd8 32. Rxa7  Rxd3 33. Kf2  Rd7 34. Rxd7+  Kxd7 35. g4  Ke6 36. Ng5+  Kf6 37. Nxh7+  Kg6 38. Nf8+  Kf7 39. Nd7  Ke6 40. Nc5+  Kd6 41. Nd3  e4 42. Nf4  Ke5 43. g5  Kf5 44. g6  Kf6 45. c5  Ke7 46. c6  Kd6 47. g7  Kxc6 48. g8=Q  Kd6 49. Qd5+  Kc7 50. Qxe4  Kd6 51. Qd4+  Kc7 52. e4  Kc6 53. e5  Kc7 54. e6  Kc6 55. e7  Kc7 56. e8=Q  Kb7 57. Qee4+  Ka6 58. Qed3+  Ka5 59. Q4c3+  Ka4 60. Qdc2+  Kb5 61. Q2b2+  Ka4 62. Qca3# 1-0

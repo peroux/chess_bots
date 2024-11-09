@@ -1,0 +1,18 @@
+[Event "Rated bullet game"]
+[Site "https://lichess.org/wTKIrWn1"]
+[Date "2023.05.29"]
+[White "Sherifallam"]
+[Black "peterchero"]
+[Result "0-1"]
+[UTCDate "2023.05.29"]
+[UTCTime "03:18:08"]
+[WhiteElo "1253"]
+[BlackElo "1201"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+9"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "A00"]
+[Termination "Time forfeit"]
+                
+1. e3  e5 2. b3  Nf6 3. Bb2  Bd6 4. Nf3  O-O 5. Nxe5  Qe7 6. Nf3  Nd5 7. Be2  c6 8. Nc3  Bc7 9. Nxd5  cxd5 10. O-O  Nc6 11. d3  d4 12. Nxd4  Nxd4 13. Bxd4  d5 14. Bf3  Be5 15. Bxd5  Qd6 16. Be4  Bxd4 17. exd4  Qxd4 18. Qh5  g6 19. Qf3  f5 20. Bxb7  Bxb7 21. Qxb7  Rae8 22. Qf3  Re7 23. g3  Rfe8 24. Qg2  Re2 25. Rac1  Rd2 26. Qf3  Qb2 27. a4  Rxc2 28. Rxc2  Qxc2 29. Qd5+  Kg7 30. Qd7+  Kh6 31. Qxe8  Qxb3 32. Re1  Qxd3 33. Qe3+  Qxe3 34. Rxe3  Kg7 0-1

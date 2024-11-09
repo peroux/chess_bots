@@ -1,0 +1,16 @@
+[Event "Casual blitz game"]
+[Site "https://lichess.org/cOLNB2pm"]
+[Date "2024.06.28"]
+[White "peterchero"]
+[Black "schlingi"]
+[Result "1-0"]
+[UTCDate "2024.06.28"]
+[UTCTime "17:50:21"]
+[WhiteElo "1415"]
+[BlackElo "1481"]
+[Variant "Standard"]
+[TimeControl "300+0"]
+[ECO "D02"]
+[Termination "Normal"]
+                
+1. d4  d5 2. Nf3  Nc6 3. g3  Bg4 4. Bg2  e6 5. O-O  Nge7 6. Bf4  Nf5 7. Nc3  Qf6 8. Nb5  O-O-O 9. Ne5  Nxe5 10. Bxe5  Qe7 11. Nxa7+  Kb8 12. Nb5  Rc8 13. Qd3  Qb4 14. a3  Qxb2 15. Rab1  Qa2 16. Rb3  Nd6 17. Rfb1  Bf5 18. e4  Bxe4 19. Bxe4  dxe4 20. Qe2  Nxb5 21. Qxb5  b6 22. Qxb6+  Ka8 23. Qb7# 1-0

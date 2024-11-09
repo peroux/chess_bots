@@ -1,0 +1,16 @@
+[Event "Casual bullet game"]
+[Site "https://lichess.org/YZwEaEze"]
+[Date "2024.07.02"]
+[White "svintus"]
+[Black "peterchero"]
+[Result "1-0"]
+[UTCDate "2024.07.02"]
+[UTCTime "05:34:23"]
+[WhiteElo "1107"]
+[BlackElo "1400"]
+[Variant "Standard"]
+[TimeControl "120+0"]
+[ECO "C50"]
+[Termination "Normal"]
+                
+1. e4  e5 2. Nf3  Nc6 3. Bc4  g6 4. c3  Bg7 5. d4  exd4 6. Ng5  d5 7. Bxd5  Ne5 8. cxd4  c6 9. dxe5  cxd5 10. Qf3  Be6 11. O-O  dxe4 12. Qxe4  Rc8 13. Be3  Bf5 14. Qa4+  Rc6 15. Qb3  Bh6 16. Qxf7# 1-0

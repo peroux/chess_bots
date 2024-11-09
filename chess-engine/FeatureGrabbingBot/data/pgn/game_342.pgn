@@ -1,0 +1,16 @@
+[Event "Casual bullet game"]
+[Site "https://lichess.org/nOJMF18z"]
+[Date "2022.12.29"]
+[White "myai2036"]
+[Black "peterchero"]
+[Result "0-1"]
+[UTCDate "2022.12.29"]
+[UTCTime "06:27:04"]
+[WhiteElo "1055"]
+[BlackElo "1306"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "C50"]
+[Termination "Time forfeit"]
+                
+1. e4  e5 2. Nf3  Nc6 3. Bc4  Nf6 4. Nc3  Bc5 5. d3  Ng4 6. Rf1  Nd4 7. Nxe5  Qh4 8. Bxf7+  Kd8 9. Nxg4  Nxc2+ 10. Qxc2  Rf8 11. Bd5  Bxf2+ 12. Rxf2  Rxf2 13. Kd1  Qxg4+ 0-1

@@ -1,0 +1,18 @@
+[Event "Rated bullet game"]
+[Site "https://lichess.org/wfqla6Ql"]
+[Date "2024.01.11"]
+[White "peterchero"]
+[Black "Sushmita_chess"]
+[Result "1-0"]
+[UTCDate "2024.01.11"]
+[UTCTime "02:30:38"]
+[WhiteElo "1272"]
+[BlackElo "1237"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-37"]
+[Variant "Standard"]
+[TimeControl "120+1"]
+[ECO "A40"]
+[Termination "Normal"]
+                
+1. d4  e5 2. dxe5  Nc6 3. Nf3  Qe7 4. g3  Nxe5 5. Nxe5  Qxe5 6. Bf4  Qxb2 7. Nc3  Qxc3+ 8. Qd2  Qxa1+ 9. Qd1  Qxd1+ 10. Kxd1  d6 11. Bg2  Be7 12. Kd2  Bf6 13. Re1  Ne7 14. e4  O-O 15. e5  dxe5 16. Bxe5  Bxe5 17. Rxe5  Bf5 18. Rxe7  Rfe8 19. Rxc7  Rab8 20. Rc5  Be4 21. f3  Bf5 22. Rxf5  Red8+ 23. Kc3  g6 24. Rc5  Rbc8 25. Rxc8  Rxc8+ 26. Kb2  Rc6 27. f4  b5 28. Bxc6  Kf8 29. Bxb5  Ke7 30. Kc3  Ke6 31. Kd2  Kd5 32. Ke3  Kc5 33. Be8  Kd6 34. Bxf7  Ke7 35. Bc4  Kf8 36. Bd3  Kg7 37. h4  h6 38. Kf3  g5 39. fxg5  hxg5 40. h5  Kf6 41. g4  Kg7 42. Ke4  Kf6 43. c4  Ke6 44. Kd4  Kd6 45. h6  Ke6 46. c5  Kf7 47. c6  Ke8 48. h7  Kf8 49. c7  Kg7 50. c8=Q  Kf7 51. h8=Q 1-0
