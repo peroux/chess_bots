@@ -1,0 +1,17 @@
+[Event "Casual blitz game"]
+[Site "https://lichess.org/OGdiZUR1"]
+[Date "2024.10.21"]
+[White "maia5"]
+[Black "peterchero"]
+[Result "1-0"]
+[UTCDate "2024.10.21"]
+[UTCTime "15:40:51"]
+[WhiteElo "1493"]
+[BlackElo "1351"]
+[WhiteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "300+3"]
+[ECO "D00"]
+[Termination "Normal"]
+                
+1. d4  d5 2. Bf4  Nf6 3. e3  g6 4. Nf3  Bg7 5. Be2  O-O 6. O-O  c5 7. c3  Nbd7 8. Nbd2  c4 9. b3  b5 10. a4  a6 11. axb5  Bb7 12. bxa6  Rxa6 13. bxc4  Rxa1 14. Qxa1  dxc4 15. Bxc4  Qb6 16. Rb1  Ra8 17. Rxb6  Rxa1+ 18. Rb1  Rxb1+ 19. Nxb1  Ne4 20. Nfd2  Nd6 21. Bxd6  exd6 22. Na3  d5 23. Bb5  Nb6 24. Nb3  Kf8 25. Nc5  Bc8 26. Kf1  Ke7 27. Ke2  Kf6 28. Kd3  Kf5 29. f3  Kg5 30. Be8  f5 31. Nb5  Kf6 32. Nd6  Be6 33. Nxe6  Kxe6 34. Nb5  Ke7 35. Bc6  Bf8 36. e4  f4 37. exd5  Kd8 38. c4  Na4 39. Ke4  g5 40. Kf5  h6 41. Kg6  Ke7 42. d6+  Ke6 43. d7  Ke7 44. d5  Nc5 45. d6+  Kd8 46. Kf7  Nxd7 47. Bxd7  Kxd7 48. Kxf8  Kc6 49. Ke7 1-0

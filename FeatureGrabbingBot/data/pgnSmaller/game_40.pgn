@@ -1,0 +1,16 @@
+[Event "Casual UltraBullet game"]
+[Site "https://lichess.org/HaaSQZur"]
+[Date "2024.08.04"]
+[White "snithik999"]
+[Black "peterchero"]
+[Result "0-1"]
+[UTCDate "2024.08.04"]
+[UTCTime "02:25:35"]
+[WhiteElo "1500"]
+[BlackElo "1500"]
+[Variant "Standard"]
+[TimeControl "15+0"]
+[ECO "C20"]
+[Termination "Time forfeit"]
+                
+1. e4  e5 2. Qh5  g6 3. Qg4  Bg7 4. f3  Nf6 5. Bb5  Nxg4 6. d4  c6 7. dxe5  d5 8. Bf4  dxe4 9. c4  Qd3 10. Bxc6+  Nxc6 11. e6  Nd4 12. e7  Qe2+ 13. Nxe2  Nxe2 14. Kxe2  Kd7 0-1

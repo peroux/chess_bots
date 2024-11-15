@@ -1,0 +1,16 @@
+[Event "Casual classical game"]
+[Site "https://lichess.org/Q7OudSb1"]
+[Date "2024.08.05"]
+[White "isbajwa005"]
+[Black "peterchero"]
+[Result "0-1"]
+[UTCDate "2024.08.05"]
+[UTCTime "19:12:22"]
+[WhiteElo "1500"]
+[BlackElo "1500"]
+[Variant "Standard"]
+[TimeControl "1800+0"]
+[ECO "D00"]
+[Termination "Normal"]
+                
+1. d4  d5 2. e3  g6 3. c4  Bg7 4. Nf3  Nf6 5. h3  O-O 6. Bd3  c6 7. a3  dxc4 8. Bxc4  b5 9. Bd3  Be6 10. b4  Nd5 11. Bb2  a5 12. e4  Nf4 13. O-O  axb4 14. axb4  Rxa1 15. Bxa1  Na6 16. Qd2  Nxd3 17. Qxd3  Nxb4 18. Qc3  c5 19. e5  Na6 20. dxc5  Qd5 21. Qa5  Nxc5 22. Qxb5  Ra8 23. Bd4  Rc8 24. Rc1  Bd7 25. Rxc5  Rxc5 26. Qxc5  Qb3 27. Nbd2  Qd3 28. Qxe7  Bc6 29. Qd8+  Bf8 30. Bc5  Qxd8 0-1

@@ -1,0 +1,18 @@
+[Event "Rated blitz game"]
+[Site "https://lichess.org/R3m9j6y6"]
+[Date "2024.10.17"]
+[White "bodjajmustapha"]
+[Black "peterchero"]
+[Result "0-1"]
+[UTCDate "2024.10.17"]
+[UTCTime "23:53:13"]
+[WhiteElo "1407"]
+[BlackElo "1354"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+21"]
+[Variant "Standard"]
+[TimeControl "180+2"]
+[ECO "C23"]
+[Termination "Normal"]
+                
+1. e4  e5 2. Bc4  g6 3. d3  Bg7 4. Bg5  Nf6 5. Nc3  O-O 6. Nd5  b5 7. Bxb5  c6 8. Bxf6  Bxf6 9. Nxf6+  Qxf6 10. Ba4  d5 11. exd5  cxd5 12. Nf3  Bb7 13. Qd2  Nc6 14. Bxc6  Bxc6 15. O-O-O  Rab8 16. Qc3  d4 17. Qc5  Bxf3 18. gxf3  a6 19. Qd5  Rb5 20. Qe4  Rfb8 21. b3  a5 22. a4  Rb4 23. Rhg1  Qe7 24. Qd5  Qc7 25. Qxa5  Rxb3 26. Kd2  Qxa5+ 27. Ke2  Rc3 28. Ra1  Rxc2+ 29. Kf1  Qd2 30. Rg2  Ra2 31. Re1  Qxd3+ 32. Kg1  Rb1 33. Rxb1  Qxb1# 0-1
