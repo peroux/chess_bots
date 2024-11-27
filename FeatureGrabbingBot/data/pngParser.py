@@ -1,8 +1,9 @@
 import os
 
 # Ensure there's a directory to store the split PGN files
-file_path = 'C:\\Users\\Peter\\Documents\\GitHub\\chess-engine\\data\\peterchero.pgn'
-output_dir = 'C:\\Users\\Peter\\Documents\\GitHub\\chess-engine\\data\\pgn'
+# file_path = 'C:\\Users\\Peter\\Documents\\GitHub\\chess-engine\\data\\peterchero.pgn' # windows path
+# output_dir = 'C:\\Users\\Peter\\Documents\\GitHub\\chess-engine\\data\\pgn' # windows path
+
 os.makedirs(output_dir, exist_ok=True)
 
 # Load the entire file into memory

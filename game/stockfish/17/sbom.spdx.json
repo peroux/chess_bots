@@ -1,0 +1,95 @@
+{
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "spdxVersion": "SPDX-2.3",
+  "name": "SBOM-SPDX-stockfish-17",
+  "creationInfo": {
+    "created": "2024-11-11T18:41:48Z",
+    "creators": [
+      "Tool: https://github.com/Homebrew/brew@4.4.1"
+    ]
+  },
+  "dataLicense": "CC0-1.0",
+  "documentNamespace": "https://formulae.brew.sh/spdx/stockfish-17.json",
+  "documentDescribes": [
+    "SPDXRef-Archive-stockfish-src",
+    "SPDXRef-Compiler",
+    "SPDXRef-Bottle-stockfish"
+  ],
+  "files": [
+
+  ],
+  "packages": [
+    {
+      "SPDXID": "SPDXRef-Archive-stockfish-src",
+      "name": "stockfish",
+      "versionInfo": "17",
+      "filesAnalyzed": false,
+      "licenseDeclared": "NOASSERTION",
+      "builtDate": "2024-09-06 14:53:45 UTC",
+      "licenseConcluded": "GPL-3.0-only",
+      "downloadLocation": "https://github.com/official-stockfish/Stockfish/archive/refs/tags/sf_17.tar.gz",
+      "copyrightText": "NOASSERTION",
+      "externalRefs": [
+
+      ],
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8f9b52285c3348c065b7cb58410626df16d7416a2e60a3b04f3ec7c038e67ad1"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-Compiler",
+      "name": "clang",
+      "versionInfo": "13.3.1",
+      "filesAnalyzed": false,
+      "licenseDeclared": "NOASSERTION",
+      "licenseConcluded": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "downloadLocation": "NOASSERTION",
+      "checksums": [
+
+      ],
+      "externalRefs": [
+
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-Bottle-stockfish",
+      "name": "stockfish",
+      "versionInfo": "17",
+      "filesAnalyzed": false,
+      "licenseDeclared": "NOASSERTION",
+      "builtDate": "2024-09-06 14:53:45 UTC",
+      "licenseConcluded": "GPL-3.0-only",
+      "downloadLocation": "https://ghcr.io/v2/homebrew/core/stockfish/blobs/sha256:912b422a2d146ee732c4cde82393546be33ebc530061277b76af0d0520dd31ec",
+      "copyrightText": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:brew/homebrew/core/stockfish@17",
+          "referenceType": "purl"
+        }
+      ],
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "912b422a2d146ee732c4cde82393546be33ebc530061277b76af0d0520dd31ec"
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "spdxElementId": "SPDXRef-File-stockfish",
+      "relationshipType": "PACKAGE_OF",
+      "relatedSpdxElement": "SPDXRef-Archive-stockfish-src"
+    },
+    {
+      "spdxElementId": "SPDXRef-Compiler",
+      "relationshipType": "BUILD_TOOL_OF",
+      "relatedSpdxElement": "SPDXRef-Package-stockfish-src"
+    }
+  ]
+}

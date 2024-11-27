@@ -9,14 +9,14 @@ import math
 from tqdm import tqdm
 
 # directory_path = "C:\\Users\\Peter\\Documents\\GitHub\\chess-engine\\FeatureGrabbingBot\\data\\pgn" # Windows path
-directory_path = "/Users/peterheroux/Documents/GitHub/chess_bots/FeatureGrabbingBot/data/pgn"  # Mac path
+directory_path = "/Users/peterheroux/Documents/GitHub/chess_bots/FeatureGrabbingBot/data/21chenhen_data/pgn"  # Mac path
 
 # Initialize an empty list to hold all the game data
 games_data = []
+top_five_moves = []
 
 engine = chess.engine.SimpleEngine.popen_uci("/opt/homebrew/bin/stockfish")
 
-start = datetime.now()
 
 def evaluate_position(board, engine, limit):
     info = engine.analyse(board, limit)
@@ -65,6 +65,7 @@ for game_data in tqdm(games_data, desc='Evaluating games'):
         # Step 1: Get the engine's best move and evaluation after that move
         info_before_move = engine.analyse(board, chess.engine.Limit(time=0.1))
         best_move = info_before_move['pv'][0]
+        
 
         # Make a copy of the board to test the engine's best move
         board_best = board.copy()
@@ -100,6 +101,9 @@ for game_data in tqdm(games_data, desc='Evaluating games'):
 
     game_data['Evaluation'] = evals
 
+    df = pd.DataFrame(games_data)
+    df.to_csv('21henchen_games_data.csv', index=False)
+
 # Now process the evaluations to calculate average centipawn loss per player
 for game_data in games_data:
     white_centipawn_losses = []
@@ -127,7 +131,7 @@ for game_data in games_data:
 
 # Optionally, save the DataFrame to a CSV file
 df = pd.DataFrame(games_data)
-df.to_csv('combined_games_data.csv', index=False)
+df.to_csv('21henchen_games_data.csv', index=False)
 
 # Display the DataFrame
 print(df.head())
