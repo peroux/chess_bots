@@ -8,7 +8,7 @@ This project is meant for chess enthusiasts and data analysts who want to explor
 ## Installation
 
 1. Download pyInstaller app from my google drive:
- https://drive.google.com/file/d/1x8U1RSsxzBWFM6m-dt2JQwwdlztzDcl9/view?usp=drive_link
+https://drive.google.com/file/d/1x8U1RSsxzBWFM6m-dt2JQwwdlztzDcl9/view?usp=sharing
 
 ## Usage
 
