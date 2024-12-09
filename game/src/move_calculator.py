@@ -8,7 +8,8 @@ from config import resource_path
 
 def load_engine_and_data():
     os.path.join('game/assets/sounds/move.wav')
-    engine = chess.engine.SimpleEngine.popen_uci(resource_path('game/stockfish/17/bin/stockfish'))
+    # engine = chess.engine.SimpleEngine.popen_uci(resource_path('game/stockfish/17/bin/stockfish'))
+    engine = chess.engine.SimpleEngine.popen_uci(resource_path('game\lc0-v0.31.2-windows-gpu-nvidia-cuda\lc0.exe'))
     
     # Load your data
     with open(resource_path('game/data/henrydata.csv'), "r") as dataset:

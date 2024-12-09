@@ -6,12 +6,15 @@ from sound import Sound
 from theme import Theme
 
 def resource_path(relative_path):
-        """Get the absolute path to the resource, works for dev and PyInstaller."""
-        if hasattr(sys, '_MEIPASS'):  # Check if running as a PyInstaller bundle
-            base_path = sys._MEIPASS
-        else:
-            base_path = os.path.abspath(".")
-        return os.path.join(base_path, relative_path)
+    """Get the absolute path to the resource, works for dev and PyInstaller."""
+    if hasattr(sys, '_MEIPASS'):  # Check if running as a PyInstaller bundle
+        base_path = sys._MEIPASS
+    else:
+        base_path = os.path.abspath("../..")
+    
+    # Join and normalize the path
+    return os.path.normpath(os.path.join(base_path, relative_path))
+
 
 class Config:
     

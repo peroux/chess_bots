@@ -114,7 +114,7 @@ class Main:
                                     game.play_sound(True)
                                 else:
                                     game.play_sound(False)
-                                move_num += 1
+                                
                             else:
                                 # Invalid move, reset piece position or show an error
                                 pass
@@ -157,7 +157,7 @@ class Main:
             if (board.chess_board.turn == chess.WHITE and bot_color == 'white') or \
             (board.chess_board.turn == chess.BLACK and bot_color == 'black'):
                 print("Bot is thinking...")
-                moves, acpl_list = eval_acpl_move(board.chess_board, self.engine, depth=13, num_lines=10)
+                moves, acpl_list = eval_acpl_move(board.chess_board, self.engine, depth=6, num_lines=10)
                 bot_move = find_closest_match(move_num, moves, acpl_list, self.centipawn_loss_dict, self.acpl_std_error, self.best_move_dict)
                 board.chess_board.push(bot_move)
                 board._update_board_state()
