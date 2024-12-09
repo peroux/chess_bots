@@ -7,6 +7,7 @@ from square import Square
 from move import Move
 from piece import *
 import chess
+import chess.pgn
 from move_calculator import eval_acpl_move, find_closest_match, load_engine_and_data
 
 class Main:
@@ -114,7 +115,6 @@ class Main:
                                     game.play_sound(True)
                                 else:
                                     game.play_sound(False)
-                                move_num += 1
                             else:
                                 # Invalid move, reset piece position or show an error
                                 pass
@@ -134,6 +134,13 @@ class Main:
                             board = self.game.board
                             dragger = self.game.dragger
 
+                        if event.key == pygame.K_u:
+                            print("Undoing last move...")
+                            board.chess_board.pop()
+                            board.chess_board.pop() # Pop twice to undo both player and bot moves
+                            board._update_board_state()
+                            move_num -= 2
+
             # Draw the game state
             game.show_bg(screen)
             game.show_last_move(screen)
@@ -150,6 +157,7 @@ class Main:
             if board.chess_board.is_game_over():
                 print("Game over.")
                 print("Result: ", board.chess_board.result())
+                print("Game PGN: \n" + str(chess.pgn.Game.from_board(self.board.chess_board)))
                 running = False
                 continue
 
@@ -157,7 +165,7 @@ class Main:
             if (board.chess_board.turn == chess.WHITE and bot_color == 'white') or \
             (board.chess_board.turn == chess.BLACK and bot_color == 'black'):
                 print("Bot is thinking...")
-                moves, acpl_list = eval_acpl_move(board.chess_board, self.engine, depth=13, num_lines=10)
+                moves, acpl_list = eval_acpl_move(board.chess_board, self.engine, depth=6, num_lines=10)
                 bot_move = find_closest_match(move_num, moves, acpl_list, self.centipawn_loss_dict, self.acpl_std_error, self.best_move_dict)
                 board.chess_board.push(bot_move)
                 board._update_board_state()
@@ -174,6 +182,6 @@ class Main:
         pygame.quit()
         sys.exit()
 
-
+        
 main = Main()
 main.mainloop()
